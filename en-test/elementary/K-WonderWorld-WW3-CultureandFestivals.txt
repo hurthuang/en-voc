@@ -1,0 +1,6 @@
+ghost	鬼魂	⠣⠕⠌
+jack-o'-lantern	南瓜燈	⠚⠁⠉⠅⠤⠕⠄⠤⠇⠁⠝⠞⠻⠝
+mummy	木乃伊	⠍⠥⠍⠍⠽
+vampire	吸血鬼	⠧⠁⠍⠏⠊⠗⠑
+witch	女巫	⠺⠊⠞⠡
+Happy Halloween!	萬聖節快樂！	⠠⠓⠁⠏⠏⠽⠀⠠⠓⠁⠇⠇⠪⠑⠢⠖

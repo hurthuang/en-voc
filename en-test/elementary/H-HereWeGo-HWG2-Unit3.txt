@@ -1,0 +1,17 @@
+grandfather(grandpa)	爺爺	⠛⠗⠯⠐⠋
+grandmother(grandma)	奶奶	⠛⠗⠯⠐⠍
+father(dad)	爸爸	⠐⠋
+mother(mom)	媽媽	⠐⠍
+brother	哥哥；弟弟	⠃⠗⠕⠮⠗
+sister	姐姐；妹妹	⠎⠊⠌⠻
+tall	高的	⠞⠁⠇⠇
+short	矮的	⠩⠕⠗⠞
+who	誰	⠱⠕
+he	他	⠓⠑
+she	她	⠩⠑
+hop	單腳跳	⠓⠕⠏
+mop	拖；擦	⠍⠕⠏
+top	陀螺	⠞⠕⠏
+dot	圓點	⠙⠕⠞
+hot	熱的	⠓⠕⠞
+pot	鍋子	⠏⠕⠞

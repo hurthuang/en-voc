@@ -1,0 +1,6 @@
+have a haircut	剪頭髮	⠓⠀⠁⠀⠓⠁⠊⠗⠉⠥⠞
+have a party	舉辦派對	⠓⠀⠁⠀⠐⠏⠽
+have a picnic	野餐	⠓⠀⠁⠀⠏⠊⠉⠝⠊⠉
+stay at home	待在家裡	⠌⠁⠽⠀⠁⠞⠀⠓⠕⠍⠑
+study in the library	在圖書館讀書	⠌⠥⠙⠽⠀⠔⠀⠮⠀⠇⠊⠃⠗⠜⠽
+take a trip	旅行	⠞⠁⠅⠑⠀⠁⠀⠞⠗⠊⠏

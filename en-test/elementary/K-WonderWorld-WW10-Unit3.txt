@@ -1,0 +1,8 @@
+sushi	壽司	⠎⠥⠩⠊
+bibimbap	韓式拌飯	⠃⠊⠃⠊⠍⠃⠁⠏
+tacos	墨西哥夾餅（複數）	⠞⠁⠉⠕⠎
+sausages	香腸（複數）	⠎⠁⠥⠎⠁⠛⠑⠎
+Japan	日本	⠠⠚⠁⠏⠁⠝
+South Korea	南韓	⠠⠎⠳⠹⠀⠠⠅⠕⠗⠑⠁
+Mexico	墨西哥	⠠⠍⠑⠭⠊⠉⠕
+Germany	德國	⠠⠛⠻⠸⠍

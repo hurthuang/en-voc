@@ -1,0 +1,14 @@
+do my homework	做我的作業	⠙⠀⠍⠽⠀⠓⠕⠍⠑⠐⠺
+have breakfast	吃早餐	⠓⠀⠃⠗⠂⠅⠋⠁⠌
+have lunch	吃午餐	⠓⠀⠇⠥⠝⠡
+have dinner	吃晚餐	⠓⠀⠙⠔⠝⠻
+get up	起床	⠛⠑⠞⠀⠥⠏
+go to school	上學	⠛⠀⠞⠕⠀⠎⠡⠕⠕⠇
+go home	回家	⠛⠀⠓⠕⠍⠑
+go to bed	上床睡覺	⠛⠀⠞⠕⠀⠃⠫
+house	房屋	⠓⠳⠎⠑
+mouse	老鼠	⠍⠳⠎⠑
+shout	吼叫	⠩⠳⠞
+clown	小丑	⠉⠇⠪⠝
+owl	貓頭鷹	⠪⠇
+shower	淋浴	⠩⠪⠻

@@ -1,0 +1,7 @@
+dance	跳舞	⠙⠨⠑
+draw	畫圖	⠙⠗⠁⠺
+sing	唱歌	⠎⠬
+swim	游泳	⠎⠺⠊⠍
+fly a kite	放風箏	⠋⠇⠽⠀⠁⠀⠅⠊⠞⠑
+ride a bike	騎腳踏車	⠗⠊⠙⠑⠀⠁⠀⠃⠊⠅⠑
+can	會；能夠	⠉

@@ -1,0 +1,41 @@
+thank	v. 感謝	⠹⠁⠝⠅
+name	n. 名字	⠐⠝
+How old...?	⋯⋯幾歲？	⠠⠓⠪⠀⠕⠇⠙⠲⠲⠲⠦
+year(s) old	⋯⋯歲	⠽⠑⠜⠀⠕⠇⠙
+family	n. 家人；家庭	⠋⠁⠍⠊⠇⠽
+husband	n. 丈夫	⠓⠥⠎⠃⠯
+wife	n. 妻子	⠺⠊⠋⠑
+uncle	n. 叔（伯）父；姑（姨）丈；舅舅	⠥⠝⠉⠇⠑
+aunt	n. 嬸嬸；伯母；姑（姨）媽；舅媽	⠁⠥⠝⠞
+cousin	n. 堂（表）兄弟姐妹	⠉⠳⠎⠔
+son	n. 兒子	⠎⠕⠝
+daughter	n. 女兒	⠙⠁⠥⠣⠞⠻
+parent	n. 雙親之一	⠏⠜⠢⠞
+child	n. 孩子（children為複數形）	⠡
+young	adj. 年輕的	⠐⠽
+man	n. 男人（men為複數形）	⠍⠁⠝
+handsome	adj. 英俊的	⠓⠯⠐⠎
+our	det. 我們的	⠳⠗
+PE	n. 體育	⠠⠠⠏⠑
+really	adv. 真地	⠗⠂⠇⠇⠽
+classroom	n. 教室	⠉⠇⠁⠎⠎⠗⠕⠕⠍
+same	adj. 一樣的	⠎⠁⠍⠑
+class	n. 班級；課程	⠉⠇⠁⠎⠎
+again	adv. 再一次	⠁⠛
+Nice to meet you.	很高興認識你。	⠠⠝⠊⠉⠑⠀⠞⠕⠀⠍⠑⠑⠞⠀⠽⠳⠲
+too	adv. 也；太	⠞⠕⠕
+news	n. 消息；新聞	⠝⠑⠺⠎
+problem	n. 問題	⠏⠗⠕⠃⠇⠑⠍
+strict	adj. 嚴格的	⠌⠗⠊⠉⠞
+junior high school	n. 國民中學	⠚⠥⠝⠊⠕⠗⠀⠓⠊⠣⠀⠎⠡⠕⠕⠇
+warm	adj. 溫暖的	⠺⠜⠍
+farmer	n. 農夫	⠋⠜⠍⠻
+cook	n. 廚師；v. 煮	⠉⠕⠕⠅
+nurse	n. 護理師；護士	⠝⠥⠗⠎⠑
+beautiful	adj. 漂亮的；美麗的	⠃⠂⠥⠞⠊⠰⠇
+woman	n. 女人（women為複數形）	⠺⠕⠍⠁⠝
+doctor	n. 醫生	⠙⠕⠉⠞⠕⠗
+senior high school	n. 高級中學	⠎⠢⠊⠕⠗⠀⠓⠊⠣⠀⠎⠡⠕⠕⠇
+pet	n. 寵物	⠏⠑⠞
+cute	adj. 可愛的	⠉⠥⠞⠑
+nice	adj. 好的；好心的	⠝⠊⠉⠑

@@ -1,0 +1,44 @@
+earthquake	地震	⠑⠜⠹⠟⠥⠁⠅⠑
+cover	遮蓋；遮蔽；封面	⠉⠕⠧⠻
+typhoon	颱風	⠞⠽⠏⠓⠕⠕⠝
+candle	蠟燭	⠉⠯⠇⠑
+smoke alarm	煙霧警報器	⠎⠍⠕⠅⠑⠀⠁⠇⠜⠍
+elevator	電梯	⠑⠇⠑⠧⠁⠞⠕⠗
+raise	舉起；增加	⠗⠁⠊⠎⠑
+pull	拉；抽出	⠏⠥⠇⠇
+push	推；按	⠏⠥⠩
+rich	富有的；豐富的	⠗⠊⠡
+deep	深的	⠙⠑⠑⠏
+hold / held on	緊緊抓牢；堅持下去	⠓⠕⠇⠙⠀⠸⠌⠀⠓⠑⠇⠙⠀⠕⠝
+abroad	在國外	⠁⠃⠗⠕⠁⠙
+dangerous	危險的	⠙⠁⠝⠛⠻⠳⠎
+moment	時刻	⠍⠕⠰⠞
+hear / heard	聽到	⠓⠑⠜⠀⠸⠌⠀⠓⠑⠜⠙
+someone (somebody)	某人	⠐⠎⠐⠕
+scary	嚇人的	⠎⠉⠜⠽
+fall / fell off	（從⋯⋯）掉下	⠋⠁⠇⠇⠀⠸⠌⠀⠋⠑⠇⠇⠀⠷⠋
+cut / cut	割傷；切	⠉⠥⠞⠀⠸⠌⠀⠉⠥⠞
+nothing	沒有事情；沒有東西	⠝⠕⠹⠬
+scene	場景	⠎⠉⠢⠑
+leading	主要的	⠇⠂⠙⠬
+real-life	真實生活中的	⠗⠂⠇⠤⠇⠊⠋⠑
+ever	在任何時候	⠐⠑
+go / went out	（燈、火）熄滅	⠛⠀⠸⠌⠀⠺⠢⠞⠀⠳
+lesson	教訓；（一節）課	⠇⠑⠎⠎⠕⠝
+land	陸地；降落	⠇⠯
+several	數個的	⠎⠐⠑⠁⠇
+grow / grew	成長；增加	⠛⠗⠪⠀⠸⠌⠀⠛⠗⠑⠺
+gray	灰色的；灰色	⠛⠗⠁⠽
+dozen	一打	⠙⠕⠵⠢
+scared	感到害怕的	⠎⠉⠜⠫
+window	窗戶	⠺⠔⠙⠪
+sight	景象	⠎⠊⠣⠞
+surprise	驚訝；使⋯⋯驚訝	⠎⠥⠗⠏⠗⠊⠎⠑
+flood	淹沒；洪水	⠋⠇⠕⠕⠙
+apartment	公寓	⠁⠐⠏⠰⠞
+except	除了⋯⋯之外	⠑⠭⠉⠑⠏⠞
+cookie	餅乾	⠉⠕⠕⠅⠊⠑
+drawer	抽屜	⠙⠗⠁⠺⠻
+quite	相當地	⠟
+angry	生氣的	⠁⠝⠛⠗⠽
+fool	傻瓜；愚弄	⠋⠕⠕⠇

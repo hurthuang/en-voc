@@ -1,0 +1,7 @@
+tired	疲累的	⠞⠊⠗⠫
+angry	生氣的	⠁⠝⠛⠗⠽
+happy	快樂的	⠓⠁⠏⠏⠽
+sad	難過的	⠎⠁⠙
+yes	是的	⠽⠑⠎
+no	不	⠝⠕
+not	不是	⠝

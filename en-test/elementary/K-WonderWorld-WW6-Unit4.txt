@@ -1,0 +1,8 @@
+jacket	夾克	⠚⠁⠉⠅⠑⠞
+smartphone	智慧型手機	⠎⠍⠜⠞⠏⠓⠐⠕
+umbrella	雨傘	⠥⠍⠃⠗⠑⠇⠇⠁
+watch	手錶	⠺⠁⠞⠡
+water bottle	水壺	⠺⠁⠞⠻⠀⠃⠕⠞⠞⠇⠑
+keys	鑰匙	⠅⠑⠽⠎
+glasses	眼鏡	⠛⠇⠁⠎⠎⠑⠎
+whose	誰的	⠘⠱

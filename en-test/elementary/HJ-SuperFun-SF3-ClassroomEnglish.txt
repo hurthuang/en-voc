@@ -1,0 +1,8 @@
+Let's go.	我們出發吧。	⠠⠇⠑⠞⠄⠎⠀⠛⠕⠲
+Hurry up.	快一點。	⠠⠓⠥⠗⠗⠽⠀⠥⠏⠲
+Time's up.	時間到。	⠠⠐⠞⠄⠎⠀⠥⠏⠲
+Show me your homework.	給我看看你的作業。	⠠⠩⠪⠀⠍⠑⠀⠽⠗⠀⠓⠕⠍⠑⠐⠺⠲
+Don't talk.	請勿交談。	⠠⠙⠕⠝⠄⠞⠀⠞⠁⠇⠅⠲
+Don't run.	請勿奔跑。	⠠⠙⠕⠝⠄⠞⠀⠗⠥⠝⠲
+Turn on the light.	請開燈。	⠠⠞⠥⠗⠝⠀⠕⠝⠀⠮⠀⠇⠊⠣⠞⠲
+Turn off the light.	請關燈。	⠠⠞⠥⠗⠝⠀⠷⠋⠀⠮⠀⠇⠊⠣⠞⠲

@@ -1,0 +1,11 @@
+eleven	十一	⠑⠇⠑⠧⠢
+twelve	十二	⠞⠺⠑⠇⠧⠑
+thirteen	十三	⠹⠊⠗⠞⠑⠢
+fourteen	十四	⠋⠳⠗⠞⠑⠢
+fifteen	十五	⠋⠊⠋⠞⠑⠢
+dad	爸爸	⠙⠁⠙
+mad	生氣的	⠍⠁⠙
+sad	傷心的	⠎⠁⠙
+cat	貓	⠉⠁⠞
+fat	胖的	⠋⠁⠞
+mat	墊子	⠍⠁⠞

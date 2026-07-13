@@ -1,0 +1,6 @@
+skate	溜冰	⠎⠅⠁⠞⠑
+spoon	湯匙	⠎⠏⠕⠕⠝
+skirt	裙子	⠎⠅⠊⠗⠞
+star	星星	⠌⠜
+spider	蜘蛛	⠎⠏⠊⠙⠻
+sticker	貼紙	⠌⠊⠉⠅⠻

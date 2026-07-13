@@ -1,0 +1,41 @@
+dress	洋裝	⠙⠗⠑⠎⠎
+on sale	特價	⠕⠝⠀⠎⠁⠇⠑
+shirt	襯衫	⠩⠊⠗⠞
+shorts	短褲	⠩⠕⠗⠞⠎
+jeans	牛仔褲	⠚⠂⠝⠎
+sweater	毛衣	⠎⠺⠂⠞⠻
+jacket	夾克	⠚⠁⠉⠅⠑⠞
+skirt	裙子	⠎⠅⠊⠗⠞
+ring	戒指	⠗⠬
+sock	襪子	⠎⠕⠉⠅
+cap	（有帽舌的）帽子	⠉⠁⠏
+tie	領帶	⠞⠊⠑
+belt	腰帶	⠃⠑⠇⠞
+pants	長褲	⠏⠁⠝⠞⠎
+wallet	錢包	⠺⠁⠇⠇⠑⠞
+a pair of	一件（褲子）；一雙（鞋）	⠁⠀⠏⠁⠊⠗⠀⠷
+glove	手套	⠛⠇⠕⠧⠑
+try on	試穿	⠞⠗⠽⠀⠕⠝
+take / took off	脫下	⠞⠁⠅⠑⠀⠸⠌⠀⠞⠕⠕⠅⠀⠷⠋
+be full of	充滿	⠆⠀⠋⠥⠇⠇⠀⠷
+fashionable	流行的；時尚的	⠋⠁⠩⠊⠕⠝⠁⠃⠇⠑
+as... as...	如同⋯⋯一樣地⋯⋯	⠁⠎⠲⠲⠲⠀⠁⠎⠲⠲⠲
+than	比；比較	⠹⠁⠝
+already	已經	⠁⠇⠗
+fashion	流行；時尚	⠋⠁⠩⠊⠕⠝
+medium	中等尺寸；中等的	⠍⠫⠊⠥⠍
+fitting room	試衣間	⠋⠊⠞⠞⠬⠀⠗⠕⠕⠍
+agree	同意	⠁⠛⠗⠑⠑
+comfortable	舒服的	⠉⠕⠍⠿⠞⠁⠃⠇⠑
+light	輕薄的	⠇⠊⠣⠞
+recycle	回收	⠗⠑⠉⠽⠉⠇⠑
+planet	星球	⠏⠇⠁⠝⠑⠞
+business	公司；生意	⠃⠥⠎⠊⠰⠎
+customer	顧客	⠉⠥⠌⠕⠍⠻
+actually	實際上	⠁⠉⠞⠥⠁⠇⠇⠽
+owner	所有人	⠪⠝⠻
+item	項目	⠊⠞⠑⠍
+fresh	新鮮的	⠋⠗⠑⠩
+mean / meant	意指	⠍⠂⠝⠀⠸⠌⠀⠍⠂⠝⠞
+Earth	地球	⠑⠜⠹
+turn (...) into...	（使）成為⋯⋯	⠞⠥⠗⠝⠀⠀⠔⠞⠕⠲⠲⠲

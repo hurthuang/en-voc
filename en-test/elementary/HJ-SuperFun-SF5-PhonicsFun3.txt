@@ -1,0 +1,8 @@
+thin	瘦的	⠹⠔
+this	這個	⠹
+three	三（數字）	⠹⠗⠑⠑
+that	那個	⠞
+teeth	牙齒（複數）	⠞⠑⠑⠹
+father	父親	⠐⠋
+bath	泡澡	⠃⠁⠹
+mother	母親	⠐⠍

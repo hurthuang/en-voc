@@ -1,0 +1,15 @@
+one	一	⠐⠕
+two	二	⠞⠺⠕
+three	三	⠹⠗⠑⠑
+four	四	⠋⠳⠗
+five	五	⠋⠊⠧⠑
+ant	螞蟻	⠁⠝⠞
+apple	蘋果	⠁⠏⠏⠇⠑
+bag	袋子	⠃⠁⠛
+boy	男孩	⠃⠕⠽
+cat	貓	⠉⠁⠞
+cup	杯子	⠉⠥⠏
+dog	狗	⠙⠕⠛
+duck	鴨子	⠙⠥⠉⠅
+egg	蛋	⠑⠛⠛
+elephant	大象	⠑⠇⠑⠏⠓⠁⠝⠞

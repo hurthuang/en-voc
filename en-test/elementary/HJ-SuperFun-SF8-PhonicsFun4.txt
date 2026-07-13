@@ -1,0 +1,6 @@
+knee	膝蓋	⠅⠝⠑⠑
+wrench	扳手	⠺⠗⠢⠡
+knife	刀子	⠅⠝⠊⠋⠑
+comb	梳子	⠉⠕⠍⠃
+wreath	花圈	⠺⠗⠂⠹
+thumb	拇指	⠹⠥⠍⠃

@@ -1,0 +1,15 @@
+juice	果汁	⠚⠥⠊⠉⠑
+milk	牛奶	⠍⠊⠇⠅
+tea	茶	⠞⠑⠁
+water	水	⠺⠁⠞⠻
+cake	蛋糕	⠉⠁⠅⠑
+ice cream	冰淇淋	⠊⠉⠑⠀⠉⠗⠂⠍
+pizza	披薩	⠏⠊⠵⠵⠁
+rice	米飯	⠗⠊⠉⠑
+want	想要	⠺⠁⠝⠞
+some	一些	⠐⠎
+zip	拉上拉鍊	⠵⠊⠏
+zit	痘痘	⠵⠊⠞
+sip	啜飲	⠎⠊⠏
+sack	大布袋	⠎⠁⠉⠅
+sock	襪子	⠎⠕⠉⠅

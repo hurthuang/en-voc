@@ -1,0 +1,9 @@
+breakfast	早餐	⠃⠗⠂⠅⠋⠁⠌
+dinner	晚餐	⠙⠔⠝⠻
+rice	米飯	⠗⠊⠉⠑
+bread	麵包	⠃⠗⠂⠙
+soup	湯	⠎⠳⠏
+chicken	雞肉	⠡⠊⠉⠅⠢
+lunch	午餐	⠇⠥⠝⠡
+would like	想要	⠺⠙⠀⠇
+noodles	麵	⠝⠕⠕⠙⠇⠑⠎

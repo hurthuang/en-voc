@@ -1,0 +1,40 @@
+living room	n. 客廳	⠇⠊⠧⠬⠀⠗⠕⠕⠍
+bedroom	n. 臥室	⠃⠫⠗⠕⠕⠍
+bathroom	n. 浴室	⠃⠁⠹⠗⠕⠕⠍
+dining room	n. 飯廳	⠙⠔⠬⠀⠗⠕⠕⠍
+behind	prep. 在⋯⋯後面	⠆⠓
+in front of	prep. 在⋯⋯前面	⠔⠀⠋⠗⠕⠝⠞⠀⠷
+between	prep. 在⋯⋯中間	⠆⠞
+next to	prep. 在⋯⋯旁邊	⠝⠑⠭⠞⠀⠞⠕
+near	prep. 在⋯⋯附近	⠝⠑⠜
+please	int. 請	⠏⠇⠂⠎⠑
+house	n. 房子	⠓⠳⠎⠑
+quiet	adj. 安靜的	⠟⠥⠊⠑⠞
+style	n. 風格；款式	⠌⠽⠇⠑
+idea	n. 想法；點子	⠊⠙⠑⠁
+let's...	我們一起⋯⋯吧	⠇⠑⠞⠄⠎⠲⠲⠲
+get	v. 獲得	⠛⠑⠞
+some	adj. 一些的；pron. 一些	⠐⠎
+tool	n. 工具	⠞⠕⠕⠇
+smartphone	n. 智慧型手機	⠎⠍⠜⠞⠏⠓⠐⠕
+step	n. 步驟；一步	⠌⠑⠏
+upload	v. 上傳	⠥⠏⠇⠕⠁⠙
+photo	n. 相片	⠏⠓⠕⠞⠕
+choose	v. 選擇	⠡⠕⠕⠎⠑
+type	n. 種類	⠞⠽⠏⠑
+theme	n. 主題	⠮⠍⠑
+wait	v. 等待	⠺⠁⠊⠞
+expensive	adj. 昂貴的	⠑⠭⠏⠢⠎⠊⠧⠑
+with	prep. 對⋯⋯來說；和	⠾
+question	n. 問題	⠐⠟
+I see.	我了解了。	⠠⠊⠀⠎⠑⠑⠲
+soft	adj. 柔軟的	⠎⠷⠞
+hard	adj. 硬的	⠓⠜⠙
+in fact	事實上	⠔⠀⠋⠁⠉⠞
+around	prep. 圍繞；adv. 到處	⠜⠨⠙
+world	n. 世界	⠸⠺
+kitchen	n. 廚房	⠅⠊⠞⠡⠢
+beside	prep. 在⋯⋯旁邊	⠆⠎
+ice	n. 冰	⠊⠉⠑
+inside	prep. 在⋯⋯裡面；adv. 在室內	⠔⠎⠊⠙⠑
+blanket	n. 毛毯	⠃⠇⠁⠝⠅⠑⠞

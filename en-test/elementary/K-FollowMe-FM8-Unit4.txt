@@ -1,0 +1,17 @@
+bookstore	書店	⠃⠕⠕⠅⠌⠕⠗⠑
+bus stop	公車站	⠃⠥⠎⠀⠌⠕⠏
+coffee shop	咖啡廳	⠉⠷⠋⠑⠑⠀⠩⠕⠏
+movie theater	電影院	⠍⠕⠧⠊⠑⠀⠮⠁⠞⠻
+night market	夜市	⠝⠊⠣⠞⠀⠍⠜⠅⠑⠞
+restaurant	餐廳	⠗⠑⠌⠁⠥⠗⠁⠝⠞
+train station	火車站	⠞⠗⠁⠔⠀⠌⠁⠰⠝
+nearby	附近	⠝⠑⠜⠃⠽
+closed	關門的	⠉⠇⠕⠎⠫
+chicken pie	雞肉派	⠡⠊⠉⠅⠢⠀⠏⠊⠑
+card	卡片	⠉⠜⠙
+farm	農場	⠋⠜⠍
+park	公園	⠏⠜⠅
+corn	玉米	⠉⠕⠗⠝
+horse	馬	⠓⠕⠗⠎⠑
+short	短的	⠩⠕⠗⠞
+Let's hit the road!	我們出發吧！	⠠⠇⠑⠞⠄⠎⠀⠓⠊⠞⠀⠮⠀⠗⠕⠁⠙⠖

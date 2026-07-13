@@ -1,0 +1,7 @@
+beach	海灘	⠃⠂⠡
+forest	森林	⠿⠑⠌
+island	島嶼	⠊⠎⠇⠯
+lake	湖泊	⠇⠁⠅⠑
+mountain	山；山脈	⠍⠨⠞⠁⠔
+river	河流	⠗⠊⠧⠻
+hot spring	溫泉	⠓⠕⠞⠀⠎⠏⠗⠬

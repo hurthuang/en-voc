@@ -1,0 +1,10 @@
+cleaned the room	整理房間（過去式）	⠉⠇⠂⠝⠫⠀⠮⠀⠗⠕⠕⠍
+cooked dinner	煮晚餐	⠉⠕⠕⠅⠫⠀⠙⠔⠝⠻
+played on-line games	玩線上遊戲	⠏⠇⠁⠽⠫⠀⠕⠝⠤⠇⠔⠑⠀⠛⠁⠍⠑⠎
+washed the dishes	洗碗盤	⠺⠁⠩⠫⠀⠮⠀⠙⠊⠩⠑⠎
+watched a movie	看電影	⠺⠁⠞⠡⠫⠀⠁⠀⠍⠕⠧⠊⠑
+watered the flowers	澆花	⠺⠁⠞⠻⠫⠀⠮⠀⠋⠇⠪⠻⠎
+visited a friend	拜訪朋友	⠧⠊⠎⠊⠞⠫⠀⠁⠀⠋⠗
+listened to music	聽音樂	⠇⠊⠌⠢⠫⠀⠞⠕⠀⠍⠥⠎⠊⠉
+played the piano	彈鋼琴	⠏⠇⠁⠽⠫⠀⠮⠀⠏⠊⠁⠝⠕
+surfed the Internet	上網	⠎⠥⠗⠋⠫⠀⠮⠀⠠⠔⠞⠻⠝⠑⠞

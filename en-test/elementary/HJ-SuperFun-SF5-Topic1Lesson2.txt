@@ -1,0 +1,9 @@
+get up	起床	⠛⠑⠞⠀⠥⠏
+go to school	去上學	⠛⠀⠞⠕⠀⠎⠡⠕⠕⠇
+go home	回家	⠛⠀⠓⠕⠍⠑
+eat dinner	吃晚餐	⠑⠁⠞⠀⠙⠔⠝⠻
+do homework	做功課	⠙⠀⠓⠕⠍⠑⠐⠺
+take a shower	洗澡；淋浴	⠞⠁⠅⠑⠀⠁⠀⠩⠪⠻
+go to bed	去睡覺	⠛⠀⠞⠕⠀⠃⠫
+what time	幾點	⠱⠁⠞⠀⠐⠞
+at	在…（時刻）	⠁⠞

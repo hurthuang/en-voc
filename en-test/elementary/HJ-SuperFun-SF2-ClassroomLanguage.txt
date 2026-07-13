@@ -1,0 +1,8 @@
+Look.	你看。	⠠⠇⠕⠕⠅⠲
+Listen.	你聽。	⠠⠇⠊⠌⠢⠲
+Come here, please.	請過來這裡。	⠠⠉⠕⠍⠑⠀⠐⠓⠂⠀⠏⠇⠂⠎⠑⠲
+Go back to your seat.	回到你的位子。	⠠⠛⠀⠃⠁⠉⠅⠀⠞⠕⠀⠽⠗⠀⠎⠂⠞⠲
+Take out your book.	把你的書拿出來。	⠠⠞⠁⠅⠑⠀⠳⠀⠽⠗⠀⠃⠕⠕⠅⠲
+Put away your book.	把你的書收起來。	⠠⠏⠥⠞⠀⠁⠺⠁⠽⠀⠽⠗⠀⠃⠕⠕⠅⠲
+Repeat after me.	跟著我唸。	⠠⠗⠑⠏⠂⠞⠀⠁⠋⠀⠍⠑⠲
+Louder, please.	請大聲一點。	⠠⠇⠳⠙⠻⠂⠀⠏⠇⠂⠎⠑⠲

@@ -1,0 +1,22 @@
+cellphone	手機	⠉⠑⠇⠇⠏⠓⠐⠕
+key	鑰匙	⠅⠑⠽
+umbrella	雨傘	⠥⠍⠃⠗⠑⠇⠇⠁
+watch	手錶	⠺⠁⠞⠡
+water bottle	水壺	⠺⠁⠞⠻⠀⠃⠕⠞⠞⠇⠑
+glasses	眼鏡	⠛⠇⠁⠎⠎⠑⠎
+gloves	手套（glove的複數）	⠛⠇⠕⠧⠑⠎
+shoes	鞋子（shoe的複數）	⠩⠕⠑⠎
+whose	誰的	⠘⠱
+take a rest	休息	⠞⠁⠅⠑⠀⠁⠀⠗⠑⠌
+may	可以	⠍⠁⠽
+scary	嚇人的	⠎⠉⠜⠽
+Your Majesty	陛下	⠠⠽⠗⠀⠠⠍⠁⠚⠑⠌⠽
+those	那些	⠘⠹
+sunglasses	太陽眼鏡	⠎⠥⠝⠛⠇⠁⠎⠎⠑⠎
+skunk	臭鼬	⠎⠅⠥⠝⠅
+ski	滑雪	⠎⠅⠊
+spy	間諜	⠎⠏⠽
+spoon	湯匙	⠎⠏⠕⠕⠝
+stick	樹枝	⠌⠊⠉⠅
+stool	凳子	⠌⠕⠕⠇
+You're under my umbrella.	我會保護你。	⠠⠽⠄⠗⠑⠀⠐⠥⠀⠍⠽⠀⠥⠍⠃⠗⠑⠇⠇⠁⠲

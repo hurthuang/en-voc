@@ -1,0 +1,4 @@
+bat	蝙蝠	⠃⠁⠞
+ghost	鬼	⠣⠕⠌
+jack-o'-lantern	南瓜燈	⠚⠁⠉⠅⠤⠕⠄⠤⠇⠁⠝⠞⠻⠝
+spider	蜘蛛	⠎⠏⠊⠙⠻

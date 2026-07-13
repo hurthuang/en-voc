@@ -1,0 +1,7 @@
+two days ago	兩天前	⠞⠺⠕⠀⠐⠙⠎⠀⠁⠛⠕
+yesterday	昨天	⠽⠑⠌⠻⠐⠙
+last night	昨天晚上	⠇⠁⠌⠀⠝⠊⠣⠞
+two hours ago	兩個小時前	⠞⠺⠕⠀⠓⠳⠗⠎⠀⠁⠛⠕
+an hour ago	一個小時前	⠁⠝⠀⠓⠳⠗⠀⠁⠛⠕
+was	是（is/am的過去式）	⠴
+were	是（are的過去式）	⠶

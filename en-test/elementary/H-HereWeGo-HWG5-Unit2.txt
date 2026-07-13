@@ -1,0 +1,17 @@
+art	美術	⠜⠞
+Chinese	中文	⠠⠡⠔⠑⠎⠑
+English	英語	⠠⠢⠛⠇⠊⠩
+math	數學	⠍⠁⠹
+music	音樂	⠍⠥⠎⠊⠉
+PE	體育	⠠⠠⠏⠑
+science	自然	⠎⠉⠊⠰⠑
+social studies	社會	⠎⠕⠉⠊⠁⠇⠀⠌⠥⠙⠊⠑⠎
+does	（助動詞，第三人稱單數時用）	⠙⠕⠑⠎
+have	有	⠓
+class	課	⠉⠇⠁⠎⠎
+kite	風箏	⠅⠊⠞⠑
+nine	九	⠝⠔⠑
+tie	領帶	⠞⠊⠑
+pie	派	⠏⠊⠑
+fly	蒼蠅	⠋⠇⠽
+sky	天空	⠎⠅⠽

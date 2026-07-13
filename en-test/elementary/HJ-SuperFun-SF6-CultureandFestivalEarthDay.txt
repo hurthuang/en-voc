@@ -1,0 +1,6 @@
+plastic bag	塑膠袋	⠏⠇⠁⠌⠊⠉⠀⠃⠁⠛
+shopping bag	購物袋	⠩⠕⠏⠏⠬⠀⠃⠁⠛
+water bottle	水壺	⠺⠁⠞⠻⠀⠃⠕⠞⠞⠇⠑
+reusable fork and spoon	環保叉子和湯匙	⠗⠑⠥⠎⠁⠃⠇⠑⠀⠿⠅⠀⠯⠀⠎⠏⠕⠕⠝
+reusable cup and box	環保杯和餐盒	⠗⠑⠥⠎⠁⠃⠇⠑⠀⠉⠥⠏⠀⠯⠀⠃⠕⠭
+reusable straw	環保吸管	⠗⠑⠥⠎⠁⠃⠇⠑⠀⠌⠗⠁⠺

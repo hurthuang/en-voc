@@ -1,0 +1,15 @@
+Sunday	星期日	⠠⠎⠥⠝⠐⠙
+Monday	星期一	⠠⠍⠕⠝⠐⠙
+Tuesday	星期二	⠠⠞⠥⠑⠎⠐⠙
+Wednesday	星期三	⠠⠺⠫⠝⠑⠎⠐⠙
+Thursday	星期四	⠠⠹⠥⠗⠎⠐⠙
+Friday	星期五	⠠⠋⠗⠊⠐⠙
+Saturday	星期六	⠠⠎⠁⠞⠥⠗⠐⠙
+day	一天，一日	⠐⠙
+today	今天	⠞⠙
+hole	洞	⠓⠕⠇⠑
+mole	鼴鼠	⠍⠕⠇⠑
+boat	船	⠃⠕⠁⠞
+goat	山羊	⠛⠕⠁⠞
+snow	雪；下雪	⠎⠝⠪
+yellow	黃色的	⠽⠑⠇⠇⠪

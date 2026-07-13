@@ -1,0 +1,9 @@
+backpack	背包	⠃⠁⠉⠅⠏⠁⠉⠅
+cap	棒球帽	⠉⠁⠏
+lunchbox	午餐盒	⠇⠥⠝⠡⠃⠕⠭
+umbrella	雨傘	⠥⠍⠃⠗⠑⠇⠇⠁
+water bottle	水壺	⠺⠁⠞⠻⠀⠃⠕⠞⠞⠇⠑
+workbook	作業本	⠐⠺⠃⠕⠕⠅
+glasses	眼鏡	⠛⠇⠁⠎⠎⠑⠎
+shoes	鞋（複數）	⠩⠕⠑⠎
+whose	誰的	⠘⠱

@@ -1,0 +1,13 @@
+give flowers	送花	⠛⠊⠧⠑⠀⠋⠇⠪⠻⠎
+have a party	舉行派對	⠓⠀⠁⠀⠐⠏⠽
+sign yearbooks	簽畢業紀念冊	⠎⠊⠛⠝⠀⠽⠑⠜⠃⠕⠕⠅⠎
+clean the classroom	打掃教室	⠉⠇⠂⠝⠀⠮⠀⠉⠇⠁⠎⠎⠗⠕⠕⠍
+sing the graduation song	唱畢業歌	⠎⠬⠀⠮⠀⠛⠗⠁⠙⠥⠁⠰⠝⠀⠎⠰⠛
+die	死掉	⠙⠊⠑
+lie	躺	⠇⠊⠑
+pie	派	⠏⠊⠑
+tie	領帶	⠞⠊⠑
+bright	明亮的	⠃⠐⠗
+fight	吵架	⠋⠊⠣⠞
+light	光	⠇⠊⠣⠞
+sigh	嘆氣	⠎⠊⠣

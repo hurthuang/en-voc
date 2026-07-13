@@ -1,0 +1,6 @@
+nose	鼻子	⠝⠕⠎⠑
+rope	繩子	⠗⠕⠏⠑
+goat	山羊	⠛⠕⠁⠞
+road	道路	⠗⠕⠁⠙
+window	窗戶	⠺⠔⠙⠪
+snow	雪；下雪	⠎⠝⠪

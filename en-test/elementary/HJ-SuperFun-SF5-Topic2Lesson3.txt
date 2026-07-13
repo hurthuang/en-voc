@@ -1,0 +1,9 @@
+sunny	晴天的	⠎⠥⠝⠝⠽
+rainy	雨天的	⠗⠁⠔⠽
+cloudy	多雲的	⠉⠇⠳⠙⠽
+windy	起風的	⠺⠔⠙⠽
+hot	炎熱的	⠓⠕⠞
+cold	寒冷的	⠉⠕⠇⠙
+warm	溫暖的	⠺⠜⠍
+cool	涼爽的	⠉⠕⠕⠇
+weather	天氣	⠺⠂⠮⠗

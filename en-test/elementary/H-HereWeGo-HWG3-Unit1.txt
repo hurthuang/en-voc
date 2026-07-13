@@ -1,0 +1,15 @@
+sunny	晴朗的	⠎⠥⠝⠝⠽
+rainy	下雨的	⠗⠁⠔⠽
+cloudy	陰天的；多雲的	⠉⠇⠳⠙⠽
+windy	颳風的	⠺⠔⠙⠽
+hot	炎熱的	⠓⠕⠞
+warm	溫暖的	⠺⠜⠍
+cool	涼爽的	⠉⠕⠕⠇
+cold	寒冷的	⠉⠕⠇⠙
+weather	天氣	⠺⠂⠮⠗
+dot	圓點	⠙⠕⠞
+duck	鴨子	⠙⠥⠉⠅
+dig	挖	⠙⠊⠛
+tot	幼兒	⠞⠕⠞
+tuck	把⋯⋯塞進	⠞⠥⠉⠅
+ten	十	⠞⠢

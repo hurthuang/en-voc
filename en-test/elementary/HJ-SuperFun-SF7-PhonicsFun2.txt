@@ -1,0 +1,8 @@
+bird	鳥	⠃⠊⠗⠙
+nurse	護士	⠝⠥⠗⠎⠑
+dirty	髒的	⠙⠊⠗⠞⠽
+purple	紫色	⠏⠥⠗⠏⠇⠑
+girl	女孩	⠛⠊⠗⠇
+surf	衝浪	⠎⠥⠗⠋
+shirt	襯衫	⠩⠊⠗⠞
+turtle	烏龜	⠞⠥⠗⠞⠇⠑

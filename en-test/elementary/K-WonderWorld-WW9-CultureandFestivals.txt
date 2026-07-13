@@ -1,0 +1,24 @@
+January	一月	⠠⠚⠁⠝⠥⠜⠽
+February	二月	⠠⠋⠑⠃⠗⠥⠜⠽
+March	三月	⠠⠍⠜⠡
+April	四月	⠠⠁⠏⠗⠊⠇
+May	五月	⠍⠁⠽
+June	六月	⠠⠚⠥⠝⠑
+July	七月	⠠⠚⠥⠇⠽
+August	八月	⠠⠁⠥⠛⠥⠌
+September	九月	⠠⠎⠑⠏⠞⠑⠍⠃⠻
+October	十月	⠠⠕⠉⠞⠕⠃⠻
+November	十一月	⠠⠝⠕⠧⠑⠍⠃⠻
+December	十二月	⠠⠙⠑⠉⠑⠍⠃⠻
+New Year's Day	元旦	⠠⠝⠑⠺⠀⠠⠽⠑⠜⠄⠎⠀⠠⠐⠙
+Groundhog Day	土撥鼠日	⠠⠛⠗⠨⠙⠓⠕⠛⠀⠠⠐⠙
+Saint Patrick's Day	聖派翠克節	⠠⠎⠁⠔⠞⠀⠠⠏⠁⠞⠗⠊⠉⠅⠄⠎⠀⠠⠐⠙
+Earth Day	地球日	⠠⠑⠜⠹⠀⠠⠐⠙
+Mother's Day	母親節	⠠⠐⠍⠄⠎⠀⠠⠐⠙
+Dragon Boat Festival	端午節	⠠⠙⠗⠁⠛⠕⠝⠀⠠⠃⠕⠁⠞⠀⠠⠋⠑⠌⠊⠧⠁⠇
+Boryeong Mud Festival	保寧泥漿節	⠠⠃⠕⠗⠽⠑⠰⠛⠀⠠⠍⠥⠙⠀⠠⠋⠑⠌⠊⠧⠁⠇
+Father's Day	父親節	⠠⠐⠋⠄⠎⠀⠠⠐⠙
+Moon Festival	中秋節	⠠⠍⠕⠕⠝⠀⠠⠋⠑⠌⠊⠧⠁⠇
+Halloween	萬聖節	⠠⠓⠁⠇⠇⠪⠑⠢
+Thanksgiving Day	感恩節	⠠⠹⠁⠝⠅⠎⠛⠊⠧⠬⠀⠠⠐⠙
+Christmas	耶誕節	⠠⠡⠗⠊⠌⠍⠁⠎

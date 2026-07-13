@@ -1,0 +1,8 @@
+play basketball	打籃球	⠏⠇⠁⠽⠀⠃⠁⠎⠅⠑⠞⠃⠁⠇⠇
+watch TV	看電視	⠺⠁⠞⠡⠀⠠⠠⠞⠧
+play video games	打電動遊戲	⠏⠇⠁⠽⠀⠧⠊⠙⠑⠕⠀⠛⠁⠍⠑⠎
+go shopping	逛街購物	⠛⠀⠩⠕⠏⠏⠬
+ride a bike	騎腳踏車	⠗⠊⠙⠑⠀⠁⠀⠃⠊⠅⠑
+go camping	露營	⠛⠀⠉⠁⠍⠏⠬
+visit my friend	拜訪朋友	⠧⠊⠎⠊⠞⠀⠍⠽⠀⠋⠗
+free time	空閒時間	⠋⠗⠑⠑⠀⠐⠞

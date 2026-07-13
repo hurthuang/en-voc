@@ -1,0 +1,15 @@
+apples	蘋果（複數）	⠁⠏⠏⠇⠑⠎
+bananas	香蕉（複數）	⠃⠁⠝⠁⠝⠁⠎
+grapes	葡萄（複數）	⠛⠗⠁⠏⠑⠎
+guavas	芭樂（複數）	⠛⠥⠁⠧⠁⠎
+oranges	柳橙（複數）	⠕⠗⠁⠝⠛⠑⠎
+papayas	木瓜（複數）	⠏⠁⠏⠁⠽⠁⠎
+pineapples	鳳梨（複數）	⠏⠔⠑⠁⠏⠏⠇⠑⠎
+how many	多少（數量）	⠓⠪⠀⠸⠍
+need	需要	⠝⠑⠫
+bite	咬	⠃⠊⠞⠑
+rice	米；米飯	⠗⠊⠉⠑
+pie	派	⠏⠊⠑
+tie	領帶	⠞⠊⠑
+light	燈，光	⠇⠊⠣⠞
+night	夜晚	⠝⠊⠣⠞

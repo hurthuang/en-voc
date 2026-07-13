@@ -1,0 +1,9 @@
+the USA	美國	⠮⠀⠠⠠⠥⠎⠁
+Japan	日本	⠠⠚⠁⠏⠁⠝
+the UK	英國	⠮⠀⠠⠠⠥⠅
+Taiwan	臺灣	⠠⠞⠁⠊⠺⠁⠝
+France	法國	⠠⠋⠗⠨⠑
+Australia	澳洲	⠠⠁⠥⠌⠗⠁⠇⠊⠁
+Vietnam	越南	⠠⠧⠊⠑⠞⠝⠁⠍
+from	來自	⠋
+Korea	韓國	⠠⠅⠕⠗⠑⠁

@@ -1,0 +1,10 @@
+park	公園	⠏⠜⠅
+library	圖書館	⠇⠊⠃⠗⠜⠽
+hospital	醫院	⠓⠕⠎⠏⠊⠞⠁⠇
+supermarket	超市	⠎⠥⠏⠻⠍⠜⠅⠑⠞
+bookstore	書店	⠃⠕⠕⠅⠌⠕⠗⠑
+tea shop	飲料店	⠞⠑⠁⠀⠩⠕⠏
+post office	郵局	⠏⠕⠌⠀⠷⠋⠊⠉⠑
+zoo	動物園	⠵⠕⠕
+road	路；道路	⠗⠕⠁⠙
+next to...	在…旁邊	⠝⠑⠭⠞⠀⠞⠕⠲⠲⠲

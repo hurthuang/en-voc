@@ -1,0 +1,13 @@
+bathroom	浴室	⠃⠁⠹⠗⠕⠕⠍
+bedroom	臥室	⠃⠫⠗⠕⠕⠍
+dining room	飯廳	⠙⠔⠬⠀⠗⠕⠕⠍
+living room	客廳	⠇⠊⠧⠬⠀⠗⠕⠕⠍
+kitchen	廚房	⠅⠊⠞⠡⠢
+yard	院子	⠽⠜⠙
+where	哪裡	⠐⠱
+hop	單腳跳	⠓⠕⠏
+not	不；沒有	⠝
+hope	希望	⠓⠕⠏⠑
+note	筆記；便條	⠝⠕⠞⠑
+nose	鼻子	⠝⠕⠎⠑
+rose	玫瑰花	⠗⠕⠎⠑

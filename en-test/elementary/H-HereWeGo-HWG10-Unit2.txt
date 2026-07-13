@@ -1,0 +1,19 @@
+barbecue	烤肉	⠃⠜⠃⠑⠉⠥⠑
+tea egg	茶葉蛋	⠞⠑⠁⠀⠑⠛⠛
+bitter	苦的	⠃⠊⠞⠞⠻
+salty	鹹的	⠎⠁⠇⠞⠽
+sour	酸的	⠎⠳⠗
+spicy	辣的	⠎⠏⠊⠉⠽
+sweet	甜的	⠎⠺⠑⠑⠞
+taste	嚐起來	⠞⠁⠌⠑
+grilled corn	烤玉米	⠛⠗⠊⠇⠇⠫⠀⠉⠕⠗⠝
+mochi	麻糬	⠍⠕⠡⠊
+yard	庭院	⠽⠜⠙
+yellow	黃色（的）	⠽⠑⠇⠇⠪
+yummy	美味的	⠽⠥⠍⠍⠽
+candy	糖果	⠉⠯⠽
+party	派對	⠐⠏⠽
+puppy	幼犬	⠏⠥⠏⠏⠽
+cry	哭泣	⠉⠗⠽
+fly	飛	⠋⠇⠽
+shy	害羞的	⠩⠽

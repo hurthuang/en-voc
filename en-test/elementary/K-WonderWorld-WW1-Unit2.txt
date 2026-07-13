@@ -1,0 +1,22 @@
+angry	生氣的	⠁⠝⠛⠗⠽
+happy	快樂的	⠓⠁⠏⠏⠽
+sad	難過的	⠎⠁⠙
+hungry	飢餓的	⠓⠥⠝⠛⠗⠽
+thirsty	口渴的	⠹⠊⠗⠌⠽
+yes	是的	⠽⠑⠎
+no	不；不是	⠝⠕
+not	不是	⠝
+Are you hungry?	你肚子餓嗎？	⠠⠜⠑⠀⠽⠀⠓⠥⠝⠛⠗⠽⠦
+Yes, I am.	是的，我肚子餓。	⠠⠽⠑⠎⠂⠀⠠⠊⠀⠁⠍⠲
+Here you are.	這給你。	⠠⠐⠓⠀⠽⠀⠜⠑⠲
+Are you OK?	你還好嗎？	⠠⠜⠑⠀⠽⠀⠠⠠⠕⠅⠦
+key	鑰匙	⠅⠑⠽
+kid	小孩	⠅⠊⠙
+lion	獅子	⠇⠊⠕⠝
+leg	腿	⠇⠑⠛
+monkey	猴子	⠍⠕⠝⠅⠑⠽
+mop	拖把	⠍⠕⠏
+nod	點頭	⠝⠕⠙
+net	網子	⠝⠑⠞
+octopus	章魚	⠕⠉⠞⠕⠏⠥⠎
+ox	公牛	⠕⠭

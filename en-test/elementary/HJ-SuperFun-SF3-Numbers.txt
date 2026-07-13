@@ -1,0 +1,5 @@
+sixteen	十六	⠎⠊⠭⠞⠑⠢
+seventeen	十七	⠎⠑⠧⠢⠞⠑⠢
+eighteen	十八	⠑⠊⠣⠞⠑⠢
+nineteen	十九	⠝⠔⠑⠞⠑⠢
+twenty	二十	⠞⠺⠢⠞⠽

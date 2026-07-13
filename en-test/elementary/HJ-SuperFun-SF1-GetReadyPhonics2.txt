@@ -1,0 +1,7 @@
+girl	女孩	⠛⠊⠗⠇
+hat	帽子	⠓⠁⠞
+insect	昆蟲	⠔⠎⠑⠉⠞
+jet	噴射機	⠚⠑⠞
+kite	風箏	⠅⠊⠞⠑
+lion	獅子	⠇⠊⠕⠝
+monkey	猴子	⠍⠕⠝⠅⠑⠽

@@ -1,0 +1,44 @@
+workbook	n. 練習冊	⠐⠺⠃⠕⠕⠅
+quiz	n. 測驗	⠟⠥⠊⠵
+Chinese	n. 中文	⠠⠡⠔⠑⠎⠑
+helpful	adj. 有幫助的	⠓⠑⠇⠏⠰⠇
+my pleasure	phr. 不客氣	⠍⠽⠀⠏⠇⠂⠎⠥⠗⠑
+teenager	n. 青少年	⠞⠑⠢⠁⠛⠻
+hang out	phr. 經常出入	⠓⠁⠝⠛⠀⠳
+gym	n. 體育館	⠛⠽⠍
+playground	n. 遊樂場	⠏⠇⠁⠽⠛⠗⠨⠙
+pack	v. 打包	⠏⠁⠉⠅
+whose	det. 誰的	⠘⠱
+post office	n. 郵局	⠏⠕⠌⠀⠷⠋⠊⠉⠑
+church	n. 教堂	⠡⠥⠗⠡
+hurry	v. 加快	⠓⠥⠗⠗⠽
+exchange	n. 交換	⠑⠭⠡⠁⠝⠛⠑
+nap	n. 小睡	⠝⠁⠏
+stay up	phr. 熬夜	⠌⠁⠽⠀⠥⠏
+character	n. 字元	⠐⠡
+bookstore	n. 書店	⠃⠕⠕⠅⠌⠕⠗⠑
+blackboard	n. 黑板	⠃⠇⠁⠉⠅⠃⠕⠜⠙
+chalk	n. 粉筆	⠡⠁⠇⠅
+drawer	n. 抽屜	⠙⠗⠁⠺⠻
+copy machine	n. 影印機	⠉⠕⠏⠽⠀⠍⠁⠡⠔⠑
+dictionary	n. 字典	⠙⠊⠉⠰⠝⠜⠽
+vocabulary	n. 字彙	⠧⠕⠉⠁⠃⠥⠇⠜⠽
+marker	n. 麥克筆	⠍⠜⠅⠻
+notebook	n. 筆記本	⠝⠕⠞⠑⠃⠕⠕⠅
+envelope	n. 信封	⠢⠧⠑⠇⠕⠏⠑
+glue	n. 膠水	⠛⠇⠥⠑
+tape	n. 膠帶	⠞⠁⠏⠑
+stick	n. 棍狀物	⠌⠊⠉⠅
+sticky	adj. 黏的	⠌⠊⠉⠅⠽
+store	v. 儲存	⠌⠕⠗⠑
+grade	n. 成績	⠛⠗⠁⠙⠑
+except	prep. 除……之外	⠑⠭⠉⠑⠏⠞
+probably	adv. 有可能地	⠏⠗⠕⠃⠁⠃⠇⠽
+shy	adj. 害羞的	⠩⠽
+explain	v. 解釋	⠑⠭⠏⠇⠁⠔
+afraid	adj. 害怕的	⠁⠋⠗⠁⠊⠙
+stupid	adj. 愚蠢的	⠌⠥⠏⠊⠙
+subject	n. 科目	⠎⠥⠃⠚⠑⠉⠞
+diary	n. 日記	⠙⠊⠜⠽
+whole	adj. 全部的	⠱⠕⠇⠑
+get used to...	phr. 習慣……	⠛⠑⠞⠀⠥⠎⠫⠀⠞⠕⠲⠲⠲

@@ -1,0 +1,6 @@
+he	他	⠓⠑
+she	她	⠩⠑
+strong	強壯的	⠌⠗⠰⠛
+thin	瘦的	⠹⠔
+short	矮的	⠩⠕⠗⠞
+tall	高的	⠞⠁⠇⠇

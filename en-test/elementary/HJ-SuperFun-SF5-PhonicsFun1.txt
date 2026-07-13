@@ -1,0 +1,8 @@
+chair	椅子	⠡⠁⠊⠗
+shell	貝殼	⠩⠑⠇⠇
+lunch	午餐	⠇⠥⠝⠡
+sheep	綿羊	⠩⠑⠑⠏
+watch	手錶	⠺⠁⠞⠡
+fish	魚	⠋⠊⠩
+witch	巫婆	⠺⠊⠞⠡
+wash	清洗	⠺⠁⠩

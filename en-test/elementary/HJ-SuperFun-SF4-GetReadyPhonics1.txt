@@ -1,0 +1,7 @@
+cap	鴨舌帽	⠉⠁⠏
+hat	圓邊帽	⠓⠁⠞
+cape	披風	⠉⠁⠏⠑
+hate	討厭	⠓⠁⠞⠑
+cake	蛋糕	⠉⠁⠅⠑
+name	名字	⠐⠝
+vase	花瓶	⠧⠁⠎⠑

@@ -1,0 +1,7 @@
+red	紅色	⠗⠫
+yellow	黃色	⠽⠑⠇⠇⠪
+blue	藍色	⠃⠇⠥⠑
+green	綠色	⠛⠗⠑⠢
+orange	橘色	⠕⠗⠁⠝⠛⠑
+purple	紫色	⠏⠥⠗⠏⠇⠑
+color	顏色	⠉⠕⠇⠕⠗

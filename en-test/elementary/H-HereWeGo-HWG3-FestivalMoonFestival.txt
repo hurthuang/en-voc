@@ -1,0 +1,5 @@
+eat	吃	⠑⠁⠞
+a moon cake	月餅	⠁⠀⠍⠕⠕⠝⠀⠉⠁⠅⠑
+a pomelo	柚子	⠁⠀⠏⠕⠍⠑⠇⠕
+Chang-O	嫦娥	⠠⠡⠁⠝⠛⠤⠠⠕
+Jade Rabbit	玉兔	⠠⠚⠁⠙⠑⠀⠠⠗⠁⠆⠊⠞

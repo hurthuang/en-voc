@@ -1,0 +1,15 @@
+cold	感冒	⠉⠕⠇⠙
+fever	發燒	⠋⠐⠑
+runny nose	流鼻涕	⠗⠥⠝⠝⠽⠀⠝⠕⠎⠑
+sore throat	喉嚨痛	⠎⠕⠗⠑⠀⠹⠗⠕⠁⠞
+headache	頭痛	⠓⠂⠙⠁⠡⠑
+toothache	牙痛	⠞⠕⠕⠹⠁⠡⠑
+stomachache	胃痛	⠌⠕⠍⠁⠡⠁⠡⠑
+have	有	⠓
+has	有（第三人稱單數用）	⠓⠁⠎
+three	三	⠹⠗⠑⠑
+bathroom	浴室	⠃⠁⠹⠗⠕⠕⠍
+teeth	牙齒（複數）	⠞⠑⠑⠹
+this	這個	⠹
+that	那個	⠞
+those	那些	⠘⠹

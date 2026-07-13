@@ -1,0 +1,8 @@
+cheeseburger	起司漢堡	⠡⠑⠑⠎⠑⠃⠥⠗⠛⠻
+river	河	⠗⠊⠧⠻
+summer	夏天	⠎⠥⠍⠍⠻
+teacher	教師	⠞⠂⠡⠻
+actor	演員	⠁⠉⠞⠕⠗
+doctor	醫生	⠙⠕⠉⠞⠕⠗
+sailor	水手	⠎⠁⠊⠇⠕⠗
+tailor	裁縫師	⠞⠁⠊⠇⠕⠗

@@ -1,0 +1,6 @@
+nose	鼻子	⠝⠕⠎⠑
+ox	公牛	⠕⠭
+pig	豬	⠏⠊⠛
+queen	女王	⠟⠥⠑⠢
+rabbit	兔子	⠗⠁⠆⠊⠞
+six	六	⠎⠊⠭

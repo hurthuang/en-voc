@@ -1,0 +1,13 @@
+drinking	（正在）喝	⠙⠗⠔⠅⠬
+eating	（正在）吃	⠑⠁⠞⠬
+reading	（正在）閱讀	⠗⠂⠙⠬
+sleeping	（正在）睡覺	⠎⠇⠑⠑⠏⠬
+writing	（正在）寫字	⠺⠗⠊⠞⠬
+running	（正在）跑步	⠗⠥⠝⠝⠬
+swimming	（正在）游泳	⠎⠺⠊⠍⠍⠬
+doing	（正在）做	⠙⠕⠬
+kit	醫藥箱	⠅⠊⠞
+kite	風箏	⠅⠊⠞⠑
+time	時間	⠐⠞
+bike	腳踏車	⠃⠊⠅⠑
+ride	騎	⠗⠊⠙⠑

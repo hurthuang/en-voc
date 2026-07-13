@@ -1,0 +1,5 @@
+bathroom	浴室；洗手間	⠃⠁⠹⠗⠕⠕⠍
+bedroom	臥室	⠃⠫⠗⠕⠕⠍
+kitchen	廚房	⠅⠊⠞⠡⠢
+dining room	飯廳	⠙⠔⠬⠀⠗⠕⠕⠍
+living room	客廳	⠇⠊⠧⠬⠀⠗⠕⠕⠍

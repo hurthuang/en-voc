@@ -1,0 +1,13 @@
+twenty	二十	⠞⠺⠢⠞⠽
+thirty	三十	⠹⠊⠗⠞⠽
+forty	四十	⠿⠞⠽
+fifty	五十	⠋⠊⠋⠞⠽
+twenty-five	二十五	⠞⠺⠢⠞⠽⠤⠋⠊⠧⠑
+thirty-five	三十五	⠹⠊⠗⠞⠽⠤⠋⠊⠧⠑
+forty-five	四十五	⠿⠞⠽⠤⠋⠊⠧⠑
+fifty-five	五十五	⠋⠊⠋⠞⠽⠤⠋⠊⠧⠑
+time	時間	⠐⠞
+pet	寵物	⠏⠑⠞
+web	蜘蛛網	⠺⠑⠃
+Chinese	中文	⠠⠡⠔⠑⠎⠑
+these	這些	⠘⠮

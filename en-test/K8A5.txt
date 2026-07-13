@@ -1,0 +1,41 @@
+temple	n. 寺廟	⠞⠑⠍⠏⠇⠑
+supermarket	n. 超級市場	⠎⠥⠏⠻⠍⠜⠅⠑⠞
+restaurant	n. 餐廳	⠗⠑⠌⠁⠥⠗⠁⠝⠞
+bank	n. 銀行	⠃⠁⠝⠅
+church	n. 教堂	⠡⠥⠗⠡
+bakery	n. 麵包店	⠃⠁⠅⠻⠽
+bridge	n. 橋	⠃⠗⠊⠙⠛⠑
+hotel	n. 飯店	⠓⠕⠞⠑⠇
+department store	n. 百貨公司	⠙⠑⠐⠏⠰⠞⠀⠌⠕⠗⠑
+metro station	n. 捷運站	⠍⠑⠞⠗⠕⠀⠌⠁⠰⠝
+bookstore	n. 書店	⠃⠕⠕⠅⠌⠕⠗⠑
+post office	n. 郵局	⠏⠕⠌⠀⠷⠋⠊⠉⠑
+flower shop	n. 花店	⠋⠇⠪⠻⠀⠩⠕⠏
+trip	n. 旅行	⠞⠗⠊⠏
+during	prep. 在⋯⋯期間	⠙⠥⠗⠬
+vacation	n. 假期	⠧⠁⠉⠁⠰⠝
+will/would	aux. 將	⠺⠊⠇⠇⠸⠌⠺⠳⠇⠙
+own	pron.;adj.;v. 自己的；擁有	⠪⠝
+local	adj. 當地的	⠇⠕⠉⠁⠇
+tour	n. 旅遊行程	⠞⠳⠗
+spend/spent	v. 花費（金錢；時間）	⠎⠏⠢⠙⠸⠌⠎⠏⠢⠞
+thousand	n. 千	⠹⠳⠎⠯
+each	adj.;pron. 每個（的）	⠑⠁⠡
+pay/paid	v. 付錢	⠏⠁⠽⠸⠌⠏⠁⠊⠙
+tomorrow	adv.;n. 明天	⠞⠍
+almost	adv. 幾乎	⠁⠇⠍
+decide	v. 決定	⠙⠑⠉⠊⠙⠑
+cost/cost	v. 花費（金錢）	⠉⠕⠌⠸⠌⠉⠕⠌
+fan	n. ⋯⋯迷；電扇	⠋⠁⠝
+leave for	前往	⠇⠂⠧⠑⠀⠿
+vendor	n. 攤販	⠧⠢⠙⠕⠗
+quick	adj. 迅速的	⠟⠅
+stall	n. 攤位	⠌⠁⠇⠇
+careful	adj. 小心的	⠉⠜⠑⠰⠇
+boat	n. 小船	⠃⠕⠁⠞
+sell/sold	v. 賣；出售	⠎⠑⠇⠇⠸⠌⠎⠕⠇⠙
+low	adj. 低的；矮的	⠇⠪
+price	n. 價格；代價	⠏⠗⠊⠉⠑
+remember	v. 記得	⠗⠑⠍⠑⠍⠃⠻
+cash	n. 現金	⠉⠁⠩
+wonderful	adj. 美好的	⠺⠕⠝⠙⠻⠰⠇

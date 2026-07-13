@@ -1,0 +1,21 @@
+pizza	披薩	⠏⠊⠵⠵⠁
+rice	米、飯	⠗⠊⠉⠑
+steak	牛排	⠌⠂⠅
+fried chicken	炸雞	⠋⠗⠊⠫⠀⠡⠊⠉⠅⠢
+dumplings	水餃（常用複數）	⠙⠥⠍⠏⠇⠬⠎
+noodles	麵（常用複數）	⠝⠕⠕⠙⠇⠑⠎
+French fries	薯條（常用複數）	⠠⠋⠗⠢⠡⠀⠋⠗⠊⠑⠎
+would	（表請求、意願的助動詞）	⠺⠙
+need	需要	⠝⠑⠫
+first	首先；第一	⠋⠌
+share	分享	⠩⠜⠑
+our	我們的	⠳⠗
+pass	傳；通過	⠏⠁⠎⠎
+brush	刷子	⠃⠗⠥⠩
+train	火車	⠞⠗⠁⠔
+tree	樹	⠞⠗⠑⠑
+trick	把戲	⠞⠗⠊⠉⠅
+dream	夢	⠙⠗⠂⠍
+dress	洋裝	⠙⠗⠑⠎⠎
+drum	鼓	⠙⠗⠥⠍
+I could eat a horse!	我餓壞了！	⠠⠊⠀⠉⠙⠀⠑⠁⠞⠀⠁⠀⠓⠕⠗⠎⠑⠖

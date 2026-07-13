@@ -1,0 +1,40 @@
+make	v. 製作	⠍⠁⠅⠑
+paper	n. 紙	⠏⠁⠏⠻
+which	pron. 哪一個	⠱
+choice	n. 選擇	⠡⠕⠊⠉⠑
+walk	v. 走路	⠺⠁⠇⠅
+collect	v. 收集	⠉⠕⠇⠇⠑⠉⠞
+much	adj. 很多的	⠍⠡
+need	v. 需要	⠝⠑⠫
+half	n. 一半	⠓⠁⠇⠋
+piece	n. 張；片	⠏⠊⠑⠉⠑
+boil	v. 烹煮；煮沸	⠃⠕⠊⠇
+after	prep. 在……之後	⠁⠋
+screen	n. 篩子；螢幕	⠎⠉⠗⠑⠢
+work	n. 工作	⠐⠺
+tour guide	n. 導遊	⠞⠳⠗⠀⠛⠥⠊⠙⠑
+poop	n. 糞便	⠏⠕⠕⠏
+bucket	n. 桶	⠃⠥⠉⠅⠑⠞
+get	v. 拿取；獲得	⠛⠑⠞
+pumpkin pie	n. 南瓜派	⠏⠥⠍⠏⠅⠔⠀⠏⠊⠑
+fried chicken	n. 炸雞	⠋⠗⠊⠫⠀⠡⠊⠉⠅⠢
+coffee	n. 咖啡	⠉⠷⠋⠑⠑
+juice	n. 果汁	⠚⠥⠊⠉⠑
+rice	n. 米飯	⠗⠊⠉⠑
+pork	n. 豬肉	⠏⠕⠗⠅
+dozen	n. 十二個；一打	⠙⠕⠵⠢
+bread	n. 麵包	⠃⠗⠂⠙
+slice	n. 片	⠎⠇⠊⠉⠑
+useful	adj. 有用的	⠥⠎⠑⠰⠇
+mean	v. 意思是；對……有意義	⠍⠂⠝
+power	n. 動力	⠏⠪⠻
+garbage	n. 垃圾；廢物	⠛⠜⠃⠁⠛⠑
+in other words	phr. 換句話說	⠔⠀⠕⠮⠗⠀⠘⠺⠎
+gas	n. 氣體燃料；汽油	⠛⠁⠎
+believe	v. 相信	⠆⠇⠊⠑⠧⠑
+human	adj. 人類的	⠓⠥⠍⠁⠝
+kilometer	n. 公里	⠅⠊⠇⠕⠍⠑⠞⠻
+tank	n. 槽	⠞⠁⠝⠅
+stinky	adj. 臭的	⠌⠔⠅⠽
+kind	n. 種類	⠅⠔⠙
+Let's get our hands dirty!	讓我們開始動手吧！	⠠⠇⠑⠞⠄⠎⠀⠛⠑⠞⠀⠳⠗⠀⠓⠯⠎⠀⠙⠊⠗⠞⠽⠖

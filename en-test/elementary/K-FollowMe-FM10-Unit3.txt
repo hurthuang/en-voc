@@ -1,0 +1,33 @@
+surf the Internet	上網	⠎⠥⠗⠋⠀⠮⠀⠠⠔⠞⠻⠝⠑⠞
+visit the museum	參觀博物館	⠧⠊⠎⠊⠞⠀⠮⠀⠍⠥⠎⠑⠥⠍
+wash the dishes	洗碗盤	⠺⠁⠩⠀⠮⠀⠙⠊⠩⠑⠎
+agei	阿給	⠁⠛⠑⠊
+book report	讀書報告	⠃⠕⠕⠅⠀⠗⠑⠏⠕⠗⠞
+forget	忘記	⠿⠛⠑⠞
+Former British Consular Residence	前清英國領事官邸	⠠⠿⠍⠻⠀⠠⠃⠗⠊⠞⠊⠩⠀⠠⠒⠎⠥⠇⠜⠀⠠⠗⠑⠎⠊⠙⠰⠑
+Fort San Domingo	紅毛城	⠠⠿⠞⠀⠠⠎⠁⠝⠀⠠⠙⠕⠍⠬⠕
+iron egg	鐵蛋	⠊⠗⠕⠝⠀⠑⠛⠛
+next time	下一次	⠝⠑⠭⠞⠀⠐⠞
+Oxford College	理學堂大書院	⠠⠕⠭⠿⠙⠀⠠⠉⠕⠇⠇⠑⠛⠑
+sour plum drink	酸梅湯	⠎⠳⠗⠀⠏⠇⠥⠍⠀⠙⠗⠔⠅
+Tamsui Church	淡水禮拜堂	⠠⠞⠁⠍⠎⠥⠊⠀⠠⠡⠥⠗⠡
+Tamsui Fisherman's Wharf	淡水漁人碼頭	⠠⠞⠁⠍⠎⠥⠊⠀⠠⠋⠊⠩⠻⠍⠁⠝⠄⠎⠀⠠⠱⠜⠋
+total loss	全部損失	⠞⠕⠞⠁⠇⠀⠇⠕⠎⠎
+totally	完全的	⠞⠕⠞⠁⠇⠇⠽
+warn	提醒；告誡	⠺⠜⠝
+have a haircut	剪頭髮	⠓⠀⠁⠀⠓⠁⠊⠗⠉⠥⠞
+have a party	舉辦派對	⠓⠀⠁⠀⠐⠏⠽
+have a picnic	野餐	⠓⠀⠁⠀⠏⠊⠉⠝⠊⠉
+stay at home	待在家裡	⠌⠁⠽⠀⠁⠞⠀⠓⠕⠍⠑
+study in the library	在圖書館讀書	⠌⠥⠙⠽⠀⠔⠀⠮⠀⠇⠊⠃⠗⠜⠽
+take a trip	旅行	⠞⠁⠅⠑⠀⠁⠀⠞⠗⠊⠏
+visit my grandparents	拜訪我的祖父母	⠧⠊⠎⠊⠞⠀⠍⠽⠀⠛⠗⠯⠏⠜⠢⠞⠎
+clean the room	整理房間	⠉⠇⠂⠝⠀⠮⠀⠗⠕⠕⠍
+airplane	飛機	⠁⠊⠗⠏⠇⠁⠝⠑
+chair	椅子	⠡⠁⠊⠗
+hair	頭髮	⠓⠁⠊⠗
+fair	博覽會	⠋⠁⠊⠗
+scare	害怕	⠎⠉⠜⠑
+share	分享	⠩⠜⠑
+square	正方形	⠎⠟⠥⠜⠑
+spare	空閒的	⠎⠏⠜⠑

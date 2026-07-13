@@ -1,0 +1,8 @@
+by bike	騎腳踏車	⠃⠽⠀⠃⠊⠅⠑
+by bus	搭公車	⠃⠽⠀⠃⠥⠎
+by car	搭汽車；開車	⠃⠽⠀⠉⠜
+by metro	搭捷運	⠃⠽⠀⠍⠑⠞⠗⠕
+by train	搭火車	⠃⠽⠀⠞⠗⠁⠔
+by scooter	搭機車；騎機車	⠃⠽⠀⠎⠉⠕⠕⠞⠻
+on foot	走路；步行	⠕⠝⠀⠋⠕⠕⠞
+get	到達	⠛⠑⠞

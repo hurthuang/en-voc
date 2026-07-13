@@ -1,0 +1,6 @@
+cake	蛋糕	⠉⠁⠅⠑
+plate	盤子	⠏⠇⠁⠞⠑
+rain	雨；下雨	⠗⠁⠔
+mail	郵件	⠍⠁⠊⠇
+gray	灰色	⠛⠗⠁⠽
+play	玩	⠏⠇⠁⠽

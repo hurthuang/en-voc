@@ -1,0 +1,6 @@
+at home	在家	⠁⠞⠀⠓⠕⠍⠑
+at the museum	在博物館	⠁⠞⠀⠮⠀⠍⠥⠎⠑⠥⠍
+at school	在學校	⠁⠞⠀⠎⠡⠕⠕⠇
+at the restaurant	在餐廳	⠁⠞⠀⠮⠀⠗⠑⠌⠁⠥⠗⠁⠝⠞
+at the amusement park	在遊樂園	⠁⠞⠀⠮⠀⠁⠍⠥⠎⠑⠰⠞⠀⠏⠜⠅
+at the department store	在百貨公司	⠁⠞⠀⠮⠀⠙⠑⠐⠏⠰⠞⠀⠌⠕⠗⠑

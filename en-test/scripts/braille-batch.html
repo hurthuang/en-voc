@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><meta charset="UTF-8"><title>UEB G2 batch translate</title></head>
+<body>
+<script src="/build-no-tables-utf32.js"></script>
+<script>
+const LOU = (() => {
+    const M = (typeof liblouisBuild !== 'undefined') ? liblouisBuild : null;
+    const _tableCache = new Set();
+    const TABLE_DIR = '/table/';
+
+    // 這份是實際遞迴讀 table/*.ctb 的 include 指令算出來的真實依賴關係
+    // （原本抄 braille-translate.htm 裡的 TABLE_DEPS 有幾個檔名對不上，會 404）
+    const TABLE_DEPS = {
+        'en-ueb-g2.ctb':       ['en-ueb-g1.ctb', 'en-ueb-math.ctb'],
+        'en-ueb-g1.ctb':       ['en-ueb-chardefs.uti', 'braille-patterns.cti'],
+        'en-ueb-chardefs.uti': ['text_nabcc.dis', 'spaces.uti', 'latinLetterDef6Dots.uti', 'latinUppercaseComp6.uti'],
+    };
+
+    function isReady() { return !!(M && M.calledRun); }
+
+    async function _loadTableFile(filename) {
+        if (_tableCache.has(filename)) return;
+        _tableCache.add(filename);
+        try {
+            const resp = await fetch(TABLE_DIR + filename);
+            if (!resp.ok) throw new Error(resp.status);
+            const arrayBuf = await resp.arrayBuffer();
+            try { M.FS.mkdir('/tables'); } catch(e) {}
+            const bytes = new Uint8Array(arrayBuf);
+            let fileStr = '';
+            for (let b = 0; b < bytes.length; b++) fileStr += String.fromCharCode(bytes[b]);
+            if (filename.endsWith('.ctb') || filename.endsWith('.uti')) {
+                fileStr = fileStr.split('\n').map(line => {
+                    const t = line.trim();
+                    if (t.startsWith('seqdelimiter') || t.startsWith('seqbeforechars') ||
+                        t.startsWith('seqafterchars') || t.startsWith('seqafterexpression') ||
+                        t.startsWith('seqafterpattern')) {
+                        return '# ' + line;
+                    }
+                    return line;
+                }).join('\n');
+            }
+            M.FS.writeFile('/tables/' + filename, fileStr);
+        } catch(e) {
+            console.warn('liblouis: table load failed', filename, e.message);
+        }
+        const deps = TABLE_DEPS[filename] || [];
+        await Promise.all(deps.map(d => _loadTableFile(d)));
+    }
+
+    function _louTranslate(tableFile, text) {
+        if (!isReady()) return null;
+        try {
+            const inputLen = text.length;
+            const inBuf = M._malloc((inputLen + 1) * 4);
+            for (let i = 0; i < inputLen; i++)
+                M.setValue(inBuf + i * 4, text.codePointAt(i), 'i32');
+            M.setValue(inBuf + inputLen * 4, 0, 'i32');
+
+            const outMax = inputLen * 4 + 16;
+            const outBuf = M._malloc((outMax + 1) * 4);
+            const inLenPtr = M._malloc(4);
+            const outLenPtr = M._malloc(4);
+            M.setValue(inLenPtr, inputLen, 'i32');
+            M.setValue(outLenPtr, outMax, 'i32');
+
+            const tableStr = M.allocate(
+                M.intArrayFromString('/tables/' + tableFile),
+                'i8', M.ALLOC_NORMAL
+            );
+            const ret = M._lou_translateString(
+                tableStr, inBuf, inLenPtr, outBuf, outLenPtr,
+                0, 0, 0
+            );
+            M._free(tableStr);
+
+            let result = null;
+            if (ret > 0) {
+                const outLen = M.getValue(outLenPtr, 'i32');
+                const NABCC_TO_UNI = {
+                    32:0x2800, 97:0x2801, 49:0x2802, 98:0x2803, 39:0x2804,
+                    107:0x2805, 50:0x2806, 108:0x2807, 96:0x2808, 99:0x2809,
+                    105:0x280a, 102:0x280b, 47:0x280c, 109:0x280d, 115:0x280e,
+                    112:0x280f, 34:0x2810, 101:0x2811, 51:0x2812, 104:0x2813,
+                    57:0x2814, 111:0x2815, 54:0x2816, 114:0x2817, 126:0x2818,
+                    100:0x2819, 106:0x281a, 103:0x281b, 62:0x281c, 110:0x281d,
+                    116:0x281e, 113:0x281f, 44:0x2820, 42:0x2821, 53:0x2822,
+                    60:0x2823, 45:0x2824, 117:0x2825, 56:0x2826, 118:0x2827,
+                    46:0x2828, 37:0x2829, 123:0x282a, 36:0x282b, 43:0x282c,
+                    120:0x282d, 33:0x282e, 38:0x282f, 59:0x2830, 58:0x2831,
+                    52:0x2832, 124:0x2833, 48:0x2834, 122:0x2835, 55:0x2836,
+                    40:0x2837, 95:0x2838, 63:0x2839, 119:0x283a, 125:0x283b,
+                    35:0x283c, 121:0x283d, 41:0x283e, 61:0x283f
+                };
+                let out = '';
+                for (let i = 0; i < outLen; i++) {
+                    const val = M.getValue(outBuf + i * 4, 'i32');
+                    const uni = NABCC_TO_UNI[val];
+                    out += String.fromCharCode(uni !== undefined ? uni : 0x2800 + val);
+                }
+                result = out;
+            }
+            M._free(inBuf); M._free(outBuf);
+            M._free(inLenPtr); M._free(outLenPtr);
+            return result;
+        } catch(e) {
+            console.error('liblouis translate error:', e);
+            return null;
+        }
+    }
+
+    async function preload() {
+        await _loadTableFile('en-ueb-g2.ctb');
+    }
+
+    function translate(text) {
+        return _louTranslate('en-ueb-g2.ctb', text);
+    }
+
+    return { preload, translate, isReady };
+})();
+
+window.__batchTranslate = async function(words) {
+    await LOU.preload();
+    const out = {};
+    for (const w of words) {
+        out[w] = LOU.translate(w) || '';
+    }
+    return out;
+};
+window.__louReady = true;
+</script>
+</body>
+</html>

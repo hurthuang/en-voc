@@ -1,0 +1,6 @@
+bird	鳥	⠃⠊⠗⠙
+cat	貓	⠉⠁⠞
+dog	狗	⠙⠕⠛
+frog	青蛙	⠋⠗⠕⠛
+rabbit	兔子	⠗⠁⠆⠊⠞
+ox	牛	⠕⠭

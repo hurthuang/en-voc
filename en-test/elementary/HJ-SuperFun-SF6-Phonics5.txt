@@ -1,0 +1,8 @@
+cube	方塊	⠉⠥⠃⠑
+blue	藍色	⠃⠇⠥⠑
+mute	靜音	⠍⠥⠞⠑
+glue	膠水	⠛⠇⠥⠑
+June	六月	⠠⠚⠥⠝⠑
+juice	果汁	⠚⠥⠊⠉⠑
+flute	長笛	⠋⠇⠥⠞⠑
+fruit	水果	⠋⠗⠥⠊⠞

@@ -1,0 +1,5 @@
+last Sunday	上個星期日	⠇⠁⠌⠀⠠⠎⠥⠝⠐⠙
+an hour ago	一個小時前	⠁⠝⠀⠓⠳⠗⠀⠁⠛⠕
+yesterday	昨天	⠽⠑⠌⠻⠐⠙
+ten minutes ago	十分鐘前	⠞⠢⠀⠍⠔⠥⠞⠑⠎⠀⠁⠛⠕
+this morning	今天早上	⠹⠀⠍⠕⠗⠝⠬

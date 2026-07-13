@@ -1,0 +1,14 @@
+cloudy	陰天的	⠉⠇⠳⠙⠽
+rainy	下雨的	⠗⠁⠔⠽
+sunny	晴朗的	⠎⠥⠝⠝⠽
+windy	颳風的	⠺⠔⠙⠽
+cold	冷的	⠉⠕⠇⠙
+hot	熱的	⠓⠕⠞
+how	如何	⠓⠪
+weather	天氣	⠺⠂⠮⠗
+pet	寵物	⠏⠑⠞
+jet	噴射機	⠚⠑⠞
+theme park	主題樂園	⠮⠍⠑⠀⠏⠜⠅
+Chinese	中文；國語	⠠⠡⠔⠑⠎⠑
+Line up, please.	請排隊。	⠠⠇⠔⠑⠀⠥⠏⠂⠀⠏⠇⠂⠎⠑⠲
+Let's go.	我們走吧。	⠠⠇⠑⠞⠄⠎⠀⠛⠕⠲

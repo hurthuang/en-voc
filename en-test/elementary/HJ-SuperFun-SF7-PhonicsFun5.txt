@@ -1,0 +1,8 @@
+cloud	雲朵	⠉⠇⠳⠙
+brown	棕色	⠃⠗⠪⠝
+house	房屋	⠓⠳⠎⠑
+cow	母牛	⠉⠪
+mouse	老鼠	⠍⠳⠎⠑
+down	向下	⠙⠪⠝
+shout	吼叫	⠩⠳⠞
+owl	貓頭鷹	⠪⠇

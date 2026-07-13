@@ -1,0 +1,5 @@
+card	卡片	⠉⠜⠙
+flower	花	⠋⠇⠪⠻
+gift	禮物	⠛⠊⠋⠞
+heart	心	⠓⠑⠜⠞
+love	愛	⠇⠕⠧⠑

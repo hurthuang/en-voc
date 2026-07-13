@@ -1,0 +1,11 @@
+long hair	長髮	⠇⠰⠛⠀⠓⠁⠊⠗
+short hair	短髮	⠩⠕⠗⠞⠀⠓⠁⠊⠗
+curly hair	捲髮	⠉⠥⠗⠇⠽⠀⠓⠁⠊⠗
+straight hair	直髮	⠌⠗⠁⠊⠣⠞⠀⠓⠁⠊⠗
+a braid	辮子	⠁⠀⠃⠗⠁⠊⠙
+a ponytail	馬尾	⠁⠀⠏⠕⠝⠽⠞⠁⠊⠇
+a crew cut	平頭	⠁⠀⠉⠗⠑⠺⠀⠉⠥⠞
+black	黑的	⠃⠇⠁⠉⠅
+blue	藍的	⠃⠇⠥⠑
+green	綠的	⠛⠗⠑⠢
+red	紅的	⠗⠫

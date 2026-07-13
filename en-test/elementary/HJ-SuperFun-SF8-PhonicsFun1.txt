@@ -1,0 +1,8 @@
+black	黑色	⠃⠇⠁⠉⠅
+clean	乾淨的	⠉⠇⠂⠝
+blow	吹	⠃⠇⠪
+clock	時鐘	⠉⠇⠕⠉⠅
+plane	飛機	⠏⠇⠁⠝⠑
+glass	玻璃杯；玻璃	⠛⠇⠁⠎⠎
+plug	插頭	⠏⠇⠥⠛
+glue	膠水	⠛⠇⠥⠑

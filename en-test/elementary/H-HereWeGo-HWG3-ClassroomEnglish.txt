@@ -1,0 +1,8 @@
+Are you ready?	你準備好了嗎？	⠠⠜⠑⠀⠽⠀⠗⠂⠙⠽⠦
+Go!	開始！	⠠⠛⠕⠖
+Let's count.	一起數一數。	⠠⠇⠑⠞⠄⠎⠀⠉⠨⠞⠲
+Stop!	停。	⠠⠌⠕⠏⠖
+Let's play.	一起玩吧。	⠠⠇⠑⠞⠄⠎⠀⠏⠇⠁⠽⠲
+Time's up.	時間到了。	⠠⠐⠞⠄⠎⠀⠥⠏⠲
+Please repeat after me.	請跟著我再念一次。	⠠⠏⠇⠂⠎⠑⠀⠗⠑⠏⠂⠞⠀⠁⠋⠀⠍⠑⠲
+Read aloud.	大聲朗讀。	⠠⠗⠂⠙⠀⠁⠇⠳⠙⠲

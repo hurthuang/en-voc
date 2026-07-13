@@ -1,0 +1,6 @@
+glue	膠水	⠛⠇⠥⠑
+marker	彩色筆	⠍⠜⠅⠻
+notebook	筆記本	⠝⠕⠞⠑⠃⠕⠕⠅
+tape	膠帶	⠞⠁⠏⠑
+Whose marker is it?	那是誰的彩色筆？	⠠⠘⠱⠀⠍⠜⠅⠻⠀⠊⠎⠀⠊⠞⠦
+It's my marker.	是我的彩色筆。	⠠⠭⠄⠎⠀⠍⠽⠀⠍⠜⠅⠻⠲

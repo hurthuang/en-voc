@@ -1,0 +1,6 @@
+where	哪裡	⠐⠱
+bathroom	浴室	⠃⠁⠹⠗⠕⠕⠍
+bedroom	臥室	⠃⠫⠗⠕⠕⠍
+kitchen	廚房	⠅⠊⠞⠡⠢
+dining room	飯廳	⠙⠔⠬⠀⠗⠕⠕⠍
+living room	客廳	⠇⠊⠧⠬⠀⠗⠕⠕⠍

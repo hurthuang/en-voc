@@ -1,0 +1,5 @@
+cook	廚師	⠉⠕⠕⠅
+doctor	醫師	⠙⠕⠉⠞⠕⠗
+nurse	護理師；護理人員	⠝⠥⠗⠎⠑
+student	學生	⠌⠥⠙⠢⠞
+teacher	教師	⠞⠂⠡⠻

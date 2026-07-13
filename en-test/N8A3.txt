@@ -1,0 +1,38 @@
+king	n. 國王	⠅⠬
+way	n. 路	⠺⠁⠽
+wet	adj. 濕的	⠺⠑⠞
+mud	n. 泥土	⠍⠥⠙
+deep	adj. 深的	⠙⠑⠑⠏
+beside	prep. 在⋯⋯旁邊	⠆⠎
+before	conj. 在⋯⋯之前	⠆⠋
+difficult	adj. 困難的	⠙⠊⠖⠊⠉⠥⠇⠞
+butterfly	n. 蝴蝶	⠃⠥⠞⠞⠻⠋⠇⠽
+laugh	v. 大笑	⠇⠁⠥⠣
+possible	adj. 可能的	⠏⠕⠎⠎⠊⠃⠇⠑
+pass by	phr. 經過	⠏⠁⠎⠎⠀⠃⠽
+climb	v. 攀爬	⠉⠇⠊⠍⠃
+bottom	n. 底部	⠃⠕⠞⠞⠕⠍
+die	v. 死亡	⠙⠊⠑
+tired	adj. 感到疲倦的	⠞⠊⠗⠫
+finally	adv. 終於	⠋⠔⠁⠇⠇⠽
+arrive	v. 抵達	⠜⠗⠊⠧⠑
+surprised	adj. 感到驚訝的	⠎⠥⠗⠏⠗⠊⠎⠫
+snake	n. 蛇	⠎⠝⠁⠅⠑
+type	v. 打字	⠞⠽⠏⠑
+cellphone	n. 手機	⠉⠑⠇⠇⠏⠓⠐⠕
+hear	v. 聽見	⠓⠑⠜
+toad	n. 蟾蜍	⠞⠕⠁⠙
+suddenly	adv. 突然地	⠎⠥⠙⠙⠢⠇⠽
+hole	n. 洞	⠓⠕⠇⠑
+helpless	adj. 無助的	⠓⠑⠇⠏⠨⠎
+message	n. 訊息	⠍⠑⠎⠎⠁⠛⠑
+deaf	adj. 耳聾的	⠙⠂⠋
+cry	v. 叫喊	⠉⠗⠽
+go by	phr. 經過	⠛⠀⠃⠽
+over and over	phr. 一遍又一遍	⠕⠧⠻⠀⠯⠀⠕⠧⠻
+in time	phr. 及時	⠔⠀⠐⠞
+cheer...on	phr. 鼓勵⋯⋯	⠡⠑⠻⠲⠲⠲⠕⠝
+bat	n. 蝙蝠	⠃⠁⠞
+fox	n. 狐狸	⠋⠕⠭
+rat	n. 老鼠	⠗⠁⠞
+hen	n. 母雞	⠓⠢

@@ -1,0 +1,14 @@
+small	小的	⠎⠍⠁⠇⠇
+big	大的	⠃⠊⠛
+dog	狗	⠙⠕⠛
+cat	貓	⠉⠁⠞
+bird	鳥	⠃⠊⠗⠙
+fish	魚	⠋⠊⠩
+no	不	⠝⠕
+not	不是	⠝
+yes	是	⠽⠑⠎
+bed	床	⠃⠫
+red	紅色的	⠗⠫
+get	得到	⠛⠑⠞
+pet	寵物	⠏⠑⠞
+wet	濕的	⠺⠑⠞

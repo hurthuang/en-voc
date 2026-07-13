@@ -1,0 +1,15 @@
+noodles	麵（常用複數）	⠝⠕⠕⠙⠇⠑⠎
+sandwiches	三明治（複數）	⠎⠯⠺⠊⠡⠑⠎
+French fries	薯條（常用複數）	⠠⠋⠗⠢⠡⠀⠋⠗⠊⠑⠎
+would	（表請求、意願的助動詞）	⠺⠙
+pizza	披薩	⠏⠊⠵⠵⠁
+rice	米；飯	⠗⠊⠉⠑
+soup	湯	⠎⠳⠏
+steak	牛排	⠌⠂⠅
+dumplings	水餃（常用複數）	⠙⠥⠍⠏⠇⠬⠎
+coin	硬幣	⠉⠕⠔
+noise	噪音	⠝⠕⠊⠎⠑
+soil	土壤	⠎⠕⠊⠇
+boy	男孩	⠃⠕⠽
+joy	歡喜	⠚⠕⠽
+toy	玩具	⠞⠕⠽

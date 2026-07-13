@@ -1,0 +1,44 @@
+sky	n. 天空	⠎⠅⠽
+clear	adj. 晴朗的	⠉⠇⠑⠜
+lost	adj. 迷路的	⠇⠕⠌
+sure	adj. 確定的	⠎⠥⠗⠑
+woman	n. 女人	⠺⠕⠍⠁⠝
+map	n. 地圖	⠍⠁⠏
+straight	adv. 直地	⠌⠗⠁⠊⠣⠞
+turn	v. 轉向	⠞⠥⠗⠝
+left	adv. 左邊	⠇⠑⠋⠞
+along	prep. 沿著	⠁⠇⠰⠛
+road	n. 路（＝Rd.）	⠗⠕⠁⠙
+block	n. 街區	⠃⠇⠕⠉⠅
+station	n. 車站	⠌⠁⠰⠝
+idea	n. 想法；主意	⠊⠙⠑⠁
+minute	n. 分鐘	⠍⠔⠥⠞⠑
+wait	v. 等一下；等待	⠺⠁⠊⠞
+wrong	adj. 錯誤的	⠺⠗⠰⠛
+fair	n. 園遊會，展覽	⠋⠁⠊⠗
+corner	n. 街角	⠉⠕⠗⠝⠻
+right	n./adv. 右邊	⠐⠗
+bank	n. 銀行	⠃⠁⠝⠅
+movie theater	n. 電影院	⠍⠕⠧⠊⠑⠀⠮⠁⠞⠻
+cross	v. 跨越	⠉⠗⠕⠎⠎
+across from	phr. 在……對面	⠁⠉⠗⠀⠋
+in back of	phr. 在……後面	⠔⠀⠃⠁⠉⠅⠀⠷
+bakery	n. 麵包店	⠃⠁⠅⠻⠽
+library	n. 圖書館	⠇⠊⠃⠗⠜⠽
+hospital	n. 醫院	⠓⠕⠎⠏⠊⠞⠁⠇
+foot	n. 腳（複數為feet）	⠋⠕⠕⠞
+metro	n. 地鐵；捷運	⠍⠑⠞⠗⠕
+boat	n. 船	⠃⠕⠁⠞
+ride	v. 騎；乘坐	⠗⠊⠙⠑
+horse	n. 馬	⠓⠕⠗⠎⠑
+hike	v. 長途步行	⠓⠊⠅⠑
+may	aux. 也許	⠍⠁⠽
+dangerous	adj. 危險的	⠙⠁⠝⠛⠻⠳⠎
+will	n. 決心	⠺
+nothing	pron. 沒有（東西）	⠝⠕⠹⠬
+sleigh	n. 雪橇	⠎⠇⠑⠊⠣
+mate	n. 夥伴	⠍⠁⠞⠑
+weekday	n. 平日	⠺⠑⠑⠅⠐⠙
+train	n. 火車	⠞⠗⠁⠔
+stand in ... way	phr. 阻礙……	⠌⠯⠀⠔⠀⠲⠲⠲⠀⠺⠁⠽
+I see.	我懂了。	⠠⠊⠀⠎⠑⠑⠲

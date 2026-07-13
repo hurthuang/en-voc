@@ -1,0 +1,21 @@
+art	藝術；美術	⠜⠞
+Chinese	國語；中文	⠠⠡⠔⠑⠎⠑
+English	英語；英文	⠠⠢⠛⠇⠊⠩
+math	數學	⠍⠁⠹
+music	音樂	⠍⠥⠎⠊⠉
+PE	體育	⠠⠠⠏⠑
+science	自然科學；科學	⠎⠉⠊⠰⠑
+social studies	社會	⠎⠕⠉⠊⠁⠇⠀⠌⠥⠙⠊⠑⠎
+favorite	最喜愛的	⠋⠁⠧⠕⠗⠊⠞⠑
+subject	科目	⠎⠥⠃⠚⠑⠉⠞
+his	他的	⠦
+her	她的	⠓⠻
+our	我們的	⠳⠗
+their	他們的	⠸⠮
+cute	可愛的	⠉⠥⠞⠑
+tube	管，管子	⠞⠥⠃⠑
+blue	藍色的	⠃⠇⠥⠑
+glue	膠水	⠛⠇⠥⠑
+flute	長笛	⠋⠇⠥⠞⠑
+fruit	水果	⠋⠗⠥⠊⠞
+suit	套裝	⠎⠥⠊⠞

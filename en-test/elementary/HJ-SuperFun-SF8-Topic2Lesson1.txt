@@ -1,0 +1,9 @@
+firefighter	消防員	⠋⠊⠗⠑⠋⠊⠣⠞⠻
+singer	歌手	⠎⠬⠻
+police officer	警察	⠏⠕⠇⠊⠉⠑⠀⠷⠋⠊⠉⠻
+YouTuber	影片創作者	⠠⠽⠳⠠⠞⠥⠃⠻
+baseball player	棒球選手	⠃⠁⠎⠑⠃⠁⠇⠇⠀⠏⠇⠁⠽⠻
+engineer	工程師	⠢⠛⠔⠑⠻
+reporter	記者	⠗⠑⠏⠕⠗⠞⠻
+be	成為；是	⠆
+scientist	科學家	⠎⠉⠊⠢⠞⠊⠌

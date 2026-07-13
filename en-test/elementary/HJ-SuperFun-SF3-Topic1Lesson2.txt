@@ -1,0 +1,6 @@
+teacher	老師	⠞⠂⠡⠻
+student	學生	⠌⠥⠙⠢⠞
+cook	廚師	⠉⠕⠕⠅
+doctor	醫生	⠙⠕⠉⠞⠕⠗
+nurse	護理師	⠝⠥⠗⠎⠑
+farmer	農夫	⠋⠜⠍⠻

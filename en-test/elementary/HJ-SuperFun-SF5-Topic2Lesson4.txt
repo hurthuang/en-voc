@@ -1,0 +1,9 @@
+art	美術	⠜⠞
+science	自然	⠎⠉⠊⠰⠑
+Chinese	國語	⠠⠡⠔⠑⠎⠑
+social studies	社會	⠎⠕⠉⠊⠁⠇⠀⠌⠥⠙⠊⠑⠎
+music	音樂	⠍⠥⠎⠊⠉
+PE(physical education)	體育	⠠⠠⠏⠑
+math	數學	⠍⠁⠹
+subject	科目	⠎⠥⠃⠚⠑⠉⠞
+English	英文	⠠⠢⠛⠇⠊⠩

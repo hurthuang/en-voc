@@ -1,0 +1,37 @@
+mountain	山	⠍⠨⠞⠁⠔
+lake	湖	⠇⠁⠅⠑
+island	島	⠊⠎⠇⠯
+beach	海灘	⠃⠂⠡
+river	河	⠗⠊⠧⠻
+hill	小山；丘陵	⠓⠊⠇⠇
+pond	池塘	⠏⠕⠝⠙
+hike	健行	⠓⠊⠅⠑
+swim / swam	游泳	⠎⠺⠊⠍⠀⠸⠌⠀⠎⠺⠁⠍
+airport	機場	⠁⠊⠗⠏⠕⠗⠞
+bright	明亮的；晴朗的	⠃⠐⠗
+guy	傢伙；人	⠛⠥⠽
+suitcase	（旅行用的）手提箱	⠎⠥⠊⠞⠉⠁⠎⠑
+through	通過；穿過	⠐⠹
+bring / brought	帶來	⠃⠗⠬⠀⠸⠌⠀⠃⠗⠐⠳
+plastic	塑膠的；塑膠	⠏⠇⠁⠌⠊⠉
+keep / kept	保留；保持	⠅⠑⠑⠏⠀⠸⠌⠀⠅⠑⠏⠞
+throw / threw... away	扔掉⋯⋯	⠹⠗⠪⠀⠸⠌⠀⠹⠗⠑⠺⠲⠲⠲⠀⠁⠺⠁⠽
+start	開始	⠌⠜⠞
+begin / began	開始	⠆⠛⠔⠀⠸⠌⠀⠆⠛⠁⠝
+elementary school	小學	⠑⠇⠑⠰⠞⠜⠽⠀⠎⠡⠕⠕⠇
+hate	討厭；憎恨	⠓⠁⠞⠑
+amazing	令人驚喜的	⠁⠍⠁⠵⠬
+law	法律	⠇⠁⠺
+-free	（用於詞尾）無⋯⋯的	⠤⠋⠗⠑⠑
+kind	種類；友善的	⠅⠔⠙
+program	計畫	⠏⠗⠕⠛⠗⠁⠍
+buy / bought	買	⠃⠥⠽⠀⠸⠌⠀⠃⠐⠳
+hospital	醫院	⠓⠕⠎⠏⠊⠞⠁⠇
+package	包裝；包裹	⠏⠁⠉⠅⠁⠛⠑
+poor	貧窮的；可憐的	⠏⠕⠕⠗
+stop	停止	⠌⠕⠏
+collect	收集	⠉⠕⠇⠇⠑⠉⠞
+half	一半（的）；二分之一	⠓⠁⠇⠋
+million	百萬	⠍⠊⠇⠇⠊⠕⠝
+lead / led	領導	⠇⠂⠙⠀⠸⠌⠀⠇⠫
+one of a kind	獨一無二	⠐⠕⠀⠷⠀⠁⠀⠅⠔⠙

@@ -1,0 +1,13 @@
+eggs	雞蛋（複數）	⠑⠶⠎
+sandwiches	三明治（複數）	⠎⠯⠺⠊⠡⠑⠎
+oranges	柳橙（複數）	⠕⠗⠁⠝⠛⠑⠎
+how many	幾個	⠓⠪⠀⠸⠍
+strawberries	草莓（複數）	⠌⠗⠁⠺⠃⠻⠗⠊⠑⠎
+need	需要	⠝⠑⠫
+watermelons	西瓜（複數）	⠺⠁⠞⠻⠍⠑⠇⠕⠝⠎
+how much	多少錢	⠓⠪⠀⠍⠡
+cookies	餅乾（複數）	⠉⠕⠕⠅⠊⠑⠎
+dollar	元（貨幣單位）	⠙⠕⠇⠇⠜
+hamburgers	漢堡（複數）	⠓⠁⠍⠃⠥⠗⠛⠻⠎
+hundred	百（數字）	⠓⠥⠝⠙⠗⠫
+hot dogs	熱狗（複數）	⠓⠕⠞⠀⠙⠕⠛⠎

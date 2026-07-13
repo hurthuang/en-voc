@@ -1,0 +1,5 @@
+card	卡片	⠉⠜⠙
+flower	花朵	⠋⠇⠪⠻
+gift	禮物	⠛⠊⠋⠞
+hug	擁抱	⠓⠥⠛
+kiss	親吻	⠅⠊⠎⠎

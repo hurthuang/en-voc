@@ -1,0 +1,7 @@
+how old	幾歲	⠓⠪⠀⠕⠇⠙
+years old	歲（複數）	⠽⠑⠜⠎⠀⠕⠇⠙
+six	六	⠎⠊⠭
+seven	七	⠎⠑⠧⠢
+eight	八	⠑⠊⠣⠞
+nine	九	⠝⠔⠑
+ten	十	⠞⠢

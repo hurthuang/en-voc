@@ -1,0 +1,11 @@
+bike	腳踏車	⠃⠊⠅⠑
+bus	公車	⠃⠥⠎
+car	汽車	⠉⠜
+MRT	捷運	⠠⠠⠍⠗⠞
+plane	飛機	⠏⠇⠁⠝⠑
+scooter	機車	⠎⠉⠕⠕⠞⠻
+taxi	計程車	⠞⠁⠭⠊
+train	火車	⠞⠗⠁⠔
+get	到達	⠛⠑⠞
+there	那裡	⠐⠮
+by	搭乘	⠃⠽

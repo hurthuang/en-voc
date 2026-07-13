@@ -1,0 +1,47 @@
+rain	v. 下雨	⠗⠁⠔
+weather	n. 天氣	⠺⠂⠮⠗
+visit	v. 拜訪；參觀	⠧⠊⠎⠊⠞
+robot	n. 機器人	⠗⠕⠃⠕⠞
+hotel	n. 飯店；旅館	⠓⠕⠞⠑⠇
+face	n. 臉	⠋⠁⠉⠑
+check (...) in	phr. （替……）辦理入住登記	⠡⠑⠉⠅⠀⠀⠔
+then	adv. 然後	⠮⠝
+different	adj. 不同的	⠙⠊⠖⠻⠢⠞
+carry	v. 提；攜帶；運送	⠉⠜⠗⠽
+speak	v. 講；說話	⠎⠏⠂⠅
+language	n. 語言	⠇⠁⠝⠛⠥⠁⠛⠑
+song	n. 歌曲	⠎⠰⠛
+else	adj. 其他的	⠑⠇⠎⠑
+scan	v. 掃描	⠎⠉⠁⠝
+book	v. 預訂	⠃⠕⠕⠅
+check it out	phr. 一探究竟	⠡⠑⠉⠅⠀⠭⠀⠳
+snow	v.;n. 下雪；雪	⠎⠝⠪
+snowy	adj. 下雪的	⠎⠝⠪⠽
+rainy	adj. 多雨的；雨天的	⠗⠁⠔⠽
+cloud	n. 雲	⠉⠇⠳⠙
+cloudy	adj. 多雲的；陰天的	⠉⠇⠳⠙⠽
+wind	n. 風	⠺⠔⠙
+windy	adj. 風大的	⠺⠔⠙⠽
+season	n. 季節	⠎⠂⠎⠕⠝
+spring	n. 春季	⠎⠏⠗⠬
+summer	n. 夏季	⠎⠥⠍⠍⠻
+fall	n. 秋季（＝autumn）	⠋⠁⠇⠇
+winter	n. 冬季	⠺⠔⠞⠻
+warm	adj. 溫暖的	⠺⠜⠍
+cold	adj. 寒冷的；冰冷的	⠉⠕⠇⠙
+rain	n. 雨	⠗⠁⠔
+trip	n. 旅行	⠞⠗⠊⠏
+special	adj. 特別的	⠎⠏⠑⠉⠊⠁⠇
+build	v. 建造	⠃⠥⠊⠇⠙
+taste	n. 體驗；味道	⠞⠁⠌⠑
+everything	pron. 一切	⠐⠑⠽⠹⠬
+salt	n. 鹽	⠎⠁⠇⠞
+dry	adj. 乾燥的	⠙⠗⠽
+fall down	phr. 倒塌；摔下	⠋⠁⠇⠇⠀⠙⠪⠝
+find out	phr. 找出；查明；發現	⠋⠔⠙⠀⠳
+gone	adj. 消失的	⠛⠐⠕
+style	n. 風格；類型	⠌⠽⠇⠑
+salty	adj. 鹹的	⠎⠁⠇⠞⠽
+look for	phr. 尋找	⠇⠕⠕⠅⠀⠿
+key	n. 關鍵	⠅⠑⠽
+You bet.	當然。	⠠⠽⠀⠃⠑⠞⠲

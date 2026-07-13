@@ -1,0 +1,7 @@
+like	喜歡	⠇
+cake	蛋糕	⠉⠁⠅⠑
+ice cream	冰淇淋	⠊⠉⠑⠀⠉⠗⠂⠍
+milk	牛奶	⠍⠊⠇⠅
+juice	果汁	⠚⠥⠊⠉⠑
+water	水	⠺⠁⠞⠻
+pizza	披薩	⠏⠊⠵⠵⠁

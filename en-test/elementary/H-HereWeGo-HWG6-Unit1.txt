@@ -1,0 +1,17 @@
+eyes	眼睛（複數）	⠑⠽⠑⠎
+ears	耳朵（複數）	⠑⠜⠎
+nose	鼻子	⠝⠕⠎⠑
+mouth	嘴	⠍⠳⠹
+hands	手（複數）	⠓⠯⠎
+arms	手臂（複數）	⠜⠍⠎
+legs	腿（複數）	⠇⠑⠛⠎
+foot	腳	⠋⠕⠕⠞
+feet	腳（複數）	⠋⠑⠑⠞
+wrong	不對的，錯誤的	⠺⠗⠰⠛
+hurt	疼痛	⠓⠥⠗⠞
+whale	鯨魚	⠱⠁⠇⠑
+wheel	輪子	⠱⠑⠑⠇
+white	白色（的）	⠱⠊⠞⠑
+phone	電話	⠏⠓⠐⠕
+photo	照片	⠏⠓⠕⠞⠕
+dolphin	海豚	⠙⠕⠇⠏⠓⠔

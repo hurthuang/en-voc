@@ -1,0 +1,15 @@
+get up	起床	⠛⠑⠞⠀⠥⠏
+go to school	上學	⠛⠀⠞⠕⠀⠎⠡⠕⠕⠇
+have lunch	吃午餐	⠓⠀⠇⠥⠝⠡
+go home	回家	⠛⠀⠓⠕⠍⠑
+do my homework	做我的功課	⠙⠀⠍⠽⠀⠓⠕⠍⠑⠐⠺
+take a shower	淋浴	⠞⠁⠅⠑⠀⠁⠀⠩⠪⠻
+go to bed	上床睡覺	⠛⠀⠞⠕⠀⠃⠫
+bounce	彈跳	⠃⠳⠝⠉⠑
+cloud	雲	⠉⠇⠳⠙
+house	房子	⠓⠳⠎⠑
+shout	喊叫	⠩⠳⠞
+clown	小丑	⠉⠇⠪⠝
+crowd	人群	⠉⠗⠪⠙
+owl	貓頭鷹	⠪⠇
+shower	淋浴（器）	⠩⠪⠻

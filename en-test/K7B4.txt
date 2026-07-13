@@ -1,0 +1,43 @@
+food	食物	⠋⠕⠕⠙
+bottle	瓶子	⠃⠕⠞⠞⠇⠑
+water	水；澆水	⠺⠁⠞⠻
+bowl	碗	⠃⠪⠇
+rice	米；飯	⠗⠊⠉⠑
+plate	盤子	⠏⠇⠁⠞⠑
+noodle	麵條	⠝⠕⠕⠙⠇⠑
+pie	派	⠏⠊⠑
+piece	塊；片；張	⠏⠊⠑⠉⠑
+glass	玻璃杯；玻璃	⠛⠇⠁⠎⠎
+gram	公克	⠛⠗⠁⠍
+kilogram	公斤	⠅⠊⠇⠕⠛⠗⠁⠍
+salt	鹽	⠎⠁⠇⠞
+sugar	糖	⠎⠥⠛⠜
+a few	幾個；一些	⠁⠀⠋⠑⠺
+a little	少量的；一點	⠁⠀⠇⠇
+can	（鐵、鋁）罐	⠉
+pancake	鬆餅	⠏⠁⠝⠉⠁⠅⠑
+help	幫助	⠓⠑⠇⠏
+how many	多少（個）	⠓⠪⠀⠸⠍
+give	給	⠛⠊⠧⠑
+need	需要	⠝⠑⠫
+flour	麵粉	⠋⠇⠳⠗
+of course	當然	⠷⠀⠉⠳⠗⠎⠑
+which	哪一個	⠱
+enough	足夠的	⠢
+yummy	美味的	⠽⠥⠍⠍⠽
+teach	教	⠞⠂⠡
+easy	容易的	⠑⠁⠎⠽
+how much	多少	⠓⠪⠀⠍⠡
+delicious	美味的	⠙⠑⠇⠊⠉⠊⠳⠎
+difficult	困難的	⠙⠊⠖⠊⠉⠥⠇⠞
+add	添加	⠁⠙⠙
+mix	混合	⠍⠊⠭
+heat	加熱；熱	⠓⠂⠞
+pan	平底鍋	⠏⠁⠝
+butter	奶油	⠃⠥⠞⠞⠻
+round	圓形的	⠗⠨⠙
+batter	糊狀物	⠃⠁⠞⠞⠻
+until	直到⋯⋯為止	⠥⠝⠞⠊⠇
+brown	棕色（的）	⠃⠗⠪⠝
+both	兩者（⋯⋯都）	⠃⠕⠹
+ready	準備好的	⠗⠂⠙⠽

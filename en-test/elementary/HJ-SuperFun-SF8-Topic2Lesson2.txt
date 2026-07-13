@@ -1,0 +1,9 @@
+phone	電話	⠏⠓⠐⠕
+watch	手錶	⠺⠁⠞⠡
+jacket	外套	⠚⠁⠉⠅⠑⠞
+key	鑰匙	⠅⠑⠽
+lunch bag	午餐袋	⠇⠥⠝⠡⠀⠃⠁⠛
+glasses	眼鏡	⠛⠇⠁⠎⠎⠑⠎
+umbrella	雨傘	⠥⠍⠃⠗⠑⠇⠇⠁
+shoes	鞋子（複數）	⠩⠕⠑⠎
+whose	誰的	⠘⠱

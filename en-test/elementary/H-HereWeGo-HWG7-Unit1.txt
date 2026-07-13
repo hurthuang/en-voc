@@ -1,0 +1,17 @@
+Australia	澳大利亞	⠠⠁⠥⠌⠗⠁⠇⠊⠁
+India	印度	⠠⠔⠙⠊⠁
+Japan	日本	⠠⠚⠁⠏⠁⠝
+Singapore	新加坡	⠠⠎⠬⠁⠏⠕⠗⠑
+Spain	西班牙	⠠⠎⠏⠁⠔
+Taiwan	臺灣	⠠⠞⠁⠊⠺⠁⠝
+the UK	英國	⠮⠀⠠⠠⠥⠅
+the USA	美國	⠮⠀⠠⠠⠥⠎⠁
+from	來自	⠋
+bird	鳥	⠃⠊⠗⠙
+circle	圓圈	⠉⠊⠗⠉⠇⠑
+dirty	髒的	⠙⠊⠗⠞⠽
+shirt	襯衫	⠩⠊⠗⠞
+curry	咖哩	⠉⠥⠗⠗⠽
+nurse	護理師	⠝⠥⠗⠎⠑
+purple	紫色（的）	⠏⠥⠗⠏⠇⠑
+Thursday	星期四	⠠⠹⠥⠗⠎⠐⠙

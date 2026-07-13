@@ -1,0 +1,16 @@
+fifteen	十五	⠋⠊⠋⠞⠑⠢
+twenty	二十	⠞⠺⠢⠞⠽
+thirty	三十	⠹⠊⠗⠞⠽
+forty	四十	⠿⠞⠽
+fifty	五十	⠋⠊⠋⠞⠽
+twenty-five	二十五	⠞⠺⠢⠞⠽⠤⠋⠊⠧⠑
+time	時間	⠐⠞
+o'clock ......	點鐘	⠕⠄⠉⠇⠕⠉⠅⠀⠲⠲⠲⠲⠲⠲
+kit	工具箱	⠅⠊⠞
+pin	別針	⠏⠔
+win	贏	⠺⠔
+kite	風箏	⠅⠊⠞⠑
+pine	松樹	⠏⠔⠑
+wine	葡萄酒	⠺⠔⠑
+Listen!	聽！	⠠⠇⠊⠌⠢⠖
+Great!	太棒了！	⠠⠛⠗⠂⠞⠖

@@ -1,0 +1,5 @@
+bitter	苦的	⠃⠊⠞⠞⠻
+salty	鹹的	⠎⠁⠇⠞⠽
+sour	酸的	⠎⠳⠗
+spicy	辣的	⠎⠏⠊⠉⠽
+sweet	甜的	⠎⠺⠑⠑⠞

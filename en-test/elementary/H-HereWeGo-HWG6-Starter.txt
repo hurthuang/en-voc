@@ -1,0 +1,16 @@
+one hundred	一百	⠐⠕⠀⠓⠥⠝⠙⠗⠫
+two hundred	兩百	⠞⠺⠕⠀⠓⠥⠝⠙⠗⠫
+three hundred	三百	⠹⠗⠑⠑⠀⠓⠥⠝⠙⠗⠫
+four hundred	四百	⠋⠳⠗⠀⠓⠥⠝⠙⠗⠫
+five hundred	五百	⠋⠊⠧⠑⠀⠓⠥⠝⠙⠗⠫
+six hundred	六百	⠎⠊⠭⠀⠓⠥⠝⠙⠗⠫
+seven hundred	七百	⠎⠑⠧⠢⠀⠓⠥⠝⠙⠗⠫
+eight hundred	八百	⠑⠊⠣⠞⠀⠓⠥⠝⠙⠗⠫
+nine hundred	九百	⠝⠔⠑⠀⠓⠥⠝⠙⠗⠫
+one thousand	一千	⠐⠕⠀⠹⠳⠎⠯
+king	國王	⠅⠬
+ring	戒指	⠗⠬
+swing	鞦韆	⠎⠺⠬
+bank	銀行	⠃⠁⠝⠅
+pink	粉紅色（的）	⠏⠔⠅
+wink	眨眼	⠺⠔⠅

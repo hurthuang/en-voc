@@ -1,0 +1,15 @@
+Australia	澳大利亞	⠠⠁⠥⠌⠗⠁⠇⠊⠁
+Canada	加拿大	⠠⠉⠁⠝⠁⠙⠁
+France	法國	⠠⠋⠗⠨⠑
+India	印度	⠠⠔⠙⠊⠁
+Japan	日本	⠠⠚⠁⠏⠁⠝
+Taiwan	臺灣	⠠⠞⠁⠊⠺⠁⠝
+the UK	英國	⠮⠀⠠⠠⠥⠅
+the USA	美國	⠮⠀⠠⠠⠥⠎⠁
+from	從......來	⠋
+clerk	職員；店員	⠉⠇⠻⠅
+perm	燙髮	⠏⠻⠍
+girl	女孩	⠛⠊⠗⠇
+skirt	裙子	⠎⠅⠊⠗⠞
+nurse	護理師	⠝⠥⠗⠎⠑
+purse	手提包	⠏⠥⠗⠎⠑

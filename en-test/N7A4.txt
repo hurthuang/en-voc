@@ -1,0 +1,42 @@
+animal	n. 動物	⠁⠝⠊⠍⠁⠇
+surprise	n. 驚喜	⠎⠥⠗⠏⠗⠊⠎⠑
+love	v. 愛	⠇⠕⠧⠑
+gift	n. 禮物	⠛⠊⠋⠞
+hunt	n. 尋找	⠓⠥⠝⠞
+inside	prep. 在⋯⋯裡面	⠔⠎⠊⠙⠑
+lunch	n. 午餐	⠇⠥⠝⠡
+again	adv. 再一次	⠁⠛
+pin	n. 別針	⠏⠔
+so	adv. 非常地	⠎
+kind	adj. 體貼的	⠅⠔⠙
+jacket	n. 夾克	⠚⠁⠉⠅⠑⠞
+bamboo	n. 竹子	⠃⠁⠍⠃⠕⠕
+Thanksgiving	n. 感恩節	⠠⠹⠁⠝⠅⠎⠛⠊⠧⠬
+bathroom	n. 浴室	⠃⠁⠹⠗⠕⠕⠍
+bedroom	n. 臥室	⠃⠫⠗⠕⠕⠍
+living room	n. 客廳	⠇⠊⠧⠬⠀⠗⠕⠕⠍
+window	n. 窗戶	⠺⠔⠙⠪
+sofa	n. 長沙發	⠎⠷⠁
+dining room	n. 飯廳	⠙⠔⠬⠀⠗⠕⠕⠍
+kitchen	n. 廚房	⠅⠊⠞⠡⠢
+swimming pool	n. 游泳池	⠎⠺⠊⠍⠍⠬⠀⠏⠕⠕⠇
+garden	n. 花園	⠛⠜⠙⠢
+behind	prep. 在⋯⋯後面	⠆⠓
+in front of	phr. 在⋯⋯前面	⠔⠀⠋⠗⠕⠝⠞⠀⠷
+between	prep. 在⋯⋯之間	⠆⠞
+garage	n. 車庫	⠛⠜⠁⠛⠑
+next to	phr. 在⋯⋯旁邊	⠝⠑⠭⠞⠀⠞⠕
+team	n. （團）隊	⠞⠂⠍
+hard-working	adj. 認真的	⠓⠜⠙⠤⠐⠺⠬
+smart	adj. 聰明的	⠎⠍⠜⠞
+area	n. 區域	⠜⠑⠁
+pocket	n. 口袋	⠏⠕⠉⠅⠑⠞
+spider	n. 蜘蛛	⠎⠏⠊⠙⠻
+busy	adj. 忙碌的	⠃⠥⠎⠽
+water	n. 水	⠺⠁⠞⠻
+bottle	n. 瓶子	⠃⠕⠞⠞⠇⠑
+near	prep. 在⋯⋯附近	⠝⠑⠜
+shoulder	n. 肩膀	⠩⠳⠇⠙⠻
+player	n. 運動員	⠏⠇⠁⠽⠻
+cheer	v. 歡呼；鼓舞	⠡⠑⠻
+panda	n. 熊貓	⠏⠯⠁

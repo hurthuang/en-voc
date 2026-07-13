@@ -1,0 +1,36 @@
+attack	v.;n. 攻擊	⠁⠞⠞⠁⠉⠅
+foreigner	n. 外國人	⠿⠑⠊⠛⠝⠻
+sharp	adj. 鋒利的	⠩⠜⠏
+fake	adj. 假的	⠋⠁⠅⠑
+while	conj. 當......時	⠱⠊⠇⠑
+lazy	adj. 懶惰的	⠇⠁⠵⠽
+bee	n. 蜜蜂	⠃⠑⠑
+honey	n. 蜂蜜	⠓⠐⠕⠽
+as soon as	一......就......	⠵⠀⠎⠕⠕⠝⠀⠵
+as long as	只要......就......	⠵⠀⠇⠰⠛⠀⠵
+bridge	n. 橋	⠃⠗⠊⠙⠛⠑
+typhoon	n. 颱風	⠞⠽⠏⠓⠕⠕⠝
+giant	adj. 巨大的	⠛⠊⠁⠝⠞
+kite	n. 風箏	⠅⠊⠞⠑
+chalk	n. 粉筆	⠡⠁⠇⠅
+bug	n. 蟲	⠃⠥⠛
+insect	n. 昆蟲	⠔⠎⠑⠉⠞
+China	n. 中國	⠠⠡⠔⠁
+balcony	n. 陽臺	⠃⠁⠇⠉⠕⠝⠽
+neighbor	n. 鄰居	⠝⠑⠊⠣⠃⠕⠗
+yard	n. 院子	⠽⠜⠙
+ant	n. 螞蟻	⠁⠝⠞
+bench	n. 長椅；替補隊員席	⠃⠢⠡
+spot	v. 看出	⠎⠏⠕⠞
+source	n. 資訊來源	⠎⠳⠗⠉⠑
+trusted	adj. 可信的；可靠的（trust v. 信任）	⠞⠗⠥⠌⠫
+website	n. 網站	⠺⠑⠃⠎⠊⠞⠑
+error	n. 錯誤	⠻⠗⠕⠗
+copy	v. 複製；n. 複本	⠉⠕⠏⠽
+headline	n. 標題	⠓⠂⠙⠇⠔⠑
+smoke	v. 抽菸；n. 煙	⠎⠍⠕⠅⠑
+truth	n. 真相	⠞⠗⠥⠹
+angle	n. 觀點；角度	⠁⠝⠛⠇⠑
+far	adj. 遙遠的；adv. 遙遠地	⠋⠜
+over-the-top	adj. 太過頭的	⠕⠧⠻⠤⠮⠤⠞⠕⠏
+tip	n. 提示；指導	⠞⠊⠏

@@ -1,0 +1,8 @@
+arm	手臂	⠜⠍
+corn	玉米	⠉⠕⠗⠝
+car	汽車	⠉⠜
+fork	叉子	⠿⠅
+farm	農場	⠋⠜⠍
+forty	四十（數字）	⠿⠞⠽
+party	派對	⠐⠏⠽
+horse	馬	⠓⠕⠗⠎⠑

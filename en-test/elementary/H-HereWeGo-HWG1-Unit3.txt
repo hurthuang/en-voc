@@ -1,0 +1,20 @@
+book	書	⠃⠕⠕⠅
+pen	原子筆	⠏⠢
+pencil	鉛筆	⠏⠢⠉⠊⠇
+eraser	橡皮擦	⠻⠁⠎⠻
+this	這個	⠹
+that	那個	⠞
+it	它；牠	⠭
+a / an	一個（隻⋯⋯等）	⠁⠀⠸⠌⠀⠁⠝
+ruler	尺	⠗⠥⠇⠻
+marker	彩色筆	⠍⠜⠅⠻
+pig	豬	⠏⠊⠛
+pink	粉紅色的	⠏⠔⠅
+queen	皇后	⠟⠥⠑⠢
+quiz	小測驗	⠟⠥⠊⠵
+red	紅色（的）	⠗⠫
+rabbit	兔子	⠗⠁⠆⠊⠞
+snake	蛇	⠎⠝⠁⠅⠑
+sun	太陽	⠎⠥⠝
+turtle	烏龜	⠞⠥⠗⠞⠇⠑
+tiger	老虎	⠞⠊⠛⠻

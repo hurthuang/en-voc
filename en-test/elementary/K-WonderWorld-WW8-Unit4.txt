@@ -1,0 +1,6 @@
+library	圖書館	⠇⠊⠃⠗⠜⠽
+museum	博物館	⠍⠥⠎⠑⠥⠍
+coffee shop	咖啡店	⠉⠷⠋⠑⠑⠀⠩⠕⠏
+movie theater	電影院	⠍⠕⠧⠊⠑⠀⠮⠁⠞⠻
+night market	夜市	⠝⠊⠣⠞⠀⠍⠜⠅⠑⠞
+sports center	運動中心	⠎⠏⠕⠗⠞⠎⠀⠉⠢⠞⠻

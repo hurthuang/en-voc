@@ -1,0 +1,48 @@
+coriander	香菜	⠉⠕⠗⠊⠯⠻
+crispy	酥脆的	⠉⠗⠊⠎⠏⠽
+else	其他	⠑⠇⠎⠑
+feature	特色	⠋⠂⠞⠥⠗⠑
+iconic	代表性的	⠊⠉⠕⠝⠊⠉
+originate	起源	⠕⠗⠊⠛⠔⠁⠞⠑
+peanut powder	花生粉	⠏⠂⠝⠥⠞⠀⠏⠪⠙⠻
+pickled cabbage	泡菜	⠏⠊⠉⠅⠇⠫⠀⠉⠁⠆⠁⠛⠑
+pickled mustard greens	酸菜	⠏⠊⠉⠅⠇⠫⠀⠍⠌⠜⠙⠀⠛⠗⠑⠢⠎
+scenery	風景	⠎⠉⠢⠻⠽
+tapioca	樹薯	⠞⠁⠏⠊⠕⠉⠁
+tasty	美味的	⠞⠁⠌⠽
+pizza	披薩	⠏⠊⠵⠵⠁
+Italy	義大利	⠠⠊⠞⠁⠇⠽
+the UK	英國	⠮⠀⠠⠠⠥⠅
+the USA	美國	⠮⠀⠠⠠⠥⠎⠁
+a plate of	一盤	⠁⠀⠏⠇⠁⠞⠑⠀⠷
+another	另一個	⠁⠝⠕⠮⠗
+best	最好的	⠃⠑⠌
+bet	打賭	⠃⠑⠞
+chef	主廚	⠡⠑⠋
+chewy	耐嚼的	⠡⠑⠺⠽
+classic	經典的	⠉⠇⠁⠎⠎⠊⠉
+combo	組合	⠉⠕⠍⠃⠕
+curry	咖哩	⠉⠥⠗⠗⠽
+stinky tofu	臭豆腐	⠌⠔⠅⠽⠀⠞⠷⠥
+sushi	壽司	⠎⠥⠩⠊
+sausages	香腸	⠎⠁⠥⠎⠁⠛⠑⠎
+tacos	夾餅	⠞⠁⠉⠕⠎
+Germany	德國	⠠⠛⠻⠸⠍
+India	印度	⠠⠔⠙⠊⠁
+Japan	日本	⠠⠚⠁⠏⠁⠝
+Mexico	墨西哥	⠠⠍⠑⠭⠊⠉⠕
+Taiwan	臺灣	⠠⠞⠁⠊⠺⠁⠝
+fish and chips	炸魚薯條	⠋⠊⠩⠀⠯⠀⠡⠊⠏⠎
+hamburgers	漢堡	⠓⠁⠍⠃⠥⠗⠛⠻⠎
+fall	秋天	⠋⠁⠇⠇
+fever	發燒	⠋⠐⠑
+finger	手指	⠋⠬⠻
+fifty	五十	⠋⠊⠋⠞⠽
+cough	咳嗽	⠉⠳⠣
+laugh	笑	⠇⠁⠥⠣
+rough	不平的	⠗⠳⠣
+tough	艱難的	⠞⠳⠣
+phone	電話	⠏⠓⠐⠕
+photo	照片	⠏⠓⠕⠞⠕
+elephant	大象	⠑⠇⠑⠏⠓⠁⠝⠞
+dolphin	海豚	⠙⠕⠇⠏⠓⠔

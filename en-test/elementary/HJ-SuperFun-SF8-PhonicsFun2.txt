@@ -1,0 +1,8 @@
+French fries	薯條	⠠⠋⠗⠢⠡⠀⠋⠗⠊⠑⠎
+dress	洋裝	⠙⠗⠑⠎⠎
+frog	青蛙	⠋⠗⠕⠛
+driver	司機	⠙⠗⠊⠧⠻
+grapes	葡萄	⠛⠗⠁⠏⠑⠎
+trash	垃圾	⠞⠗⠁⠩
+grass	草	⠛⠗⠁⠎⠎
+truck	卡車	⠞⠗⠥⠉⠅

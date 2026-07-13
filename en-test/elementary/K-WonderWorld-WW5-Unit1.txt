@@ -1,0 +1,11 @@
+coffee	咖啡	⠉⠷⠋⠑⠑
+cola	可樂	⠉⠕⠇⠁
+lemonade	檸檬水	⠇⠑⠍⠕⠝⠁⠙⠑
+tea	茶	⠞⠑⠁
+bubble tea	珍珠奶茶	⠃⠥⠆⠇⠑⠀⠞⠑⠁
+hot chocolate	熱巧克力	⠓⠕⠞⠀⠡⠕⠉⠕⠇⠁⠞⠑
+soy milk	豆漿	⠎⠕⠽⠀⠍⠊⠇⠅
+these	這些	⠘⠮
+peach	桃子	⠏⠂⠡
+green	綠色的	⠛⠗⠑⠢
+tree	樹	⠞⠗⠑⠑

@@ -1,0 +1,15 @@
+go camping	去露營	⠛⠀⠉⠁⠍⠏⠬
+go fishing	去釣魚	⠛⠀⠋⠊⠩⠬
+go surfing	去衝浪	⠛⠀⠎⠥⠗⠋⠬
+go biking	去騎腳踏車	⠛⠀⠃⠊⠅⠬
+go hiking	去健行	⠛⠀⠓⠊⠅⠬
+go shopping	去購物	⠛⠀⠩⠕⠏⠏⠬
+go swimming	去游泳	⠛⠀⠎⠺⠊⠍⠍⠬
+free time	休閒時間	⠋⠗⠑⠑⠀⠐⠞
+owl	貓頭鷹	⠪⠇
+brown	棕色的	⠃⠗⠪⠝
+clown	小丑	⠉⠇⠪⠝
+house	房子	⠓⠳⠎⠑
+mouth	嘴巴	⠍⠳⠹
+cloud	雲朵	⠉⠇⠳⠙
+The game is in the bag!	這場比賽贏定了！	⠠⠮⠀⠛⠁⠍⠑⠀⠊⠎⠀⠔⠀⠮⠀⠃⠁⠛⠖

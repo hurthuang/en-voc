@@ -1,0 +1,17 @@
+at home	在家	⠁⠞⠀⠓⠕⠍⠑
+at school	在學校	⠁⠞⠀⠎⠡⠕⠕⠇
+at the mall	在購物中心	⠁⠞⠀⠮⠀⠍⠁⠇⠇
+at the movie theater	在電影院	⠁⠞⠀⠮⠀⠍⠕⠧⠊⠑⠀⠮⠁⠞⠻
+at the restaurant	在餐廳	⠁⠞⠀⠮⠀⠗⠑⠌⠁⠥⠗⠁⠝⠞
+at the zoo	在動物園	⠁⠞⠀⠮⠀⠵⠕⠕
+was	（am / is 的過去式）	⠴
+were	（are 的過去式）	⠶
+yesterday	昨天	⠽⠑⠌⠻⠐⠙
+crab	螃蟹	⠉⠗⠁⠃
+cream	鮮奶油	⠉⠗⠂⠍
+grass	草	⠛⠗⠁⠎⠎
+Greece	希臘	⠠⠛⠗⠑⠑⠉⠑
+train	火車	⠞⠗⠁⠔
+truck	卡車	⠞⠗⠥⠉⠅
+drink	飲料	⠙⠗⠔⠅
+drum	鼓	⠙⠗⠥⠍

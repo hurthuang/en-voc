@@ -1,0 +1,11 @@
+give flowers	送花	⠛⠊⠧⠑⠀⠋⠇⠪⠻⠎
+make a time capsule	做時空膠囊	⠍⠁⠅⠑⠀⠁⠀⠐⠞⠀⠉⠁⠏⠎⠥⠇⠑
+say thank you to the teachers	向老師說謝謝	⠎⠁⠽⠀⠹⠁⠝⠅⠀⠽⠀⠞⠕⠀⠮⠀⠞⠂⠡⠻⠎
+sign yearbooks	簽畢業紀念冊	⠎⠊⠛⠝⠀⠽⠑⠜⠃⠕⠕⠅⠎
+sing the graduation song	唱畢業歌	⠎⠬⠀⠮⠀⠛⠗⠁⠙⠥⠁⠰⠝⠀⠎⠰⠛
+book	書	⠃⠕⠕⠅
+boot	靴子	⠃⠕⠕⠞
+foot	腳	⠋⠕⠕⠞
+food	食物	⠋⠕⠕⠙
+look	看	⠇⠕⠕⠅
+pool	水池	⠏⠕⠕⠇

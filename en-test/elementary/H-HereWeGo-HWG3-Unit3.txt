@@ -1,0 +1,16 @@
+apples	蘋果（複數）	⠁⠏⠏⠇⠑⠎
+bananas	香蕉（複數）	⠃⠁⠝⠁⠝⠁⠎
+oranges	柳橙（複數）	⠕⠗⠁⠝⠛⠑⠎
+watermelons	西瓜（複數）	⠺⠁⠞⠻⠍⠑⠇⠕⠝⠎
+hamburgers	漢堡（複數）	⠓⠁⠍⠃⠥⠗⠛⠻⠎
+hot dogs	熱狗（複數）	⠓⠕⠞⠀⠙⠕⠛⠎
+sandwiches	三明治（複數）	⠎⠯⠺⠊⠡⠑⠎
+like	喜歡	⠇
+these	這些	⠘⠮
+those	那些	⠘⠹
+van	箱型車	⠧⠁⠝
+vat	大桶子	⠧⠁⠞
+vet	獸醫	⠧⠑⠞
+fan	扇子	⠋⠁⠝
+fat	胖的	⠋⠁⠞
+fun	樂趣	⠋⠥⠝

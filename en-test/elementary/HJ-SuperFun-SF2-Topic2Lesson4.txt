@@ -1,0 +1,7 @@
+sing	唱歌	⠎⠬
+dance	跳舞	⠙⠨⠑
+read	閱讀	⠗⠂⠙
+write	寫字	⠺⠗⠊⠞⠑
+draw	畫畫	⠙⠗⠁⠺
+can	能夠	⠉
+can't	不能	⠉⠄⠞

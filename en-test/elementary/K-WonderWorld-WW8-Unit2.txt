@@ -1,0 +1,9 @@
+artist	藝術家	⠜⠞⠊⠌
+dentist	牙醫	⠙⠢⠞⠊⠌
+farmer	農民	⠋⠜⠍⠻
+singer	歌手	⠎⠬⠻
+writer	作家	⠺⠗⠊⠞⠻
+basketball player	籃球員	⠃⠁⠎⠅⠑⠞⠃⠁⠇⠇⠀⠏⠇⠁⠽⠻
+bus driver	公車司機	⠃⠥⠎⠀⠙⠗⠊⠧⠻
+police officer	警察	⠏⠕⠇⠊⠉⠑⠀⠷⠋⠊⠉⠻
+be	從事⋯⋯職業	⠆

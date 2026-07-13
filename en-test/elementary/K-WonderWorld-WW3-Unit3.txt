@@ -1,0 +1,14 @@
+book	書	⠃⠕⠕⠅
+eraser	橡皮擦	⠻⠁⠎⠻
+marker	簽字筆；彩色筆	⠍⠜⠅⠻
+pen	原子筆	⠏⠢
+pencil	鉛筆	⠏⠢⠉⠊⠇
+ruler	尺	⠗⠥⠇⠻
+cod	鱈魚	⠉⠕⠙
+hop	單腳跳	⠓⠕⠏
+rob	搶劫	⠗⠕⠃
+code	代碼	⠉⠕⠙⠑
+hope	希望	⠓⠕⠏⠑
+robe	長袍	⠗⠕⠃⠑
+What happened?	發生什麼事？	⠠⠱⠁⠞⠀⠓⠁⠏⠏⠢⠫⠦
+Nice!	太好了！	⠠⠝⠊⠉⠑⠖

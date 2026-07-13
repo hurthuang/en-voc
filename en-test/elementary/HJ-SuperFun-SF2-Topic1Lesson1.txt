@@ -1,0 +1,9 @@
+eraser	橡皮擦	⠻⠁⠎⠻
+ruler	尺	⠗⠥⠇⠻
+pen	原子筆；鋼筆	⠏⠢
+marker	彩色筆	⠍⠜⠅⠻
+pencil	鉛筆	⠏⠢⠉⠊⠇
+this	這個	⠹
+that	那個	⠞
+it	它	⠭
+a/an	一個	⠁⠸⠌⠁⠝

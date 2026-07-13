@@ -1,0 +1,41 @@
+early	adj.;adv. 早的	⠑⠜⠇⠽
+work	n.;v. 工作	⠐⠺
+often	adv. 經常	⠷⠞⠢
+get up	起床	⠛⠑⠞⠀⠥⠏
+usually	adv. 通常	⠥⠎⠥⠁⠇⠇⠽
+seldom	adv. 很少	⠎⠑⠇⠙⠕⠍
+sometimes	adv. 有時候	⠐⠎⠐⠞⠎
+even	adv. 甚至	⠑⠧⠢
+late	adj.;adv. 晚的	⠇⠁⠞⠑
+do one's homework	做功課	⠙⠀⠐⠕⠄⠎⠀⠓⠕⠍⠑⠐⠺
+hour	n. 小時	⠓⠳⠗
+always	adv. 總是	⠁⠇⠺
+tired	adj. 疲累的	⠞⠊⠗⠫
+shower	n.;v. 淋浴	⠩⠪⠻
+never	adv. 從未	⠝⠐⠑
+by the way	順帶一提	⠃⠽⠀⠮⠀⠺⠁⠽
+library	n. 圖書館	⠇⠊⠃⠗⠜⠽
+check out	借（書）	⠡⠑⠉⠅⠀⠳
+once	adv. 一次	⠕⠝⠉⠑
+twice	adv. 兩次	⠞⠺⠊⠉⠑
+walk	v. 遛（寵物）	⠺⠁⠇⠅
+I can't help it.	我沒辦法。	⠠⠊⠀⠉⠄⠞⠀⠓⠑⠇⠏⠀⠊⠞⠲
+then	adv. 然後	⠮⠝
+too	adv. 太…	⠞⠕⠕
+How often...?	多常…？	⠠⠓⠪⠀⠷⠞⠢⠲⠲⠲⠦
+about	adv. 大約	⠁⠃
+brush one's teeth	刷牙	⠃⠗⠥⠩⠀⠐⠕⠄⠎⠀⠞⠑⠑⠹
+face	n. 臉	⠋⠁⠉⠑
+breakfast	n. 早餐	⠃⠗⠂⠅⠋⠁⠌
+lunch	n. 午餐	⠇⠥⠝⠡
+exercise	v.;n. 運動	⠑⠭⠻⠉⠊⠎⠑
+computer	n. 電腦	⠉⠕⠍⠏⠥⠞⠻
+minute	n. 分鐘	⠍⠔⠥⠞⠑
+answer	n.;v. 回答；答案	⠁⠝⠎⠺⠻
+question	n. 問題	⠐⠟
+trouble	n. 困難；麻煩	⠞⠗⠳⠃⠇⠑
+life	n. 生活；生命	⠇⠊⠋⠑
+love	v.;n. 愛	⠇⠕⠧⠑
+real	adj. 真實的	⠗⠂⠇
+cram school	n. 補習班	⠉⠗⠁⠍⠀⠎⠡⠕⠕⠇
+owl	n. 貓頭鷹	⠪⠇

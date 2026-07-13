@@ -1,0 +1,10 @@
+sixteen	十六	⠎⠊⠭⠞⠑⠢
+seventeen	十七	⠎⠑⠧⠢⠞⠑⠢
+eighteen	十八	⠑⠊⠣⠞⠑⠢
+nineteen	十九	⠝⠔⠑⠞⠑⠢
+twenty	二十	⠞⠺⠢⠞⠽
+big	大的	⠃⠊⠛
+box	箱子	⠃⠕⠭
+pig	豬	⠏⠊⠛
+pen	筆	⠏⠢
+pat	輕拍	⠏⠁⠞

@@ -1,0 +1,14 @@
+dance	跳舞	⠙⠨⠑
+draw	畫畫	⠙⠗⠁⠺
+jump	跳	⠚⠥⠍⠏
+read	閱讀	⠗⠂⠙
+sing	唱歌	⠎⠬
+swim	游泳	⠎⠺⠊⠍
+write	寫字	⠺⠗⠊⠞⠑
+can	能；會	⠉
+do	做	⠙
+big	大的	⠃⠊⠛
+dig	挖	⠙⠊⠛
+pig	豬	⠏⠊⠛
+kick	踢	⠅⠊⠉⠅
+sick	生病的	⠎⠊⠉⠅

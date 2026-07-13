@@ -1,0 +1,8 @@
+car	汽車	⠉⠜
+cent	分（貨幣單位）	⠉⠢⠞
+candy	糖果	⠉⠯⠽
+city	城市	⠉⠰⠽
+picnic	野餐	⠏⠊⠉⠝⠊⠉
+pencil	鉛筆	⠏⠢⠉⠊⠇
+music	音樂	⠍⠥⠎⠊⠉
+Nancy	（女子名）	⠠⠝⠁⠝⠉⠽

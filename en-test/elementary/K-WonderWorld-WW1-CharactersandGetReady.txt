@@ -1,0 +1,15 @@
+ant	螞蟻	⠁⠝⠞
+apple	蘋果	⠁⠏⠏⠇⠑
+bed	床	⠃⠫
+bag	袋子	⠃⠁⠛
+cat	貓	⠉⠁⠞
+cab	計程車	⠉⠁⠃
+duck	鴨子	⠙⠥⠉⠅
+dad	爸爸	⠙⠁⠙
+egg	蛋	⠑⠛⠛
+elephant	大象	⠑⠇⠑⠏⠓⠁⠝⠞
+one	一	⠐⠕
+two	二	⠞⠺⠕
+three	三	⠹⠗⠑⠑
+four	四	⠋⠳⠗
+five	五	⠋⠊⠧⠑

@@ -1,0 +1,17 @@
+department store	百貨公司	⠙⠑⠐⠏⠰⠞⠀⠌⠕⠗⠑
+night market	夜市	⠝⠊⠣⠞⠀⠍⠜⠅⠑⠞
+ate snacks	吃點心（過去式）	⠁⠞⠑⠀⠎⠝⠁⠉⠅⠎
+drank juice	喝果汁（過去式）	⠙⠗⠁⠝⠅⠀⠚⠥⠊⠉⠑
+flew a kite	放風箏（過去式）	⠋⠇⠑⠺⠀⠁⠀⠅⠊⠞⠑
+rode a bike	騎腳踏車（過去式）	⠗⠕⠙⠑⠀⠁⠀⠃⠊⠅⠑
+saw a movie	看電影（過去式）	⠎⠁⠺⠀⠁⠀⠍⠕⠧⠊⠑
+went shopping	去購物（過去式）	⠺⠢⠞⠀⠩⠕⠏⠏⠬
+last weekend	上週末	⠇⠁⠌⠀⠺⠑⠑⠅⠢⠙
+amusement park	遊樂園	⠁⠍⠥⠎⠑⠰⠞⠀⠏⠜⠅
+riverside park	河濱公園	⠗⠊⠧⠻⠎⠊⠙⠑⠀⠏⠜⠅
+ice	冰	⠊⠉⠑
+city	城市	⠉⠰⠽
+spicy	辣的	⠎⠏⠊⠉⠽
+candy	糖果	⠉⠯⠽
+doctor	醫生	⠙⠕⠉⠞⠕⠗
+music	音樂	⠍⠥⠎⠊⠉

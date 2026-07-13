@@ -1,0 +1,19 @@
+Canada	加拿大	⠠⠉⠁⠝⠁⠙⠁
+Egypt	埃及	⠠⠑⠛⠽⠏⠞
+Greece	希臘	⠠⠛⠗⠑⠑⠉⠑
+Italy	義大利	⠠⠊⠞⠁⠇⠽
+Japan	日本	⠠⠚⠁⠏⠁⠝
+Taiwan	臺灣	⠠⠞⠁⠊⠺⠁⠝
+the UK	英國	⠮⠀⠠⠠⠥⠅
+the USA	美國	⠮⠀⠠⠠⠥⠎⠁
+from	從......來	⠋
+market	市場	⠍⠜⠅⠑⠞
+over there	在那裡	⠕⠧⠻⠀⠐⠮
+past	過去	⠏⠁⠌
+bank	銀行	⠃⠁⠝⠅
+pink	粉紅色的	⠏⠔⠅
+tank	坦克車	⠞⠁⠝⠅
+king	國王	⠅⠬
+long	長的	⠇⠰⠛
+ring	戒指	⠗⠬
+It's all Greek to me.	我完全不懂。	⠠⠭⠄⠎⠀⠁⠇⠇⠀⠠⠛⠗⠑⠑⠅⠀⠞⠕⠀⠍⠑⠲

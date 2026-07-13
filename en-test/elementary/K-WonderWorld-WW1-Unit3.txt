@@ -1,0 +1,24 @@
+robot	機器人	⠗⠕⠃⠕⠞
+yo-yo	溜溜球	⠽⠕⠤⠽⠕
+a	一個	⠁
+what	什麼	⠱⠁⠞
+this	這個	⠹
+that	那個	⠞
+it	它	⠭
+is	是	⠊⠎
+What's this?	這個是什麼？	⠠⠱⠁⠞⠄⠎⠀⠹⠊⠎⠦
+It's a kite.	它是一只風箏。	⠠⠭⠄⠎⠀⠁⠀⠅⠊⠞⠑⠲
+Come here.	過來這裡。	⠠⠉⠕⠍⠑⠀⠐⠓⠲
+I'm sorry.	對不起。	⠠⠊⠄⠍⠀⠎⠕⠗⠗⠽⠲
+pig	豬	⠏⠊⠛
+pan	平底鍋	⠏⠁⠝
+queen	皇后	⠟⠥⠑⠢
+quiz	小考；測驗	⠟⠥⠊⠵
+rabbit	兔子	⠗⠁⠆⠊⠞
+red	紅色	⠗⠫
+sun	太陽	⠎⠥⠝
+top	陀螺	⠞⠕⠏
+ball	皮球	⠃⠁⠇⠇
+car	車	⠉⠜
+doll	洋娃娃	⠙⠕⠇⠇
+kite	風箏	⠅⠊⠞⠑

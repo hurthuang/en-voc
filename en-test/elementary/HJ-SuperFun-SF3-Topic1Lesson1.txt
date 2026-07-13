@@ -1,0 +1,7 @@
+who	誰	⠱⠕
+father(dad)	爸爸	⠐⠋
+grandfather(grandpa)	祖父；爺爺	⠛⠗⠯⠐⠋
+grandmother(grandma)	祖母；奶奶	⠛⠗⠯⠐⠍
+sister	姐妹	⠎⠊⠌⠻
+mother(mom)	媽媽	⠐⠍
+brother	兄弟	⠃⠗⠕⠮⠗

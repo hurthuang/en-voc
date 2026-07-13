@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>英文科各出版社教材系列對照表｜康軒．翰林．南一．何嘉仁</title>
+<style>
+  :root{
+    --bg:#F5F6F4;
+    --surface:#FFFFFF;
+    --surface-2:#FAFAF9;
+    --ink:#1C2024;
+    --ink-soft:#5B6570;
+    --ink-faint:#8A929B;
+    --line:#DFE3E0;
+    --line-strong:#C7CCC9;
+    --accent:#29506F;
+    --accent-tint:#E7EEF2;
+    --knsh:#1F7A63;
+    --knsh-tint:#E5F2EE;
+    --hle:#754A93;
+    --hle-tint:#EFE7F4;
+    --nani:#A65B18;
+    --nani-tint:#F5EAE0;
+    --hess:#B23B4E;
+    --hess-tint:#F7E7E9;
+    --ok:#1F7A45;
+    --no:#B23B4E;
+    --radius:12px;
+    --shadow:0 1px 2px rgba(20,24,28,.05),0 6px 16px rgba(20,24,28,.06);
+    --serif:'Noto Serif TC','Songti TC','PMingLiU',serif;
+    --sans:'Noto Sans TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{
+      --bg:#14171B; --surface:#1B1F24; --surface-2:#21262C;
+      --ink:#E7E9EB; --ink-soft:#9BA4AD; --ink-faint:#6C7580;
+      --line:#2B3138; --line-strong:#3A4149;
+      --accent:#79B0D6; --accent-tint:#213039;
+      --knsh:#54C9AA; --knsh-tint:#16302A;
+      --hle:#C39BE3; --hle-tint:#2C2333;
+      --nani:#E39A4F; --nani-tint:#332419;
+      --hess:#E38B96; --hess-tint:#3A2226;
+      --ok:#5FC98A; --no:#E38B96;
+      --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 20px rgba(0,0,0,.35);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#14171B; --surface:#1B1F24; --surface-2:#21262C;
+    --ink:#E7E9EB; --ink-soft:#9BA4AD; --ink-faint:#6C7580;
+    --line:#2B3138; --line-strong:#3A4149;
+    --accent:#79B0D6; --accent-tint:#213039;
+    --knsh:#54C9AA; --knsh-tint:#16302A;
+    --hle:#C39BE3; --hle-tint:#2C2333;
+    --nani:#E39A4F; --nani-tint:#332419;
+    --hess:#E38B96; --hess-tint:#3A2226;
+    --ok:#5FC98A; --no:#E38B96;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 8px 20px rgba(0,0,0,.35);
+  }
+  :root[data-theme="light"]{
+    --bg:#F5F6F4; --surface:#FFFFFF; --surface-2:#FAFAF9;
+    --ink:#1C2024; --ink-soft:#5B6570; --ink-faint:#8A929B;
+    --line:#DFE3E0; --line-strong:#C7CCC9;
+    --accent:#29506F; --accent-tint:#E7EEF2;
+    --knsh:#1F7A63; --knsh-tint:#E5F2EE;
+    --hle:#754A93; --hle-tint:#EFE7F4;
+    --nani:#A65B18; --nani-tint:#F5EAE0;
+    --hess:#B23B4E; --hess-tint:#F7E7E9;
+    --ok:#1F7A45; --no:#B23B4E;
+    --shadow:0 1px 2px rgba(20,24,28,.05),0 6px 16px rgba(20,24,28,.06);
+  }
+
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; padding:0; }
+  body{
+    background:var(--bg);
+    color:var(--ink);
+    font-family:var(--sans);
+    font-variant-numeric:tabular-nums;
+    line-height:1.55;
+    -webkit-font-smoothing:antialiased;
+    overflow-x:hidden;
+  }
+  ::selection{ background:var(--accent-tint); color:var(--ink); }
+  a{ color:var(--accent); }
+
+  .wrap{ max-width:880px; margin:0 auto; padding:0 20px 72px; }
+
+  header.top{
+    position:sticky; top:0; z-index:5;
+    background:color-mix(in srgb, var(--bg) 92%, transparent);
+    backdrop-filter:blur(8px);
+    border-bottom:1px solid var(--line);
+    padding:22px 0 16px;
+  }
+  header.top .inner{ max-width:880px; margin:0 auto; padding:0 20px; }
+  h1{
+    font-family:var(--serif);
+    font-weight:700;
+    font-size:clamp(1.35rem,1.05rem + 1.2vw,1.8rem);
+    margin:0 0 4px;
+    text-wrap:balance;
+    letter-spacing:.01em;
+  }
+  p.lede{ margin:0; color:var(--ink-soft); font-size:.9rem; }
+  p.lede .date{ font-variant-numeric:tabular-nums; }
+
+  main{ padding-top:26px; }
+
+  /* ---- overview matrix ---- */
+  section.overview{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    box-shadow:var(--shadow);
+    padding:20px 22px;
+    margin-bottom:26px;
+  }
+  h2.ov-title{
+    font-family:var(--serif);
+    font-size:1.05rem;
+    font-weight:700;
+    margin:0 0 14px;
+  }
+  table.matrix{ width:100%; border-collapse:collapse; font-size:.86rem; }
+  table.matrix th, table.matrix td{
+    text-align:left;
+    padding:9px 10px;
+    border-bottom:1px solid var(--line);
+  }
+  table.matrix thead th{
+    font-weight:600;
+    color:var(--ink-soft);
+    font-size:.76rem;
+    letter-spacing:.03em;
+  }
+  table.matrix tbody th{
+    font-weight:700;
+    white-space:nowrap;
+  }
+  table.matrix tbody tr:last-child td, table.matrix tbody tr:last-child th{ border-bottom:none; }
+  .pill{
+    display:inline-flex; align-items:center; gap:5px;
+    font-size:.78rem; font-weight:600;
+    padding:3px 9px 3px 7px;
+    border-radius:999px;
+  }
+  .pill.yes{ background:color-mix(in srgb, var(--ok) 14%, var(--surface)); color:var(--ok); }
+  .pill.no{ background:color-mix(in srgb, var(--no) 12%, var(--surface)); color:var(--no); }
+  .pill::before{ content:"●"; font-size:.6em; }
+  .ov-note{
+    margin:14px 0 0;
+    font-size:.8rem;
+    color:var(--ink-faint);
+    border-top:1px dashed var(--line);
+    padding-top:12px;
+  }
+
+  /* ---- publisher sections ---- */
+  section.pub{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-left:5px solid var(--pub-color);
+    border-radius:var(--radius);
+    box-shadow:var(--shadow);
+    padding:20px 22px 8px;
+    margin-bottom:22px;
+  }
+  .pub-head{ display:flex; align-items:baseline; gap:10px; flex-wrap:wrap; margin-bottom:2px; }
+  h2.pub-title{
+    font-family:var(--serif); font-weight:700;
+    font-size:1.28rem; color:var(--pub-color); margin:0;
+  }
+  .pub-full{ font-size:.76rem; color:var(--ink-faint); letter-spacing:.03em; }
+
+  .stage{ margin-top:16px; margin-bottom:14px; }
+  h3.stage-title{
+    font-size:.82rem; font-weight:700;
+    text-transform:uppercase; letter-spacing:.06em;
+    color:var(--ink-faint);
+    margin:0 0 10px;
+    display:flex; align-items:center; gap:8px;
+  }
+  h3.stage-title .badge{
+    font-size:.68rem; font-weight:700; letter-spacing:0;
+    text-transform:none;
+    padding:2px 8px; border-radius:999px;
+  }
+  h3.stage-title .badge.yes{ background:var(--pub-tint); color:var(--pub-color); }
+  h3.stage-title .badge.no{ background:color-mix(in srgb, var(--no) 12%, var(--surface)); color:var(--no); }
+
+  .series-grid{
+    display:grid;
+    grid-template-columns:repeat(auto-fill,minmax(230px,1fr));
+    gap:10px;
+    margin-bottom:4px;
+  }
+  .series-card{
+    background:var(--surface-2);
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:13px 14px 12px;
+  }
+  .series-card .sname{
+    font-weight:700; font-size:.93rem;
+    margin:0 0 8px;
+    display:flex; align-items:baseline; justify-content:space-between; gap:8px;
+  }
+  .series-card .vcount{
+    font-size:.72rem; font-weight:600;
+    color:var(--pub-color);
+    background:var(--pub-tint);
+    padding:2px 8px; border-radius:999px;
+    white-space:nowrap;
+  }
+  .vol-badges{
+    display:flex; flex-wrap:wrap; gap:4px;
+    margin:0 0 8px;
+  }
+  .vol{
+    font-size:.68rem; font-weight:600;
+    color:var(--ink-soft);
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:5px;
+    padding:2px 6px;
+    font-variant-numeric:tabular-nums;
+  }
+  .vol.confirmed{ color:var(--pub-color); border-color:color-mix(in srgb, var(--pub-color) 35%, var(--line)); }
+  .series-card .snote{
+    font-size:.76rem; color:var(--ink-faint);
+    margin:0;
+    line-height:1.5;
+  }
+
+  .unified-note{
+    background:var(--surface-2);
+    border:1px solid var(--line);
+    border-radius:10px;
+    padding:13px 14px;
+    font-size:.84rem;
+    color:var(--ink-soft);
+    line-height:1.6;
+  }
+  .unified-note strong{ color:var(--ink); }
+  .unified-note .tag{
+    display:inline-block;
+    font-size:.68rem; font-weight:700;
+    color:var(--pub-color);
+    background:var(--pub-tint);
+    padding:2px 8px; border-radius:999px;
+    margin-right:6px;
+    vertical-align:1px;
+  }
+
+  .none-note{
+    font-size:.84rem;
+    color:var(--ink-faint);
+    padding:13px 0 16px;
+  }
+
+  /* ---- footer notes ---- */
+  section.caveats{
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:var(--radius);
+    padding:18px 22px;
+    margin-top:8px;
+  }
+  h2.cav-title{
+    font-family:var(--serif); font-size:1rem; font-weight:700;
+    margin:0 0 10px;
+  }
+  ol.cav-list{ margin:0; padding-left:1.2em; font-size:.84rem; color:var(--ink-soft); }
+  ol.cav-list li{ margin-bottom:7px; }
+  ol.cav-list li:last-child{ margin-bottom:0; }
+
+  footer.page-foot{
+    text-align:center;
+    font-size:.76rem;
+    color:var(--ink-faint);
+    padding:26px 0 0;
+  }
+
+  @media (max-width:520px){
+    table.matrix{ font-size:.8rem; }
+    table.matrix th, table.matrix td{ padding:8px 6px; }
+  }
+</style>
+</head>
+<body>
+
+<div class="wrap">
+  <header class="top">
+    <div class="inner">
+      <h1>英文科各出版社教材系列對照表</h1>
+      <p class="lede">康軒．翰林．南一．何嘉仁 — 系列、冊數與國小／國中涵蓋範圍　·　整理日期 <span class="date">2026-07-13</span></p>
+    </div>
+  </header>
+
+  <main>
+
+    <section class="overview">
+      <h2 class="ov-title">總覽</h2>
+      <table class="matrix">
+        <thead>
+          <tr><th>出版社</th><th>國小英語</th><th>國中英語</th></tr>
+        </thead>
+        <tbody>
+          <tr><th style="color:var(--knsh)">康軒</th><td><span class="pill yes">5 個分級系列</span></td><td><span class="pill yes">單一「英語」科目</span></td></tr>
+          <tr><th style="color:var(--hle)">翰林</th><td><span class="pill yes">4 個分級系列</span></td><td><span class="pill yes">單一「英語」科目</span></td></tr>
+          <tr><th style="color:var(--nani)">南一</th><td><span class="pill no">無英語教材</span></td><td><span class="pill yes">單一「英語」科目</span></td></tr>
+          <tr><th style="color:var(--hess)">何嘉仁</th><td><span class="pill yes">5 個分級系列</span></td><td><span class="pill no">平台未見資源</span></td></tr>
+        </tbody>
+      </table>
+      <p class="ov-note">康軒、翰林在<strong style="color:var(--ink)">國小</strong>階段採多品牌分級系列模式（各系列獨立命名，各自涵蓋一段年級範圍）；到了<strong style="color:var(--ink)">國中</strong>則與國文、數學等科目一樣，統一歸在單一「英語」科目下（冊別為7上～9下標準6冊，無分級系列）。南一國小完全沒有英語教材，國中則與康軒、翰林結構相同。</p>
+    </section>
+
+    <!-- 康軒 -->
+    <section class="pub" style="--pub-color:var(--knsh); --pub-tint:var(--knsh-tint);">
+      <div class="pub-head">
+        <h2 class="pub-title">康軒</h2>
+        <span class="pub-full">Kang Hsuan</span>
+      </div>
+
+      <div class="stage">
+        <h3 class="stage-title">國小　<span class="badge yes">5 個分級系列</span></h3>
+        <div class="series-grid">
+          <div class="series-card">
+            <p class="sname">Follow Me<span class="vcount">10冊</span></p>
+            <div class="vol-badges">
+              <span class="vol confirmed">FM7</span><span class="vol confirmed">FM8</span><span class="vol confirmed">FM9</span><span class="vol confirmed">FM10</span><span class="vol">FM1</span><span class="vol">FM2</span><span class="vol">FM3</span><span class="vol">FM4</span><span class="vol">FM5</span><span class="vol">FM6</span>
+            </div>
+            <p class="snote">切過112上～115上全部7個學期：FM7/8/9/10 皆確認可存取；FM1～6 從未出現過，判斷為權限範圍外。</p>
+          </div>
+          <div class="series-card">
+            <p class="sname">Wonder World<span class="vcount">10冊</span></p>
+            <div class="vol-badges">
+              <span class="vol confirmed">WW1</span><span class="vol confirmed">WW2</span><span class="vol confirmed">WW3</span><span class="vol confirmed">WW4</span><span class="vol confirmed">WW5</span><span class="vol confirmed">WW6</span><span class="vol confirmed">WW7</span><span class="vol confirmed">WW8</span><span class="vol confirmed">WW9</span><span class="vol confirmed">WW10</span>
+            </div>
+            <p class="snote">全10冊皆確認可存取：115上學期見單數冊(1/3/5/7/9)，其餘學期見雙數冊(2/4/6/8/10)。</p>
+          </div>
+          <div class="series-card">
+            <p class="sname">Super Starter<span class="vcount">4冊</span></p>
+            <div class="vol-badges">
+              <span class="vol confirmed">SS1</span><span class="vol confirmed">SS2</span><span class="vol confirmed">SS3</span><span class="vol confirmed">SS4</span>
+            </div>
+            <p class="snote">114上見 SS1、SS3；114下見 SS2、SS4。</p>
+          </div>
+          <div class="series-card">
+            <p class="sname">Bravo ABC<span class="vcount">4冊</span></p>
+            <div class="vol-badges">
+              <span class="vol confirmed">BA1</span><span class="vol confirmed">BA2</span><span class="vol confirmed">BA3</span><span class="vol confirmed">BA4</span>
+            </div>
+            <p class="snote">114上見 BA1、BA3；114下見 BA2、BA4。</p>
+          </div>
+          <div class="series-card">
+            <p class="sname">Cool ABC<span class="vcount">4冊</span></p>
+            <div class="vol-badges">
+              <span class="vol confirmed">CA2</span><span class="vol confirmed">CA4</span><span class="vol">CA1</span><span class="vol">CA3</span>
+            </div>
+            <p class="snote">114下見 CA2、CA4；另有素養學習單、國際文化PPT等補充資源。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="stage">
+        <h3 class="stage-title">國中　<span class="badge yes">單一「英語」科目</span></h3>
+        <div class="unified-note">
+          <span class="tag">field=en</span>科目清單中「英語」與國文、數學、自然等並列，<strong>非分級品牌系列</strong>，冊別為 7上／7下／8上／8下／9上／9下 標準6冊，與其他科目結構一致。
+        </div>
+      </div>
+    </section>
+
+    <!-- 翰林 -->
+    <section class="pub" style="--pub-color:var(--hle); --pub-tint:var(--hle-tint);">
+      <div class="pub-head">
+        <h2 class="pub-title">翰林</h2>
+        <span class="pub-full">Hanlin</span>
+      </div>
+
+      <div class="stage">
+        <h3 class="stage-title">國小　<span class="badge yes">4 個分級系列</span></h3>
+        <div class="series-grid">
+          <div class="series-card">
+            <p class="sname">英語-HereWeGo<span class="vcount">8冊</span></p>
+            <div class="vol-badges">
+              <span class="vol confirmed">1</span><span class="vol confirmed">2</span><span class="vol confirmed">3</span><span class="vol confirmed">4</span><span class="vol confirmed">5</span><span class="vol confirmed">6</span><span class="vol confirmed">7</span><span class="vol confirmed">8</span>
+            </div>
+            <p class="snote">113學年度全冊次確認為 HereWeGo 1～8。</p>
+          </div>
+          <div class="series-card">
+            <p class="sname">英語-Hooray<span class="vcount">6冊</span></p>
+            <div class="vol-badges">
+              <span class="vol confirmed">Phonics 1</span><span class="vol confirmed">Phonics 2</span><span class="vol confirmed">Hooray 1</span><span class="vol confirmed">Hooray 2</span><span class="vol confirmed">Hooray 3</span><span class="vol confirmed">Hooray 4</span>
+            </div>
+            <p class="snote">含2本獨立編號的 Phonics 入門書，另加 Hooray 1～4。</p>
+          </div>
+          <div class="series-card">
+            <p class="sname">英語-Dino<span class="vcount">2冊</span></p>
+            <div class="vol-badges">
+              <span class="vol confirmed">第九冊</span><span class="vol confirmed">第十冊</span>
+            </div>
+            <p class="snote">冊次編號承接平台全年級連續編號，推測對應較高年級（非官方標示）。</p>
+          </div>
+          <div class="series-card">
+            <p class="sname">英語-Twinkle<span class="vcount">2冊</span></p>
+            <div class="vol-badges">
+              <span class="vol confirmed">Twinkle 1</span><span class="vol confirmed">Twinkle 2</span>
+            </div>
+            <p class="snote">114學年度已上架；115學年度尚無電子書資源，為最新系列。</p>
+          </div>
+        </div>
+      </div>
+
+      <div class="stage">
+        <h3 class="stage-title">國中　<span class="badge yes">單一「英語」科目</span></h3>
+        <div class="unified-note">
+          <span class="tag">prd=JEN</span>科目清單中「英語」與國文、數學等並列，<strong>非分級品牌系列</strong>，標準6冊結構，與康軒國中英語一致。
+        </div>
+      </div>
+    </section>
+
+    <!-- 南一 -->
+    <section class="pub" style="--pub-color:var(--nani); --pub-tint:var(--nani-tint);">
+      <div class="pub-head">
+        <h2 class="pub-title">南一</h2>
+        <span class="pub-full">Nan I</span>
+      </div>
+
+      <div class="stage">
+        <h3 class="stage-title">國小　<span class="badge no">無英語教材</span></h3>
+        <p class="none-note">科目清單為：國語、數學、生活、自然、社會、健體、綜合、藝文 — 未見英語。南一國小不出版英語教材。</p>
+      </div>
+
+      <div class="stage">
+        <h3 class="stage-title">國中　<span class="badge yes">單一「英語」科目</span></h3>
+        <div class="unified-note">
+          有「英語」科目，與國文、數學並列，<strong>非分級品牌系列</strong>，標準6冊（7上～9下），另含「全英備課用書」等補充資源。
+        </div>
+      </div>
+    </section>
+
+    <!-- 何嘉仁 -->
+    <section class="pub" style="--pub-color:var(--hess); --pub-tint:var(--hess-tint);">
+      <div class="pub-head">
+        <h2 class="pub-title">何嘉仁</h2>
+        <span class="pub-full">Hess</span>
+      </div>
+
+      <div class="stage">
+        <h3 class="stage-title">教材系列　<span class="badge yes">5 個分級系列</span></h3>
+        <div class="series-grid">
+          <div class="series-card">
+            <p class="sname">Super Fun<span class="vcount">10冊</span></p>
+            <p class="snote">冊數規模最大，涵蓋範圍推測最廣（非官方年級標示）。</p>
+          </div>
+          <div class="series-card">
+            <p class="sname">WOW! STORY<span class="vcount">4冊</span></p>
+          </div>
+          <div class="series-card">
+            <p class="sname">Fun World<span class="vcount">4冊</span></p>
+            <p class="snote">由 FW1-4題庫.iso 命名確認共4冊。</p>
+          </div>
+          <div class="series-card">
+            <p class="sname">Go Magic!<span class="vcount">4冊</span></p>
+          </div>
+          <div class="series-card">
+            <p class="sname">Go! Go! World<span class="vcount">2冊</span></p>
+          </div>
+        </div>
+        <p class="snote" style="margin-top:10px;">另有 5 類非分級的補充資源（非教材系列，不計入上表冊數）。平台上未見國中相關資源。</p>
+      </div>
+
+      <div class="stage">
+        <h3 class="stage-title">單字表蒐集狀況　<span class="badge yes">Super Fun 第1～8冊 已完成</span></h3>
+        <p class="snote">僅 Super Fun 系列的「教學資源」內有逐冊「單元字彙/課文中譯表.docx」可下載，第1～8冊已確認蒐集完畢（單數冊需選學年度「114上」、雙數冊需選「114下」才會出現在冊別選單）；第9/10冊確認3種服務分類下皆無此檔案。其餘4系列（WOW! STORY／Fun World／Go Magic!／Go! Go! World）皆為自然發音字母教材或圖卡/課本類資源，無主題式單字表。詳見 <code>英文單字表_何嘉仁.md</code>。</p>
+      </div>
+    </section>
+
+    <section class="caveats">
+      <h2 class="cav-title">資料侷限與待確認事項</h2>
+      <ol class="cav-list">
+        <li>康軒／翰林國小各英語系列所對應的<strong style="color:var(--ink)">確切年級</strong>（如「Follow Me 對應幾年級到幾年級」）均為由冊次分布／連續編號推測，平台未提供官方年級對照表，需要更精確資訊時建議直接向出版社業務確認。</li>
+        <li>何嘉仁 5 個系列的<strong style="color:var(--ink)">適用年級</strong>同樣未找到官方來源（查過出版社行銷頁、esl.hess.com.tw 等），僅能由冊數規模粗略推測。</li>
+        <li>翰林國中是否仍有除「英語」外的獨立分級系列（如國小的 Dino／Hooray 等）未見，資料顯示國中僅有單一「英語」科目。</li>
+      </ol>
+    </section>
+
+  </main>
+
+  <footer class="page-foot">
+    資料來源：康軒數位高手．翰林行動大師3．南一 NaniBox3．何嘉仁 TeachingResources　·　114～115學年度
+  </footer>
+</div>
+
+</body>
+</html>

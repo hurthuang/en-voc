@@ -1,0 +1,8 @@
+bakery	麵包店	⠃⠁⠅⠻⠽
+bank	銀行	⠃⠁⠝⠅
+bookstore	書店	⠃⠕⠕⠅⠌⠕⠗⠑
+hospital	醫院	⠓⠕⠎⠏⠊⠞⠁⠇
+park	公園	⠏⠜⠅
+post office	郵局	⠏⠕⠌⠀⠷⠋⠊⠉⠑
+restaurant	餐廳	⠗⠑⠌⠁⠥⠗⠁⠝⠞
+supermarket	超市	⠎⠥⠏⠻⠍⠜⠅⠑⠞

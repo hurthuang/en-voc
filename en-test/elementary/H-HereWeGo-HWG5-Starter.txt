@@ -1,0 +1,15 @@
+ten	十	⠞⠢
+twenty	二十	⠞⠺⠢⠞⠽
+thirty	三十	⠹⠊⠗⠞⠽
+forty	四十	⠿⠞⠽
+fifty	五十	⠋⠊⠋⠞⠽
+sixty	六十	⠎⠊⠭⠞⠽
+seventy	七十	⠎⠑⠧⠢⠞⠽
+eighty	八十	⠑⠊⠣⠞⠽
+ninety	九十	⠝⠔⠑⠞⠽
+one hundred	一百	⠐⠕⠀⠓⠥⠝⠙⠗⠫
+cake	蛋糕	⠉⠁⠅⠑
+lake	湖泊	⠇⠁⠅⠑
+email	電子郵件	⠑⠍⠁⠊⠇
+rain	雨	⠗⠁⠔
+today	今天	⠞⠙

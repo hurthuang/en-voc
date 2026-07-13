@@ -1,0 +1,28 @@
+scarf	圍巾	⠎⠉⠜⠋
+shirt	襯衫	⠩⠊⠗⠞
+sweater	毛衣	⠎⠺⠂⠞⠻
+vest	背心	⠧⠑⠌
+pants	長褲	⠏⠁⠝⠞⠎
+shorts	短褲	⠩⠕⠗⠞⠎
+sneakers	運動鞋（常用複數）	⠎⠝⠂⠅⠻⠎
+socks	襪子（常用複數）	⠎⠕⠉⠅⠎
+dollar	元	⠙⠕⠇⠇⠜
+how much	多少	⠓⠪⠀⠍⠡
+these	這些	⠘⠮
+those	那些	⠘⠹
+kid	小孩	⠅⠊⠙
+shopping	正在購物	⠩⠕⠏⠏⠬
+camp	營隊	⠉⠁⠍⠏
+next	下一個	⠝⠑⠭⠞
+sold out	售完	⠎⠕⠇⠙⠀⠳
+winner	贏家	⠺⠔⠝⠻
+winning	快要贏了	⠺⠔⠝⠬
+cheer for	為......打氣；鼓舞	⠡⠑⠻⠀⠿
+Go!	加油！	⠠⠛⠕⠖
+just	只是	⠚
+oil	油	⠕⠊⠇
+coin	硬幣	⠉⠕⠔
+noisy	吵鬧的	⠝⠕⠊⠎⠽
+boy	男孩	⠃⠕⠽
+toy	玩具	⠞⠕⠽
+He has ants in his pants.	他很著急。	⠠⠓⠑⠀⠓⠁⠎⠀⠁⠝⠞⠎⠀⠔⠀⠦⠀⠏⠁⠝⠞⠎⠲

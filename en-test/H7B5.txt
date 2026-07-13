@@ -1,0 +1,46 @@
+yesterday	adv.;n. 昨天	⠽⠑⠌⠻⠐⠙
+beach	n. 海灘	⠃⠂⠡
+trash	n. 垃圾	⠞⠗⠁⠩
+ago	adv. 前；以前	⠁⠛⠕
+visit	v.;n. 拜訪	⠧⠊⠎⠊⠞
+island	n. 島嶼	⠊⠎⠇⠯
+a few	幾個；一些	⠁⠀⠋⠑⠺
+sea	n. 海	⠎⠑⠁
+stop	v. 停止	⠌⠕⠏
+happen	v. 發生	⠓⠁⠏⠏⠢
+dead	adj. 死亡的	⠙⠂⠙
+warm	adj. 溫暖的	⠺⠜⠍
+rainforest	n. 雨林（＝rain forest）	⠗⠁⠔⠿⠑⠌
+die	v. 死亡	⠙⠊⠑
+by	prep. 在…旁邊	⠃⠽
+How come?	怎麼會？	⠠⠓⠪⠀⠉⠕⠍⠑⠦
+then	adv. 那時候	⠮⠝
+busy	adj. 忙碌的	⠃⠥⠎⠽
+river	n. 河流	⠗⠊⠧⠻
+lake	n. 湖泊	⠇⠁⠅⠑
+hill	n. 山丘	⠓⠊⠇⠇
+mountain	n. 山	⠍⠨⠞⠁⠔
+camp	n.;v. 露營；紮營	⠉⠁⠍⠏
+climb	v. 爬（山）	⠉⠇⠊⠍⠃
+row a boat	划船	⠗⠪⠀⠁⠀⠃⠕⠁⠞
+plant	v.;n. 種植；植物	⠏⠇⠁⠝⠞
+hike	v.;n. 健行	⠓⠊⠅⠑
+picnic	v.;n. 野餐	⠏⠊⠉⠝⠊⠉
+last	adj. 上一個的	⠇⠁⠌
+live	v. 居住	⠇⠊⠧⠑
+playground	n. 遊樂場；操場	⠏⠇⠁⠽⠛⠗⠨⠙
+everything	pron. 每樣事物	⠐⠑⠽⠹⠬
+change	v.;n. 改變	⠡⠁⠝⠛⠑
+burn	v. 燃燒	⠃⠥⠗⠝
+oil	n. 油	⠕⠊⠇
+sell	v. 賣	⠎⠑⠇⠇
+make money	賺錢	⠍⠁⠅⠑⠀⠍⠐⠕⠽
+miss	v. 想念	⠍⠊⠎⠎
+little	adj. 小的	⠇⠇
+little by little	一點一點地；逐漸地	⠇⠇⠀⠃⠽⠀⠇⠇
+way	n. 方式	⠺⠁⠽
+coral reef	n. 珊瑚礁	⠉⠕⠗⠁⠇⠀⠗⠑⠑⠋
+palm	n. 棕櫚	⠏⠁⠇⠍
+company	n. 公司	⠉⠕⠍⠏⠁⠝⠽
+village	n. 村莊	⠧⠊⠇⠇⠁⠛⠑
+adult	n.;adj. 成人	⠁⠙⠥⠇⠞

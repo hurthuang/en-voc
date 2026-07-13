@@ -1,0 +1,36 @@
+house	n. 房子	⠓⠳⠎⠑
+parents	n. 父母親	⠏⠜⠢⠞⠎
+living room	n. 客廳	⠇⠊⠧⠬⠀⠗⠕⠕⠍
+wall	n. 牆壁	⠺⠁⠇⠇
+purple	adj.;n. 紫色（的）	⠏⠥⠗⠏⠇⠑
+favorite	adj.;n. 最喜愛（的）	⠋⠁⠧⠕⠗⠊⠞⠑
+color	n. 顏色	⠉⠕⠇⠕⠗
+kitchen	n. 廚房	⠅⠊⠞⠡⠢
+dining room	n. 飯廳	⠙⠔⠬⠀⠗⠕⠕⠍
+but	conj. 但是	⠃
+gray	adj.;n. 灰色（的）	⠛⠗⠁⠽
+brown	adj.;n. 棕色（的）	⠃⠗⠪⠝
+cookie	n. 餅乾	⠉⠕⠕⠅⠊⠑
+mice	n. 老鼠（mouse複數）	⠍⠊⠉⠑
+maybe	adv. 可能	⠍⠁⠽⠃⠑
+sofa	n. 沙發	⠎⠷⠁
+hungry	adj. 餓的	⠓⠥⠝⠛⠗⠽
+notebook	n. 筆記本	⠝⠕⠞⠑⠃⠕⠕⠅
+marker	n. 記號筆；彩色筆	⠍⠜⠅⠻
+brush	n. 毛筆；筆刷	⠃⠗⠥⠩
+gift	n. 禮物	⠛⠊⠋⠞
+pencil case	n. 鉛筆盒	⠏⠢⠉⠊⠇⠀⠉⠁⠎⠑
+bathroom	n. 浴室；廁所	⠃⠁⠹⠗⠕⠕⠍
+table	n. 桌子	⠞⠁⠃⠇⠑
+bedroom	n. 臥室	⠃⠫⠗⠕⠕⠍
+near	prep. 在…附近	⠝⠑⠜
+between	prep. 在…之間	⠆⠞
+behind	prep. 在…後面	⠆⠓
+in front of	prep. 在…前面	⠔⠀⠋⠗⠕⠝⠞⠀⠷
+special	adj. 特別的	⠎⠏⠑⠉⠊⠁⠇
+inside	prep. 在…裡面	⠔⠎⠊⠙⠑
+right	adv. 就	⠐⠗
+each other	pron. 彼此；互相	⠑⠁⠡⠀⠕⠮⠗
+above	prep.;adv. 在…上方	⠁⠃⠧
+enough	adj.;adv.;pron. 足夠（的）	⠢
+person	n. 人	⠏⠻⠎⠕⠝

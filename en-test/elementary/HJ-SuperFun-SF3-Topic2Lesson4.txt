@@ -1,0 +1,6 @@
+bird	鳥	⠃⠊⠗⠙
+rabbit	兔子	⠗⠁⠆⠊⠞
+turtle	烏龜	⠞⠥⠗⠞⠇⠑
+cat	貓	⠉⠁⠞
+dog	狗	⠙⠕⠛
+fish	魚	⠋⠊⠩

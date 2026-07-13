@@ -1,0 +1,7 @@
+convenience store	便利商店	⠒⠧⠢⠊⠰⠑⠀⠌⠕⠗⠑
+MRT station	捷運站	⠠⠠⠍⠗⠞⠀⠌⠁⠰⠝
+science museum	科學博物館	⠎⠉⠊⠰⠑⠀⠍⠥⠎⠑⠥⠍
+tea shop	茶飲店	⠞⠑⠁⠀⠩⠕⠏
+across from	在......對面	⠁⠉⠗⠀⠋
+between	在......之間	⠆⠞
+next to	在......旁邊	⠝⠑⠭⠞⠀⠞⠕

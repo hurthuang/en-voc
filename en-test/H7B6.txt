@@ -1,0 +1,51 @@
+airport	n. 機場	⠁⠊⠗⠏⠕⠗⠞
+travel	v.;n. 旅行；行進	⠞⠗⠁⠧⠑⠇
+rest	n.;v. 休息	⠗⠑⠌
+hotel	n. 飯店	⠓⠕⠞⠑⠇
+plane	n. 飛機（＝airplane）	⠏⠇⠁⠝⠑
+the sights	n. 風景；名勝	⠮⠀⠎⠊⠣⠞⠎
+bookstore	n. 書店	⠃⠕⠕⠅⠌⠕⠗⠑
+buy	v. 購買	⠃⠥⠽
+just	adv. 剛才；就；只	⠚
+learn	v. 學習	⠇⠑⠜⠝
+story	n. 故事	⠌⠕⠗⠽
+cool	adj. 酷的	⠉⠕⠕⠇
+train	n. 火車	⠞⠗⠁⠔
+cold	adj. 冷的	⠉⠕⠇⠙
+try	v.;n. 嘗試	⠞⠗⠽
+way	n. 距離；路線	⠺⠁⠽
+take	v. 帶；拿；取	⠞⠁⠅⠑
+the other day	前幾天	⠮⠀⠕⠮⠗⠀⠐⠙
+station	n. 車站；局	⠌⠁⠰⠝
+department store	n. 百貨公司	⠙⠑⠐⠏⠰⠞⠀⠌⠕⠗⠑
+restaurant	n. 餐廳	⠗⠑⠌⠁⠥⠗⠁⠝⠞
+theater	n. 電影院	⠮⠁⠞⠻
+market	n. 市場	⠍⠜⠅⠑⠞
+temple	n. 寺廟	⠞⠑⠍⠏⠇⠑
+famous	adj. 有名的	⠋⠁⠍⠳⠎
+during	prep. 在…期間	⠙⠥⠗⠬
+besides	prep.;adv. 除…之外	⠆⠎⠎
+fall in love	墜入情網	⠋⠁⠇⠇⠀⠔⠀⠇⠕⠧⠑
+age	n. 年紀	⠁⠛⠑
+lose	v. 失去	⠇⠕⠎⠑
+cry	v. 哭泣	⠉⠗⠽
+hide	v. 躲藏	⠓⠊⠙⠑
+build	v. 建造	⠃⠥⠊⠇⠙
+trip	n. 旅行；行程	⠞⠗⠊⠏
+sadly	adv. 令人傷心地	⠎⠁⠙⠇⠽
+last	v. 持續	⠇⠁⠌
+Easter	n. 復活節	⠠⠑⠁⠌⠻
+moon	n. 月亮	⠍⠕⠕⠝
+church	n. 教堂	⠡⠥⠗⠡
+roll	v. 滾動	⠗⠕⠇⠇
+hunt	n.;v. 搜尋；狩獵	⠓⠥⠝⠞
+fall	v. 降臨；發生	⠋⠁⠇⠇
+check out	查看	⠡⠑⠉⠅⠀⠳
+get together	團聚	⠛⠑⠞⠀⠞⠛⠗
+building	n. 建築物	⠃⠥⠊⠇⠙⠬
+flea	n. 跳蚤	⠋⠇⠑⠁
+golden	adj. 金黃色的	⠛⠕⠇⠙⠢
+well known	adj. 著名的	⠺⠑⠇⠇⠀⠐⠅⠝
+forever	adv. 永遠	⠿⠐⠑
+activity	n. 活動	⠁⠉⠞⠊⠧⠰⠽
+unique	adj. 獨特的	⠥⠝⠊⠟⠥⠑

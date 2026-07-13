@@ -1,0 +1,35 @@
+probably	很可能	⠏⠗⠕⠃⠁⠃⠇⠽
+profile	簡介	⠏⠗⠷⠊⠇⠑
+record	紀錄	⠗⠑⠉⠕⠗⠙
+run through	用完	⠗⠥⠝⠀⠐⠹
+score a goal	射門得分	⠎⠉⠕⠗⠑⠀⠁⠀⠛⠕⠁⠇
+shuttlecock	羽毛球	⠩⠥⠞⠞⠇⠑⠉⠕⠉⠅
+silver medal	銀牌	⠎⠊⠇⠧⠻⠀⠍⠫⠁⠇
+successful	成功的	⠎⠥⠒⠑⠎⠎⠰⠇
+swing	揮拍	⠎⠺⠬
+ice hockey	冰上曲棍球	⠊⠉⠑⠀⠓⠕⠉⠅⠑⠽
+already	已經	⠁⠇⠗
+athlete	運動員	⠁⠹⠇⠑⠞⠑
+defense	防守	⠙⠑⠋⠢⠎⠑
+however	然而	⠓⠪⠐⠑
+look out	小心	⠇⠕⠕⠅⠀⠳
+mess up	搞砸	⠍⠑⠎⠎⠀⠥⠏
+motto	座右銘	⠍⠕⠞⠞⠕
+Olympics	奧林匹克運動會	⠠⠕⠇⠽⠍⠏⠊⠉⠎
+badminton	羽球	⠃⠁⠙⠍⠔⠞⠕⠝
+baseball	棒球	⠃⠁⠎⠑⠃⠁⠇⠇
+basketball	籃球	⠃⠁⠎⠅⠑⠞⠃⠁⠇⠇
+soccer	足球	⠎⠕⠒⠻
+table tennis	桌球	⠞⠁⠃⠇⠑⠀⠞⠢⠝⠊⠎
+tennis	網球	⠞⠢⠝⠊⠎
+volleyball	排球	⠧⠕⠇⠇⠑⠽⠃⠁⠇⠇
+dodge ball	躲避球	⠙⠕⠙⠛⠑⠀⠃⠁⠇⠇
+golf	高爾夫球	⠛⠕⠇⠋
+ring	按鈴；鈴響	⠗⠬
+sing	唱歌	⠎⠬
+wing	翅膀	⠺⠬
+king	國王	⠅⠬
+long	長的	⠇⠰⠛
+song	歌曲	⠎⠰⠛
+strong	強壯的	⠌⠗⠰⠛
+wrong	錯誤的	⠺⠗⠰⠛

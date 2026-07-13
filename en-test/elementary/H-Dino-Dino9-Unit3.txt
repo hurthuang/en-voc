@@ -1,0 +1,12 @@
+a bowl of	一碗	⠁⠀⠃⠪⠇⠀⠷
+a plate of	一盤	⠁⠀⠏⠇⠁⠞⠑⠀⠷
+a cup of	一杯	⠁⠀⠉⠥⠏⠀⠷
+a glass of	一杯（玻璃杯裝）	⠁⠀⠛⠇⠁⠎⠎⠀⠷
+a box of	一盒	⠁⠀⠃⠕⠭⠀⠷
+would like	想要	⠺⠙⠀⠇
+knock	敲門	⠅⠝⠕⠉⠅
+knob	門把	⠅⠝⠕⠃
+knife	刀子	⠅⠝⠊⠋⠑
+lamb	小羊，羔羊	⠇⠁⠍⠃
+comb	梳頭髮，梳子	⠉⠕⠍⠃
+thumb	大拇指	⠹⠥⠍⠃

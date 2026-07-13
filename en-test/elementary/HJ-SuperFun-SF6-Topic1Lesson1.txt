@@ -1,0 +1,8 @@
+cook/cooking	煮/正在煮	⠉⠕⠕⠅⠸⠌⠉⠕⠕⠅⠬
+jump/jumping	跳/正在跳	⠚⠥⠍⠏⠸⠌⠚⠥⠍⠏⠬
+sleep/sleeping	睡/正在睡	⠎⠇⠑⠑⠏⠸⠌⠎⠇⠑⠑⠏⠬
+study/studying	讀書/正在讀書	⠌⠥⠙⠽⠸⠌⠌⠥⠙⠽⠬
+write/writing	寫/正在寫	⠺⠗⠊⠞⠑⠸⠌⠺⠗⠊⠞⠬
+dance/dancing	跳舞/正在跳舞	⠙⠨⠑⠸⠌⠙⠁⠝⠉⠬
+run/running	跑/正在跑	⠗⠥⠝⠸⠌⠗⠥⠝⠝⠬
+do/doing	做/正在做	⠙⠕⠸⠌⠙⠕⠬

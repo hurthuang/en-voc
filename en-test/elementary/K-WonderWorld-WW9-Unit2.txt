@@ -1,0 +1,7 @@
+did the dishes	洗碗盤（過去式）	⠙⠊⠙⠀⠮⠀⠙⠊⠩⠑⠎
+did the laundry	洗衣服（過去式）	⠙⠊⠙⠀⠮⠀⠇⠁⠥⠝⠙⠗⠽
+had breakfast	吃早餐（過去式）	⠸⠓⠀⠃⠗⠂⠅⠋⠁⠌
+had lunch	吃午餐（過去式）	⠸⠓⠀⠇⠥⠝⠡
+had dinner	吃晚餐（過去式）	⠸⠓⠀⠙⠔⠝⠻
+went shopping	去購物（過去式）	⠺⠢⠞⠀⠩⠕⠏⠏⠬
+went swimming	去游泳（過去式）	⠺⠢⠞⠀⠎⠺⠊⠍⠍⠬

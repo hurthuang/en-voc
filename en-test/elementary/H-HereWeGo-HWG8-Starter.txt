@@ -1,0 +1,8 @@
+planet	星球	⠏⠇⠁⠝⠑⠞
+plum	李子；梅子	⠏⠇⠥⠍
+black	黑色（的）	⠃⠇⠁⠉⠅
+blanket	毯子	⠃⠇⠁⠝⠅⠑⠞
+clap	拍手	⠉⠇⠁⠏
+clock	時鐘	⠉⠇⠕⠉⠅
+glad	高興的	⠛⠇⠁⠙
+glass	玻璃（杯）	⠛⠇⠁⠎⠎

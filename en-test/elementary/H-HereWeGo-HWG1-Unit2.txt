@@ -1,0 +1,19 @@
+six	六	⠎⠊⠭
+seven	七	⠎⠑⠧⠢
+eight	八	⠑⠊⠣⠞
+nine	九	⠝⠔⠑
+ten	十	⠞⠢
+how old	幾歲	⠓⠪⠀⠕⠇⠙
+are	是	⠜⠑
+you	你	⠽
+year	年；歲	⠽⠑⠜
+key	鑰匙	⠅⠑⠽
+kite	風箏	⠅⠊⠞⠑
+lion	獅子	⠇⠊⠕⠝
+leg	腿	⠇⠑⠛
+monkey	猴子	⠍⠕⠝⠅⠑⠽
+milk	牛奶	⠍⠊⠇⠅
+nose	鼻子	⠝⠕⠎⠑
+neck	脖子	⠝⠑⠉⠅
+ox	公牛	⠕⠭
+otter	水獺	⠕⠞⠞⠻

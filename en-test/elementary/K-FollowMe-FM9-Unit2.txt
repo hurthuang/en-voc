@@ -1,0 +1,13 @@
+convenience store	便利商店	⠒⠧⠢⠊⠰⠑⠀⠌⠕⠗⠑
+department store	百貨公司	⠙⠑⠐⠏⠰⠞⠀⠌⠕⠗⠑
+museum	博物館	⠍⠥⠎⠑⠥⠍
+police station	警察局	⠏⠕⠇⠊⠉⠑⠀⠌⠁⠰⠝
+sports center	運動中心	⠎⠏⠕⠗⠞⠎⠀⠉⠢⠞⠻
+across from	在～對面	⠁⠉⠗⠀⠋
+between	在～之間	⠆⠞
+next to	在～旁邊	⠝⠑⠭⠞⠀⠞⠕
+bank	銀行	⠃⠁⠝⠅
+bookstore	書店	⠃⠕⠕⠅⠌⠕⠗⠑
+hospital	醫院	⠓⠕⠎⠏⠊⠞⠁⠇
+library	圖書館	⠇⠊⠃⠗⠜⠽
+movie theater	電影院	⠍⠕⠧⠊⠑⠀⠮⠁⠞⠻

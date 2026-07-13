@@ -1,0 +1,13 @@
+cold	感冒	⠉⠕⠇⠙
+fever	發燒	⠋⠐⠑
+headache	頭痛	⠓⠂⠙⠁⠡⠑
+stomachache	胃痛	⠌⠕⠍⠁⠡⠁⠡⠑
+toothache	牙痛	⠞⠕⠕⠹⠁⠡⠑
+runny nose	流鼻水	⠗⠥⠝⠝⠽⠀⠝⠕⠎⠑
+sore throat	喉嚨痛	⠎⠕⠗⠑⠀⠹⠗⠕⠁⠞
+clerk	職員	⠉⠇⠻⠅
+perm	燙髮	⠏⠻⠍
+skirt	裙子	⠎⠅⠊⠗⠞
+nurse	護理人員	⠝⠥⠗⠎⠑
+purse	錢包	⠏⠥⠗⠎⠑
+He has a sweet tooth.	他很愛吃甜食。	⠠⠓⠑⠀⠓⠁⠎⠀⠁⠀⠎⠺⠑⠑⠞⠀⠞⠕⠕⠹⠲

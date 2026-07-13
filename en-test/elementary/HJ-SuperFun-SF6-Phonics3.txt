@@ -1,0 +1,6 @@
+bike	腳踏車	⠃⠊⠅⠑
+nine	九（數字）	⠝⠔⠑
+pie	派	⠏⠊⠑
+tie	領帶	⠞⠊⠑
+light	燈	⠇⠊⠣⠞
+night	夜晚	⠝⠊⠣⠞

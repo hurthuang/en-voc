@@ -1,0 +1,17 @@
+by bike	騎腳踏車	⠃⠽⠀⠃⠊⠅⠑
+by bus	搭公車	⠃⠽⠀⠃⠥⠎
+by car	搭（汽）車；開車	⠃⠽⠀⠉⠜
+by metro / MRT	搭捷運	⠃⠽⠀⠍⠑⠞⠗⠕⠀⠸⠌⠀⠠⠠⠍⠗⠞
+by scooter	搭機車；騎機車	⠃⠽⠀⠎⠉⠕⠕⠞⠻
+by taxi	搭計程車	⠃⠽⠀⠞⠁⠭⠊
+by train	搭火車	⠃⠽⠀⠞⠗⠁⠔
+on foot	走路	⠕⠝⠀⠋⠕⠕⠞
+school	學校	⠎⠡⠕⠕⠇
+dark	黑暗（的）	⠙⠜⠅
+farm	農場	⠋⠜⠍
+park	公園	⠏⠜⠅
+shark	鯊魚	⠩⠜⠅
+corn	玉米	⠉⠕⠗⠝
+fork	叉子	⠿⠅
+horse	馬	⠓⠕⠗⠎⠑
+short	短的；矮的	⠩⠕⠗⠞

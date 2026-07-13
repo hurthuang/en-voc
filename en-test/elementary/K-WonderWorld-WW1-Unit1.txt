@@ -1,0 +1,25 @@
+six	六	⠎⠊⠭
+seven	七	⠎⠑⠧⠢
+eight	八	⠑⠊⠣⠞
+nine	九	⠝⠔⠑
+ten	十	⠞⠢
+how old	幾歲	⠓⠪⠀⠕⠇⠙
+are	是	⠜⠑
+you	你	⠽
+I	我	⠠⠊
+am	是	⠁⠍
+years old	歲（複數）	⠽⠑⠜⠎⠀⠕⠇⠙
+How old are you?	你幾歲？	⠠⠓⠪⠀⠕⠇⠙⠀⠜⠑⠀⠽⠳⠦
+I'm nine.	我九歲。	⠠⠊⠄⠍⠀⠝⠔⠑⠲
+Thank you.	謝謝你。	⠠⠹⠁⠝⠅⠀⠽⠳⠲
+You're welcome.	不客氣。	⠠⠽⠄⠗⠑⠀⠺⠑⠇⠉⠕⠍⠑⠲
+fish	魚	⠋⠊⠩
+fan	風扇	⠋⠁⠝
+goat	山羊	⠛⠕⠁⠞
+gap	縫隙	⠛⠁⠏
+hat	帽子	⠓⠁⠞
+ham	火腿	⠓⠁⠍
+ink	墨水	⠔⠅
+igloo	冰屋	⠊⠛⠇⠕⠕
+jam	果醬	⠚⠁⠍
+jet	噴射機	⠚⠑⠞

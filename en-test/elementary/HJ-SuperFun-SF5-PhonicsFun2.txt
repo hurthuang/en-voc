@@ -1,0 +1,8 @@
+white	白色	⠱⠊⠞⠑
+phone	電話	⠏⠓⠐⠕
+wheel	輪子	⠱⠑⠑⠇
+photo	照片	⠏⠓⠕⠞⠕
+whale	鯨魚	⠱⠁⠇⠑
+dolphin	海豚	⠙⠕⠇⠏⠓⠔
+whistle	哨子	⠱⠊⠌⠇⠑
+elephant	大象	⠑⠇⠑⠏⠓⠁⠝⠞

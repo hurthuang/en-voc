@@ -1,0 +1,16 @@
+elephant	大象	⠑⠇⠑⠏⠓⠁⠝⠞
+horse	馬	⠓⠕⠗⠎⠑
+lion	獅子	⠇⠊⠕⠝
+monkey	猴子	⠍⠕⠝⠅⠑⠽
+tiger	老虎	⠞⠊⠛⠻
+turtle	烏龜	⠞⠥⠗⠞⠇⠑
+zebra	斑馬	⠵⠑⠃⠗⠁
+How many...?	多少⋯⋯？	⠠⠓⠪⠀⠸⠍⠲⠲⠲⠦
+koala	無尾熊	⠅⠕⠁⠇⠁
+cute	可愛的	⠉⠥⠞⠑
+fuse	保險絲	⠋⠥⠎⠑
+flute	長笛	⠋⠇⠥⠞⠑
+blue	藍色（的）	⠃⠇⠥⠑
+glue	黏膠	⠛⠇⠥⠑
+juice	果汁	⠚⠥⠊⠉⠑
+suit	西裝	⠎⠥⠊⠞

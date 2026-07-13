@@ -1,0 +1,15 @@
+twenty-one	二十一	⠞⠺⠢⠞⠽⠤⠐⠕
+twenty-two	二十二	⠞⠺⠢⠞⠽⠤⠞⠺⠕
+twenty-three	二十三	⠞⠺⠢⠞⠽⠤⠹⠗⠑⠑
+twenty-four	二十四	⠞⠺⠢⠞⠽⠤⠋⠳⠗
+twenty-five	二十五	⠞⠺⠢⠞⠽⠤⠋⠊⠧⠑
+twenty-six	二十六	⠞⠺⠢⠞⠽⠤⠎⠊⠭
+twenty-seven	二十七	⠞⠺⠢⠞⠽⠤⠎⠑⠧⠢
+twenty-eight	二十八	⠞⠺⠢⠞⠽⠤⠑⠊⠣⠞
+twenty-nine	二十九	⠞⠺⠢⠞⠽⠤⠝⠔⠑
+thirty	三十	⠹⠊⠗⠞⠽
+cap	棒球帽	⠉⠁⠏
+cape	披風	⠉⠁⠏⠑
+same	相同的	⠎⠁⠍⠑
+bake	烤	⠃⠁⠅⠑
+cake	蛋糕	⠉⠁⠅⠑

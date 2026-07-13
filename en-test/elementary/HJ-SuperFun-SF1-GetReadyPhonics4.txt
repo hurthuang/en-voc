@@ -1,0 +1,7 @@
+ten	十	⠞⠢
+up	向上	⠥⠏
+vest	背心	⠧⠑⠌
+window	窗戶	⠺⠔⠙⠪
+fox	狐狸	⠋⠕⠭
+yo-yo	溜溜球	⠽⠕⠤⠽⠕
+zebra	斑馬	⠵⠑⠃⠗⠁

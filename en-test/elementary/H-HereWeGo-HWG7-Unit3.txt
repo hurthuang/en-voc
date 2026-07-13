@@ -1,0 +1,18 @@
+go jogging	慢跑	⠛⠀⠚⠕⠶⠬
+listen to music	聽音樂	⠇⠊⠌⠢⠀⠞⠕⠀⠍⠥⠎⠊⠉
+play baseball	打棒球	⠏⠇⠁⠽⠀⠃⠁⠎⠑⠃⠁⠇⠇
+play basketball	打籃球	⠏⠇⠁⠽⠀⠃⠁⠎⠅⠑⠞⠃⠁⠇⠇
+ride a bike	騎腳踏車	⠗⠊⠙⠑⠀⠁⠀⠃⠊⠅⠑
+study English	研讀英語	⠌⠥⠙⠽⠀⠠⠢⠛⠇⠊⠩
+surf the Internet	上網	⠎⠥⠗⠋⠀⠮⠀⠠⠔⠞⠻⠝⠑⠞
+watch TV	看電視	⠺⠁⠞⠡⠀⠠⠠⠞⠧
+weekend	週末	⠺⠑⠑⠅⠢⠙
+free time	休閒時間	⠋⠗⠑⠑⠀⠐⠞
+coin	硬幣	⠉⠕⠔
+oil	油	⠕⠊⠇
+point	指（向）	⠏⠕⠔⠞
+soil	土壤	⠎⠕⠊⠇
+boy	男孩	⠃⠕⠽
+joy	喜悅；歡樂	⠚⠕⠽
+soybeans	黃豆（複數）	⠎⠕⠽⠃⠂⠝⠎
+toy	玩具	⠞⠕⠽

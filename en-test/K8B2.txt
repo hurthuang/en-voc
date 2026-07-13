@@ -1,0 +1,20 @@
+sofa	沙發	⠎⠷⠁
+lamp	燈	⠇⠁⠍⠏
+piano	鋼琴	⠏⠊⠁⠝⠕
+radio	收音機	⠗⠁⠙⠊⠕
+washing machine	洗衣機	⠺⠁⠩⠬⠀⠍⠁⠡⠔⠑
+refrigerator (fridge)	冰箱	⠗⠑⠋⠗⠊⠛⠻⠁⠞⠕⠗
+violin	小提琴	⠧⠊⠕⠇⠔
+bow	（弦樂器的）琴弓	⠃⠪
+tape	膠帶	⠞⠁⠏⠑
+concert	演唱會；音樂會	⠒⠉⠻⠞
+turn on	打開（電器）	⠞⠥⠗⠝⠀⠕⠝
+turn off	關上（電器）	⠞⠥⠗⠝⠀⠷⠋
+screen	螢幕	⠎⠉⠗⠑⠢
+power bank	行動電源	⠏⠪⠻⠀⠃⠁⠝⠅
+out of order	故障的	⠳⠀⠷⠀⠕⠗⠙⠻
+sweet	甜的；甜蜜的	⠎⠺⠑⠑⠞
+most	最；最多的	⠍⠕⠌
+envelope	信封	⠢⠧⠑⠇⠕⠏⠑
+used to	過去經常	⠥⠎⠫⠀⠞⠕
+useful	有用的	⠥⠎⠑⠰⠇

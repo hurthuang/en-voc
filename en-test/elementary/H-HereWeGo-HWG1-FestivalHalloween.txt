@@ -1,0 +1,6 @@
+bat	蝙蝠	⠃⠁⠞
+ghost	鬼	⠣⠕⠌
+pumpkin	南瓜	⠏⠥⠍⠏⠅⠔
+spider	蜘蛛	⠎⠏⠊⠙⠻
+witch	女巫	⠺⠊⠞⠡
+vampire	吸血鬼	⠧⠁⠍⠏⠊⠗⠑

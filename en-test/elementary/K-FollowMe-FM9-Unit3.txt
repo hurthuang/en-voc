@@ -1,0 +1,11 @@
+messy	凌亂的	⠍⠑⠎⠎⠽
+neat	整潔的	⠝⠂⠞
+weak	虛弱的	⠺⠂⠅
+strong	強壯的	⠌⠗⠰⠛
+young	年輕的	⠐⠽
+old	年老的	⠕⠇⠙
+shy	害羞的	⠩⠽
+outgoing	外向的	⠳⠞⠛⠕⠬
+noisy	吵鬧的	⠝⠕⠊⠎⠽
+quiet	安靜的	⠟⠥⠊⠑⠞
+heavy	重的	⠓⠂⠧⠽

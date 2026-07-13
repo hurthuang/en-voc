@@ -1,0 +1,32 @@
+baked beans	焗豆	⠃⠁⠅⠫⠀⠃⠂⠝⠎
+tea	茶	⠞⠑⠁
+brown sauce	棕醬	⠃⠗⠪⠝⠀⠎⠁⠥⠉⠑
+baked tomatoes	烤番茄	⠃⠁⠅⠫⠀⠞⠕⠍⠁⠞⠕⠑⠎
+fruit juice	果汁	⠋⠗⠥⠊⠞⠀⠚⠥⠊⠉⠑
+ketchup	番茄醬	⠅⠑⠞⠡⠥⠏
+mushrooms	蘑菇	⠍⠥⠩⠗⠕⠕⠍⠎
+sunny side up eggs	荷包蛋	⠎⠥⠝⠝⠽⠀⠎⠊⠙⠑⠀⠥⠏⠀⠑⠶⠎
+pancakes	鬆餅	⠏⠁⠝⠉⠁⠅⠑⠎
+coffee	咖啡	⠉⠷⠋⠑⠑
+syrup	糖漿	⠎⠽⠗⠥⠏
+bacon	培根	⠃⠁⠉⠕⠝
+milk	牛奶	⠍⠊⠇⠅
+butter	奶油	⠃⠥⠞⠞⠻
+bagels	貝果	⠃⠁⠛⠑⠇⠎
+hash browns	薯餅	⠓⠁⠩⠀⠃⠗⠪⠝⠎
+steamed rice	米飯	⠌⠂⠍⠫⠀⠗⠊⠉⠑
+green tea	綠茶	⠛⠗⠑⠢⠀⠞⠑⠁
+lemon juice	檸檬汁	⠇⠑⠍⠕⠝⠀⠚⠥⠊⠉⠑
+tofu	豆腐	⠞⠷⠥
+soy sauce	醬油	⠎⠕⠽⠀⠎⠁⠥⠉⠑
+grilled fish	烤魚	⠛⠗⠊⠇⠇⠫⠀⠋⠊⠩
+miso soup	味噌湯	⠍⠊⠎⠕⠀⠎⠳⠏
+clay oven rolls	燒餅	⠉⠇⠁⠽⠀⠕⠧⠢⠀⠗⠕⠇⠇⠎
+soybean milk	豆漿	⠎⠕⠽⠃⠂⠝⠀⠍⠊⠇⠅
+chili sauce	辣椒醬	⠡⠊⠇⠊⠀⠎⠁⠥⠉⠑
+fried bread sticks	油條	⠋⠗⠊⠫⠀⠃⠗⠂⠙⠀⠌⠊⠉⠅⠎
+rice and peanut milk	米漿	⠗⠊⠉⠑⠀⠯⠀⠏⠂⠝⠥⠞⠀⠍⠊⠇⠅
+thick soy sauce	醬油膏	⠹⠊⠉⠅⠀⠎⠕⠽⠀⠎⠁⠥⠉⠑
+turnip cakes	蘿蔔糕	⠞⠥⠗⠝⠊⠏⠀⠉⠁⠅⠑⠎
+rice balls	飯糰	⠗⠊⠉⠑⠀⠃⠁⠇⠇⠎
+egg pancake rolls	蛋餅	⠑⠛⠛⠀⠏⠁⠝⠉⠁⠅⠑⠀⠗⠕⠇⠇⠎

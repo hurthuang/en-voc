@@ -1,0 +1,38 @@
+language	語言	⠇⠁⠝⠛⠥⠁⠛⠑
+microgravity	微重力	⠍⠊⠉⠗⠕⠛⠗⠁⠧⠰⠽
+musician	音樂家	⠍⠥⠎⠊⠉⠊⠁⠝
+refrigerator	冰箱	⠗⠑⠋⠗⠊⠛⠻⠁⠞⠕⠗
+research	研究	⠗⠑⠎⠑⠜⠡
+rock star	搖滾明星	⠗⠕⠉⠅⠀⠌⠜
+strap	用帶子繫（或捆、綁）	⠌⠗⠁⠏
+tour	旅遊；巡迴	⠞⠳⠗
+farmer	農夫	⠋⠜⠍⠻
+housewife	家庭主婦	⠓⠳⠎⠑⠺⠊⠋⠑
+nurse	護士	⠝⠥⠗⠎⠑
+police officer	警察	⠏⠕⠇⠊⠉⠑⠀⠷⠋⠊⠉⠻
+a piece of cake	容易的事	⠁⠀⠏⠊⠑⠉⠑⠀⠷⠀⠉⠁⠅⠑
+Beats me!	難倒我了！	⠠⠃⠂⠞⠎⠀⠍⠑⠖
+become	成為	⠆⠉⠕⠍⠑
+choice	選擇	⠡⠕⠊⠉⠑
+exercise	運動	⠑⠭⠻⠉⠊⠎⠑
+actor	男演員	⠁⠉⠞⠕⠗
+actress	女演員	⠁⠉⠞⠗⠑⠎⠎
+chef	主廚	⠡⠑⠋
+dentist	牙醫	⠙⠢⠞⠊⠌
+engineer	工程師	⠢⠛⠔⠑⠻
+mail carrier	郵差	⠍⠁⠊⠇⠀⠉⠜⠗⠊⠻
+scientist	科學家	⠎⠉⠊⠢⠞⠊⠌
+singer	歌手	⠎⠬⠻
+bus driver	公車司機	⠃⠥⠎⠀⠙⠗⠊⠧⠻
+chalk	粉筆	⠡⠁⠇⠅
+talk	說話	⠞⠁⠇⠅
+walk	走路	⠺⠁⠇⠅
+mall	購物中心	⠍⠁⠇⠇
+August	八月	⠠⠁⠥⠛⠥⠌
+daughter	女兒	⠙⠁⠥⠣⠞⠻
+sauce	醬汁	⠎⠁⠥⠉⠑
+autumn	秋天	⠁⠥⠞⠥⠍⠝
+draw	畫畫	⠙⠗⠁⠺
+paw	腳爪	⠏⠁⠺
+straw	吸管	⠌⠗⠁⠺
+yawn	打哈欠	⠽⠁⠺⠝

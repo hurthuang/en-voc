@@ -1,0 +1,6 @@
+bear	熊	⠃⠑⠜
+monkey	猴子	⠍⠕⠝⠅⠑⠽
+tiger	老虎	⠞⠊⠛⠻
+lion	獅子	⠇⠊⠕⠝
+horse	馬	⠓⠕⠗⠎⠑
+goat	山羊	⠛⠕⠁⠞

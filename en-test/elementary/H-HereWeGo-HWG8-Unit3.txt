@@ -1,0 +1,21 @@
+coat	外套；大衣	⠉⠕⠁⠞
+dress	洋裝	⠙⠗⠑⠎⠎
+hat	（有邊的）帽子	⠓⠁⠞
+jacket	夾克	⠚⠁⠉⠅⠑⠞
+skirt	裙子	⠎⠅⠊⠗⠞
+T-shirt T	恤	⠰⠠⠞⠤⠩⠊⠗⠞⠀⠰⠠⠞
+jeans	牛仔褲	⠚⠂⠝⠎
+pants	褲子；長褲	⠏⠁⠝⠞⠎
+shorts	短褲	⠩⠕⠗⠞⠎
+how much	多少（錢）	⠓⠪⠀⠍⠡
+dollar	一美元	⠙⠕⠇⠇⠜
+bag	袋子	⠃⠁⠛
+cap	棒球帽	⠉⠁⠏
+bed	床	⠃⠫
+shell	貝殼	⠩⠑⠇⠇
+brick	磚頭	⠃⠗⠊⠉⠅
+stick	枝條	⠌⠊⠉⠅
+fox	狐狸	⠋⠕⠭
+rock	岩石	⠗⠕⠉⠅
+jump	跳	⠚⠥⠍⠏
+run	跑	⠗⠥⠝

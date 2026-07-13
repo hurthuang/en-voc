@@ -1,0 +1,27 @@
+have breakfast	吃早餐	⠓⠀⠃⠗⠂⠅⠋⠁⠌
+have lunch	吃午餐	⠓⠀⠇⠥⠝⠡
+have dinner	吃晚餐	⠓⠀⠙⠔⠝⠻
+get up	起床	⠛⠑⠞⠀⠥⠏
+go to school	上學	⠛⠀⠞⠕⠀⠎⠡⠕⠕⠇
+go home	回家	⠛⠀⠓⠕⠍⠑
+go to bed	上床睡覺	⠛⠀⠞⠕⠀⠃⠫
+weekend	週末	⠺⠑⠑⠅⠢⠙
+Come on!	來吧！	⠠⠉⠕⠍⠑⠀⠕⠝⠖
+That's for sure.	那當然。	⠠⠞⠄⠎⠀⠿⠀⠎⠥⠗⠑⠲
+artist	藝術家	⠜⠞⠊⠌
+sound	聲音	⠎⠨⠙
+still	還	⠌
+move on	前進	⠍⠕⠧⠑⠀⠕⠝
+no entry	禁止進入	⠝⠕⠀⠢⠞⠗⠽
+so	非常	⠎
+glad	高興的	⠛⠇⠁⠙
+crack	裂痕	⠉⠗⠁⠉⠅
+brick	磚塊	⠃⠗⠊⠉⠅
+bride	新娘	⠃⠗⠊⠙⠑
+press	按；壓	⠏⠗⠑⠎⠎
+prince	王子	⠏⠗⠔⠉⠑
+grass	草；草地	⠛⠗⠁⠎⠎
+grapes	葡萄（複數）	⠛⠗⠁⠏⠑⠎
+crab	螃蟹	⠉⠗⠁⠃
+cry	哭泣	⠉⠗⠽
+Be an early bird.	做個早起的人。	⠠⠆⠀⠁⠝⠀⠑⠜⠇⠽⠀⠃⠊⠗⠙⠲

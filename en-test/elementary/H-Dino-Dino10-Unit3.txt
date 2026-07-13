@@ -1,0 +1,14 @@
+buy souvenirs	買紀念品	⠃⠥⠽⠀⠎⠳⠧⠢⠊⠗⠎
+check in	用行動裝置定位打卡	⠡⠑⠉⠅⠀⠔
+go hiking	健行	⠛⠀⠓⠊⠅⠬
+send a postcard	寄明信片	⠎⠢⠙⠀⠁⠀⠏⠕⠌⠉⠜⠙
+take a walk	散步	⠞⠁⠅⠑⠀⠁⠀⠺⠁⠇⠅
+take pictures	拍照	⠞⠁⠅⠑⠀⠏⠊⠉⠞⠥⠗⠑⠎
+kit	（成套）工具	⠅⠊⠞
+kite	風箏	⠅⠊⠞⠑
+pip	果核	⠏⠊⠏
+pipe	水管、導管	⠏⠊⠏⠑
+pie	派、餡餅	⠏⠊⠑
+tie	繫、拴、捆、紮	⠞⠊⠑
+night	夜晚	⠝⠊⠣⠞
+light	光、光線	⠇⠊⠣⠞

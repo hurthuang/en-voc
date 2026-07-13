@@ -1,0 +1,32 @@
+Girls' Festival	（日本）女兒節	⠠⠛⠊⠗⠇⠎⠄⠀⠠⠋⠑⠌⠊⠧⠁⠇
+Songkran	（泰國）潑水節	⠠⠎⠰⠛⠅⠗⠁⠝
+Day of the Dead	（墨西哥）亡靈節	⠠⠐⠙⠀⠷⠀⠮⠀⠠⠙⠂⠙
+Lyon Festival of Lights	（法國）里昂光雕節	⠠⠇⠽⠕⠝⠀⠠⠋⠑⠌⠊⠧⠁⠇⠀⠷⠀⠠⠇⠊⠣⠞⠎
+first	第一	⠋⠌
+second	第二	⠎⠑⠉⠕⠝⠙
+third	第三	⠹⠊⠗⠙
+fourth	第四	⠋⠳⠗⠹
+fifth	第五	⠋⠊⠋⠹
+sixth	第六	⠎⠊⠭⠹
+seventh	第七	⠎⠑⠧⠢⠹
+eighth	第八	⠑⠊⠣⠹
+ninth	第九	⠝⠔⠹
+tenth	第十	⠞⠢⠹
+altar	祭壇	⠁⠇⠞⠜
+blessing	祝福	⠃⠨⠎⠬
+celebration	慶祝	⠉⠑⠇⠑⠃⠗⠁⠰⠝
+church	教堂	⠡⠥⠗⠡
+decorate	裝飾（動詞）	⠙⠑⠉⠕⠗⠁⠞⠑
+decoration	裝飾（名詞）	⠙⠑⠉⠕⠗⠁⠰⠝
+during	在......期間	⠙⠥⠗⠬
+grave	墳墓	⠛⠗⠁⠧⠑
+happiness	快樂	⠓⠁⠏⠏⠊⠰⠎
+health	健康	⠓⠂⠇⠹
+kimono	和服	⠅⠊⠍⠕⠝⠕
+parade	遊行	⠏⠜⠁⠙⠑
+pour	倒、灌	⠏⠳⠗
+shrine	神社	⠩⠗⠔⠑
+skull	骷髏	⠎⠅⠥⠇⠇
+splash	灑、潑	⠎⠏⠇⠁⠩
+tourist	觀光客	⠞⠳⠗⠊⠌
+windowsill	窗臺	⠺⠔⠙⠪⠎⠊⠇⠇

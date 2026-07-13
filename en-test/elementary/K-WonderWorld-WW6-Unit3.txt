@@ -1,0 +1,10 @@
+dress	洋裝	⠙⠗⠑⠎⠎
+skirt	裙子	⠎⠅⠊⠗⠞
+sweater	毛衣	⠎⠺⠂⠞⠻
+T-shirt	短袖上衣	⠰⠠⠞⠤⠩⠊⠗⠞
+pants	長褲	⠏⠁⠝⠞⠎
+shorts	短褲	⠩⠕⠗⠞⠎
+sneakers	運動鞋	⠎⠝⠂⠅⠻⠎
+socks	襪子	⠎⠕⠉⠅⠎
+how much	多少	⠓⠪⠀⠍⠡
+dollar	元	⠙⠕⠇⠇⠜

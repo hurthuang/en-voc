@@ -1,0 +1,14 @@
+breakfast	早餐	⠃⠗⠂⠅⠋⠁⠌
+lunch	午餐	⠇⠥⠝⠡
+dinner	晚餐	⠙⠔⠝⠻
+bread	麵包	⠃⠗⠂⠙
+chicken	雞；雞肉	⠡⠊⠉⠅⠢
+salad	沙拉	⠎⠁⠇⠁⠙
+soup	湯	⠎⠳⠏
+noodles	麵條（複數）	⠝⠕⠕⠙⠇⠑⠎
+would like	想要	⠺⠙⠀⠇
+please	請	⠏⠇⠂⠎⠑
+church	教堂	⠡⠥⠗⠡
+shop	商店	⠩⠕⠏
+short	矮的；短的	⠩⠕⠗⠞
+fish	魚；魚肉	⠋⠊⠩

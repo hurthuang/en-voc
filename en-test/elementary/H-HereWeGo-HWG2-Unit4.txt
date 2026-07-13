@@ -1,0 +1,12 @@
+student	學生	⠌⠥⠙⠢⠞
+teacher	教師	⠞⠂⠡⠻
+doctor	醫生	⠙⠕⠉⠞⠕⠗
+nurse	護理師	⠝⠥⠗⠎⠑
+cook	廚師	⠉⠕⠕⠅
+driver	司機	⠙⠗⠊⠧⠻
+cub	幼獸	⠉⠥⠃
+sub	潛水艇	⠎⠥⠃
+tub	浴缸	⠞⠥⠃
+cut	切；剪	⠉⠥⠞
+hut	小屋	⠓⠥⠞
+nut	堅果	⠝⠥⠞

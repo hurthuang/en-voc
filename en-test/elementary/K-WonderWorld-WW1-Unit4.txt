@@ -1,0 +1,19 @@
+umbrella	雨傘	⠥⠍⠃⠗⠑⠇⠇⠁
+up	向上	⠥⠏
+vest	背心	⠧⠑⠌
+van	廂型車	⠧⠁⠝
+watch	手錶	⠺⠁⠞⠡
+wig	假髮	⠺⠊⠛
+fox	狐狸	⠋⠕⠭
+zoo	動物園	⠵⠕⠕
+zip	拉拉鍊	⠵⠊⠏
+blue	藍色	⠃⠇⠥⠑
+green	綠色	⠛⠗⠑⠢
+pink	粉紅色	⠏⠔⠅
+purple	紫色	⠏⠥⠗⠏⠇⠑
+red	紅色	⠗⠫
+yellow	黃色	⠽⠑⠇⠇⠪
+color	顏色	⠉⠕⠇⠕⠗
+What color is it?	是什麼顏色？	⠠⠱⠁⠞⠀⠉⠕⠇⠕⠗⠀⠊⠎⠀⠊⠞⠦
+Try again.	再試一次。	⠠⠞⠗⠽⠀⠁⠛⠁⠔⠲
+Good job!	做得好！	⠠⠛⠙⠀⠚⠕⠃⠖

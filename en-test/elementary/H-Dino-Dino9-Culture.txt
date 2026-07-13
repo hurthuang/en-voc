@@ -1,0 +1,13 @@
+bread and butter plate	麵包盤	⠃⠗⠂⠙⠀⠯⠀⠃⠥⠞⠞⠻⠀⠏⠇⠁⠞⠑
+butter knife	奶油刀	⠃⠥⠞⠞⠻⠀⠅⠝⠊⠋⠑
+napkin	餐巾	⠝⠁⠏⠅⠔
+salad fork	沙拉叉	⠎⠁⠇⠁⠙⠀⠿⠅
+dinner fork	主餐叉	⠙⠔⠝⠻⠀⠿⠅
+dinner plate	主餐盤	⠙⠔⠝⠻⠀⠏⠇⠁⠞⠑
+salad plate	沙拉盤	⠎⠁⠇⠁⠙⠀⠏⠇⠁⠞⠑
+soup bowl	湯碗	⠎⠳⠏⠀⠃⠪⠇
+wine glass	酒杯	⠺⠔⠑⠀⠛⠇⠁⠎⠎
+water glass	水杯	⠺⠁⠞⠻⠀⠛⠇⠁⠎⠎
+dinner knife	主餐刀	⠙⠔⠝⠻⠀⠅⠝⠊⠋⠑
+salad knife	沙拉刀	⠎⠁⠇⠁⠙⠀⠅⠝⠊⠋⠑
+soup spoon	湯匙	⠎⠳⠏⠀⠎⠏⠕⠕⠝

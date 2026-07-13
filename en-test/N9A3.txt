@@ -1,0 +1,50 @@
+bored	adj. 感到無聊的	⠃⠕⠗⠫
+club	n. 社團	⠉⠇⠥⠃
+news	n. 新聞	⠝⠑⠺⠎
+boring	adj. 令人無聊的	⠃⠕⠗⠬
+report	n. 報導	⠗⠑⠏⠕⠗⠞
+in total	phr. 總共	⠔⠀⠞⠕⠞⠁⠇
+God	n. 上帝；神	⠛⠕⠙
+teach	v. 教導	⠞⠂⠡
+crazy	adj. 瘋狂的	⠉⠗⠁⠵⠽
+fact	n. 事實	⠋⠁⠉⠞
+real	adj. 真實的	⠗⠂⠇
+steal	v. 偷竊	⠌⠂⠇
+search for	phr. 尋找	⠎⠑⠜⠡⠀⠿
+information	n. 資訊	⠔⠿⠍⠁⠰⠝
+fake	adj. 假的	⠋⠁⠅⠑
+fact-check	v. 核實	⠋⠁⠉⠞⠤⠡⠑⠉⠅
+dry	adj. 枯燥乏味的	⠙⠗⠽
+medicine	n. 藥品	⠍⠫⠊⠉⠔⠑
+on sale	phr. 特賣	⠕⠝⠀⠎⠁⠇⠑
+heavy	adj. 重的	⠓⠂⠧⠽
+slim	adj. 纖細的	⠎⠇⠊⠍
+handsome	adj. 英俊的	⠓⠯⠐⠎
+drop	v. 下降；掉落	⠙⠗⠕⠏
+pound	n. 磅	⠏⠨⠙
+kilogram	n. 公斤	⠅⠊⠇⠕⠛⠗⠁⠍
+inch	n. 英吋	⠔⠡
+centimeter	n. 公分	⠉⠢⠞⠊⠍⠑⠞⠻
+sore throat	phr. 喉嚨痛	⠎⠕⠗⠑⠀⠹⠗⠕⠁⠞
+headache	n. 頭痛	⠓⠂⠙⠁⠡⠑
+fever	n. 發燒	⠋⠐⠑
+finger	n. 手指	⠋⠬⠻
+toe	n. 腳趾	⠞⠕⠑
+purple	adj. 紫色的	⠏⠥⠗⠏⠇⠑
+rose	n. 玫瑰	⠗⠕⠎⠑
+health	n. 健康	⠓⠂⠇⠹
+fool	v. 愚弄	⠋⠕⠕⠇
+interest	v. 使……感興趣	⠔⠞⠻⠑⠌
+take a moment	phr. 花一些時間	⠞⠁⠅⠑⠀⠁⠀⠍⠕⠰⠞
+below	adv. 在……下面	⠆⠇
+page	n. 網頁	⠏⠁⠛⠑
+dig	v. 挖掘	⠙⠊⠛
+tool	n. 工具	⠞⠕⠕⠇
+excited	adj. 感到興奮的	⠑⠭⠉⠊⠞⠫
+habit	n. 習慣	⠓⠁⠃⠊⠞
+headline	n. 標題	⠓⠂⠙⠇⠔⠑
+trusted	adj. 可信賴的	⠞⠗⠥⠌⠫
+website	n. 網站	⠺⠑⠃⠎⠊⠞⠑
+tip	n. 訣竅	⠞⠊⠏
+piece	n. （新聞）則；篇	⠏⠊⠑⠉⠑
+keyword	n. 關鍵字	⠅⠑⠽⠘⠺

@@ -1,0 +1,8 @@
+cry	哭	⠉⠗⠽
+baby	嬰兒	⠃⠁⠃⠽
+fly	飛行	⠋⠇⠽
+happy	快樂的	⠓⠁⠏⠏⠽
+sky	天空	⠎⠅⠽
+jelly	果凍	⠚⠑⠇⠇⠽
+spy	偵探	⠎⠏⠽
+kitty	小貓	⠅⠊⠞⠞⠽

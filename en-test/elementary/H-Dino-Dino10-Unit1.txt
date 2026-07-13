@@ -1,0 +1,17 @@
+across from	在⋯⋯對面	⠁⠉⠗⠀⠋
+behind	在⋯⋯後面	⠆⠓
+between...and...	在⋯⋯和⋯⋯之間	⠆⠞⠺⠑⠢⠲⠲⠲⠯⠲⠲⠲
+in front of	在⋯⋯前面	⠔⠀⠋⠗⠕⠝⠞⠀⠷
+bakery	麵包店	⠃⠁⠅⠻⠽
+bus stop	公車站	⠃⠥⠎⠀⠌⠕⠏
+clinic	診所	⠉⠇⠔⠊⠉
+police station	警察局	⠏⠕⠇⠊⠉⠑⠀⠌⠁⠰⠝
+tea shop	飲料店	⠞⠑⠁⠀⠩⠕⠏
+chain	鍊子	⠡⠁⠔
+chair	椅子	⠡⠁⠊⠗
+pail	水桶	⠏⠁⠊⠇
+pair	一對、一雙	⠏⠁⠊⠗
+cake	蛋糕	⠉⠁⠅⠑
+care	關懷	⠉⠜⠑
+hate	討厭	⠓⠁⠞⠑
+hare	野兔	⠓⠜⠑

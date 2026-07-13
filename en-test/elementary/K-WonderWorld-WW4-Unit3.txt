@@ -1,0 +1,6 @@
+hamburger(s)	漢堡（複數）	⠓⠁⠍⠃⠥⠗⠛⠻
+hot dog(s)	熱狗（複數）	⠓⠕⠞⠀⠙⠕⠛
+juice	果汁	⠚⠥⠊⠉⠑
+milk	牛奶	⠍⠊⠇⠅
+water	水	⠺⠁⠞⠻
+ice cream	冰淇淋	⠊⠉⠑⠀⠉⠗⠂⠍

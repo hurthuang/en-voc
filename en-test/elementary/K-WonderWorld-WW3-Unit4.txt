@@ -1,0 +1,15 @@
+in	在......裡面	⠔
+on	在......上面	⠕⠝
+under	在......底下	⠐⠥
+box	盒子	⠃⠕⠭
+chair	椅子	⠡⠁⠊⠗
+desk	書桌	⠙⠑⠎⠅
+where	哪裡	⠐⠱
+cub	幼獸	⠉⠥⠃
+cut	剪；切	⠉⠥⠞
+duck	鴨子	⠙⠥⠉⠅
+cube	立方體	⠉⠥⠃⠑
+cute	可愛的	⠉⠥⠞⠑
+duke	公爵	⠙⠥⠅⠑
+Watch out!	小心！	⠠⠺⠁⠞⠡⠀⠳⠞⠖
+Give me a hand, please.	請幫我。	⠠⠛⠊⠧⠑⠀⠍⠑⠀⠁⠀⠓⠯⠂⠀⠏⠇⠂⠎⠑⠲

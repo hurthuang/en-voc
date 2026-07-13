@@ -1,0 +1,9 @@
+grandfather (grandpa)	爺爺；外公	⠛⠗⠯⠐⠋
+grandmother (grandma)	奶奶；外婆	⠛⠗⠯⠐⠍
+father (dad)	爸爸	⠐⠋
+mother (mom)	媽媽	⠐⠍
+brother	哥哥；弟弟	⠃⠗⠕⠮⠗
+sister	姐姐；妹妹	⠎⠊⠌⠻
+who	誰	⠱⠕
+he	他	⠓⠑
+she	她	⠩⠑

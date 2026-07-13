@@ -1,0 +1,10 @@
+fever	發燒	⠋⠐⠑
+runny nose	流鼻水	⠗⠥⠝⠝⠽⠀⠝⠕⠎⠑
+toothache	牙痛	⠞⠕⠕⠹⠁⠡⠑
+headache	頭痛	⠓⠂⠙⠁⠡⠑
+hurt	疼痛	⠓⠥⠗⠞
+leg/legs	腿（單/複數）	⠇⠑⠛⠸⠌⠇⠑⠛⠎
+foot/feet	腳（單/複數）	⠋⠕⠕⠞⠸⠌⠋⠑⠑⠞
+hand/hands	手（單/複數）	⠓⠯⠸⠌⠓⠯⠎
+eye/eyes	眼（單/複數）	⠑⠽⠑⠸⠌⠑⠽⠑⠎
+wrong	不對的；不對勁	⠺⠗⠰⠛

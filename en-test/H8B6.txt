@@ -1,0 +1,45 @@
+pass	v. 傳遞；通過	⠏⠁⠎⠎
+throw	v. 丟；投擲	⠹⠗⠪
+point	n. 得分	⠏⠕⠔⠞
+win	v. 贏；獲勝	⠺⠔
+until	conj.;prep. 直到	⠥⠝⠞⠊⠇
+member	n. 成員	⠍⠑⠍⠃⠻
+group	n. 團體	⠛⠗⠳⠏
+fail	v. 考不及格；失敗	⠋⠁⠊⠇
+test	n. 考試	⠞⠑⠌
+afraid	adj. 害怕的；擔憂的	⠁⠋⠗⠁⠊⠙
+forget	v. 忘記	⠿⠛⠑⠞
+fresh	adj. 新的；新鮮的	⠋⠗⠑⠩
+count... in	算…參加一份	⠉⠨⠞⠲⠲⠲⠀⠔
+begin	v. 開始	⠆⠛⠔
+meeting	n. 會議；會面	⠍⠑⠑⠞⠬
+come on	快點；少來了	⠉⠕⠍⠑⠀⠕⠝
+excuse	n. 藉口；理由	⠑⠭⠉⠥⠎⠑
+around the corner	即將來臨；在附近	⠜⠨⠙⠀⠮⠀⠉⠕⠗⠝⠻
+grade	n. 成績	⠛⠗⠁⠙⠑
+hold back	阻礙	⠓⠕⠇⠙⠀⠃⠁⠉⠅
+few	adj.;pron. 很少（的）	⠋⠑⠺
+simple	adj. 簡單的	⠎⠊⠍⠏⠇⠑
+expect	v. 預計；期望	⠑⠭⠏⠑⠉⠞
+mistake	n. 錯誤	⠍⠊⠌⠁⠅⠑
+angle	n. 立場；角度	⠁⠝⠛⠇⠑
+allow	v. 允許	⠁⠇⠇⠪
+laugh	v.;n. 笑；笑聲	⠇⠁⠥⠣
+keep in mind	記住	⠅⠑⠑⠏⠀⠔⠀⠍⠔⠙
+honest	adj. 誠實的；可信的	⠓⠐⠕⠌
+lead to	導致	⠇⠂⠙⠀⠞⠕
+push	v. 迫使；推動	⠏⠥⠩
+excellent	adj. 優秀的；極佳的	⠑⠭⠉⠑⠇⠇⠢⠞
+be able to	能夠	⠆⠀⠁⠃⠇⠑⠀⠞⠕
+define	v. 下定義；界定	⠙⠑⠋⠔⠑
+matter	v. 要緊；重要	⠍⠁⠞⠞⠻
+picture	v. 想像	⠏⠊⠉⠞⠥⠗⠑
+as for	至於	⠵⠀⠿
+to the full	盡可能	⠞⠕⠀⠮⠀⠋⠥⠇⠇
+fair	n. 展覽會	⠋⠁⠊⠗
+stereotype	n.;v. 刻板印象；對…有偏見	⠌⠻⠑⠕⠞⠽⠏⠑
+gender	n. 性別	⠛⠢⠙⠻
+self	n. 自我	⠎⠑⠇⠋
+talent	n. 人才；天分	⠞⠁⠇⠢⠞
+designer	n. 設計師	⠙⠑⠎⠊⠛⠝⠻
+record	n. 紀錄；記載	⠗⠑⠉⠕⠗⠙

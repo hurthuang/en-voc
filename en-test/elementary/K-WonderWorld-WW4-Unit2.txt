@@ -1,0 +1,6 @@
+cooking	（正在）下廚	⠉⠕⠕⠅⠬
+eating	（正在）吃東西	⠑⠁⠞⠬
+reading	（正在）閱讀	⠗⠂⠙⠬
+sleeping	（正在）睡覺	⠎⠇⠑⠑⠏⠬
+writing	（正在）寫字	⠺⠗⠊⠞⠬
+running	（正在）跑步	⠗⠥⠝⠝⠬

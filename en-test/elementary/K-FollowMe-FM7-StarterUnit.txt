@@ -1,0 +1,12 @@
+play basketball	打籃球	⠏⠇⠁⠽⠀⠃⠁⠎⠅⠑⠞⠃⠁⠇⠇
+play chess	下西洋棋	⠏⠇⠁⠽⠀⠡⠑⠎⠎
+play the piano	彈鋼琴	⠏⠇⠁⠽⠀⠮⠀⠏⠊⠁⠝⠕
+play the recorder	吹直笛	⠏⠇⠁⠽⠀⠮⠀⠗⠑⠉⠕⠗⠙⠻
+blue	藍色的	⠃⠇⠥⠑
+blocks	積木（複數）	⠃⠇⠕⠉⠅⠎
+plane	飛機	⠏⠇⠁⠝⠑
+plate	盤子	⠏⠇⠁⠞⠑
+glass	玻璃杯	⠛⠇⠁⠎⠎
+glue	膠水	⠛⠇⠥⠑
+clean	乾淨的	⠉⠇⠂⠝
+clock	時鐘	⠉⠇⠕⠉⠅
