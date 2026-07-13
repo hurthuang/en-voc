@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>英文單字測驗</title>
+    <style>
+        :root {
+            --bg-color: #f0f0f0;
+            --container-bg: white;
+            --text-color: #000000;
+            --link-bg: #f8f8f8;
+            --link-border: #ccc;
+            --accent: #2b6cb0;
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg-color: #1a1a1a;
+                --container-bg: #2a2a2a;
+                --text-color: #f0f0f0;
+                --link-bg: #333;
+                --link-border: #555;
+                --accent: #6fa8dc;
+            }
+        }
+        body {
+            font-family: "Microsoft JhengHei", "PingFang TC", sans-serif;
+            background: var(--bg-color);
+            color: var(--text-color);
+            margin: 0;
+            padding: 40px 16px;
+        }
+        .container {
+            max-width: 640px;
+            margin: 0 auto;
+            background: var(--container-bg);
+            border-radius: 12px;
+            padding: 32px;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        p.desc {
+            line-height: 1.7;
+        }
+        .card {
+            display: block;
+            padding: 16px 20px;
+            margin: 16px 0;
+            border: 1px solid var(--link-border);
+            border-radius: 8px;
+            background: var(--link-bg);
+            text-decoration: none;
+            color: inherit;
+        }
+        .card:hover {
+            border-color: var(--accent);
+        }
+        .card .title {
+            font-size: 1.1em;
+            font-weight: bold;
+            color: var(--accent);
+        }
+        .card .note {
+            font-size: 0.9em;
+            opacity: 0.8;
+            margin-top: 4px;
+        }
+        footer {
+            margin-top: 32px;
+            font-size: 0.85em;
+            opacity: 0.7;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>英文單字測驗</h1>
+        <p class="desc">
+            國中／國小英文單字與點字（Braille）測驗工具，收錄康軒、翰林、南一、何嘉仁各版本教材的單字資料，
+            支援語音朗讀、拼字測驗、點字輸入模式。
+        </p>
+
+        <a class="card" href="en-test/jvpc-05.htm">
+            <div class="title">▶ 開始測驗</div>
+            <div class="note">jvpc-05.htm — 單一網頁 app，選版本／年級／課次即可開始</div>
+        </a>
+
+        <a class="card" href="英文單字表_總覽.md">
+            <div class="title">📋 單字表蒐集總覽</div>
+            <div class="note">各出版社資料蒐集進度與來源說明</div>
+        </a>
+
+        <a class="card" href="英文各版本教材對照表.html">
+            <div class="title">📖 各版本教材系列對照表</div>
+            <div class="note">康軒／翰林／南一／何嘉仁教材系列與冊次對照</div>
+        </a>
+
+        <a class="card" href="資料來源與蒐集方法.md">
+            <div class="title">🔍 資料來源與蒐集方法</div>
+            <div class="note">各出版社資料的取得管道與擷取方式說明</div>
+        </a>
+
+        <footer>
+            <a href="https://github.com/hurthuang/en-voc">GitHub Repo</a>
+        </footer>
+    </div>
+</body>
+</html>
