@@ -18,11 +18,11 @@ sold out	售完	⠎⠕⠇⠙⠀⠳
 winner	贏家	⠺⠔⠝⠻
 winning	快要贏了	⠺⠔⠝⠬
 cheer for	為......打氣；鼓舞	⠡⠑⠻⠀⠿
-Go!	加油！	⠠⠛⠕⠖
+Go!	加油！	⠠⠛⠖
 just	只是	⠚
 oil	油	⠕⠊⠇
 coin	硬幣	⠉⠕⠔
 noisy	吵鬧的	⠝⠕⠊⠎⠽
 boy	男孩	⠃⠕⠽
 toy	玩具	⠞⠕⠽
-He has ants in his pants.	他很著急。	⠠⠓⠑⠀⠓⠁⠎⠀⠁⠝⠞⠎⠀⠔⠀⠦⠀⠏⠁⠝⠞⠎⠲
+He has ants in his pants.	他很著急。	⠠⠓⠑⠀⠓⠁⠎⠀⠁⠝⠞⠎⠀⠔⠦⠀⠏⠁⠝⠞⠎⠲

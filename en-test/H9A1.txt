@@ -5,7 +5,7 @@ raise	v. 提高；舉起	⠗⠁⠊⠎⠑
 since	conj.;prep. 自從	⠎⠔⠉⠑
 photo	n. 照片	⠏⠓⠕⠞⠕
 crazy	adj. 荒唐的；瘋狂的	⠉⠗⠁⠵⠽
-as... as possible	盡可能的…	⠁⠎⠲⠲⠲⠀⠵⠀⠏⠕⠎⠎⠊⠃⠇⠑
+as... as possible	盡可能的…	⠵⠲⠲⠲⠀⠵⠀⠏⠕⠎⠎⠊⠃⠇⠑
 slim	adj. 苗條的；微小的	⠎⠇⠊⠍
 type	n. 類型	⠞⠽⠏⠑
 ever	adv. 曾經	⠐⠑
@@ -13,7 +13,7 @@ habit	n. 習慣	⠓⠁⠃⠊⠞
 take action	採取行動	⠞⠁⠅⠑⠀⠁⠉⠰⠝
 be all ears	洗耳恭聽	⠆⠀⠁⠇⠇⠀⠑⠜⠎
 at least	至少	⠁⠞⠀⠇⠂⠌
-You got it.	沒錯。	⠠⠽⠀⠛⠕⠞⠀⠊⠞⠲
+You got it.	沒錯。	⠠⠽⠀⠛⠕⠞⠀⠭⠲
 gym	n. 健身房；體育館	⠛⠽⠍
 abroad	adv. 到國外	⠁⠃⠗⠕⠁⠙
 cheat	v. 作弊；欺騙	⠡⠂⠞

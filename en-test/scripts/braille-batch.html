@@ -121,11 +121,32 @@ const LOU = (() => {
     return { preload, translate, isReady };
 })();
 
+// en-ueb-g2.ctb 裡有一批單格縮寫字／傳統縮寫（shortform，例如 it/you/so/do/as，
+// 也包括 about 這種 "ab" 兩格縮寫），背後的規則（無論是 match 或其他 opcode）結尾都
+// 要求「後面還要有一個字元」才會生效；當這個字直接貼著標點（沒有空白）出現時，這個
+// 條件就無法成立，縮寫會失效、退化成逐字母拼寫（例如 "I get it." 的 it 應該是 ⠭，
+// 卻拼成 ⠊⠞；"about..." 的 about 應該是 ⠁⠃，卻多拼出 ⠳⠞）。這是 liblouis/這份表格
+// 本身的行為，不是我們資料的問題；用「標點前先插入空白讓規則條件成立，翻譯完再把多
+// 插的空白格拿掉」來繞過。只在標點前是小寫字母/數字時才套用——測試過對所有情況
+// （含大寫）套用會讓 "OK?" 這種全大寫縮寫詞後面多出不必要的字母指示格，是原本規則
+// 沒有的副作用，所以刻意排除大寫，避免引入新問題。
+const TRAILING_PUNCT_RE = /([a-z0-9])([.,!?;:'"’”)\]]+)(?![a-zA-Z0-9])/g;
+// 這幾個字元是空白格緊貼在標點格前面時要拿掉的標點格（句號、逗號、驚嘆號、問號、
+// 分號、冒號、句中撇號、右引號、連字號）——正常英文/UEB文字不會有「空白＋標點」
+// 這種排列，所以看到這個排列就是我們自己塞的，可以放心拿掉。
+const PUNCT_CELLS_RE = /⠀(?=[⠲⠂⠖⠦⠆⠒⠄⠴⠤])/g;
+
+function translateFixed(text) {
+    const modified = text.replace(TRAILING_PUNCT_RE, '$1 $2');
+    const raw = LOU.translate(modified);
+    return raw ? raw.replace(PUNCT_CELLS_RE, '') : raw;
+}
+
 window.__batchTranslate = async function(words) {
     await LOU.preload();
     const out = {};
     for (const w of words) {
-        out[w] = LOU.translate(w) || '';
+        out[w] = translateFixed(w) || '';
     }
     return out;
 };

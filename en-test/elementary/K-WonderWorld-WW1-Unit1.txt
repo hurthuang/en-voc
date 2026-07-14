@@ -9,9 +9,9 @@ you	你	⠽
 I	我	⠠⠊
 am	是	⠁⠍
 years old	歲（複數）	⠽⠑⠜⠎⠀⠕⠇⠙
-How old are you?	你幾歲？	⠠⠓⠪⠀⠕⠇⠙⠀⠜⠑⠀⠽⠳⠦
+How old are you?	你幾歲？	⠠⠓⠪⠀⠕⠇⠙⠀⠜⠑⠀⠽⠀⠰⠦
 I'm nine.	我九歲。	⠠⠊⠄⠍⠀⠝⠔⠑⠲
-Thank you.	謝謝你。	⠠⠹⠁⠝⠅⠀⠽⠳⠲
+Thank you.	謝謝你。	⠠⠹⠁⠝⠅⠀⠽⠲
 You're welcome.	不客氣。	⠠⠽⠄⠗⠑⠀⠺⠑⠇⠉⠕⠍⠑⠲
 fish	魚	⠋⠊⠩
 fan	風扇	⠋⠁⠝

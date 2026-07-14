@@ -5,7 +5,7 @@ monkey	猴子	⠍⠕⠝⠅⠑⠽
 tiger	老虎	⠞⠊⠛⠻
 turtle	烏龜	⠞⠥⠗⠞⠇⠑
 zebra	斑馬	⠵⠑⠃⠗⠁
-How many...?	多少⋯⋯？	⠠⠓⠪⠀⠸⠍⠲⠲⠲⠦
+How many...?	多少⋯⋯？	⠠⠓⠪⠀⠸⠍⠲⠲⠲⠰⠦
 koala	無尾熊	⠅⠕⠁⠇⠁
 cute	可愛的	⠉⠥⠞⠑
 fuse	保險絲	⠋⠥⠎⠑

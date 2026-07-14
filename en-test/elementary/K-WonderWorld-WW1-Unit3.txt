@@ -6,7 +6,7 @@ this	這個	⠹
 that	那個	⠞
 it	它	⠭
 is	是	⠊⠎
-What's this?	這個是什麼？	⠠⠱⠁⠞⠄⠎⠀⠹⠊⠎⠦
+What's this?	這個是什麼？	⠠⠱⠁⠞⠄⠎⠀⠹⠀⠰⠦
 It's a kite.	它是一只風箏。	⠠⠭⠄⠎⠀⠁⠀⠅⠊⠞⠑⠲
 Come here.	過來這裡。	⠠⠉⠕⠍⠑⠀⠐⠓⠲
 I'm sorry.	對不起。	⠠⠊⠄⠍⠀⠎⠕⠗⠗⠽⠲

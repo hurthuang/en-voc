@@ -12,7 +12,7 @@ safety	n. 安全	⠎⠁⠋⠑⠞⠽
 building	n. 建築物	⠃⠥⠊⠇⠙⠬
 appliance	n. 家用電器	⠁⠏⠏⠇⠊⠨⠑
 stove	n. 爐灶	⠌⠕⠧⠑
-not only...but also...	phr. 不但……而且……	⠝⠀⠕⠝⠇⠽⠲⠲⠲⠃⠥⠞⠀⠁⠇⠎⠕⠲⠲⠲
+not only...but also...	phr. 不但……而且……	⠝⠀⠕⠝⠇⠽⠲⠲⠲⠃⠥⠞⠀⠁⠇⠲⠲⠲
 build up	phr. 使……健康或強壯	⠃⠥⠊⠇⠙⠀⠥⠏
 deal with	phr. 處理	⠙⠂⠇⠀⠾
 put out	phr. 撲滅	⠏⠥⠞⠀⠳
@@ -29,6 +29,6 @@ lid	n. 蓋子	⠇⠊⠙
 break out	phr. 突然發生	⠃⠗⠂⠅⠀⠳
 refrigerator	n. 冰箱	⠗⠑⠋⠗⠊⠛⠻⠁⠞⠕⠗
 stranger	n. 陌生人	⠌⠗⠁⠝⠛⠻
-either...or...	phr. 不是……就是……	⠑⠊⠮⠗⠲⠲⠲⠕⠗⠲⠲⠲
-neither...nor...	phr. 既不……也不……	⠝⠑⠊⠮⠗⠲⠲⠲⠝⠕⠗⠲⠲⠲
+either...or...	phr. 不是……就是……	⠑⠊⠲⠲⠲⠕⠗⠲⠲⠲
+neither...nor...	phr. 既不……也不……	⠝⠑⠊⠲⠲⠲⠝⠕⠗⠲⠲⠲
 replace	v. 替換；取代	⠗⠑⠏⠇⠁⠉⠑

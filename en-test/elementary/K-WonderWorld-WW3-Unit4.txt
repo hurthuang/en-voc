@@ -11,5 +11,5 @@ duck	鴨子	⠙⠥⠉⠅
 cube	立方體	⠉⠥⠃⠑
 cute	可愛的	⠉⠥⠞⠑
 duke	公爵	⠙⠥⠅⠑
-Watch out!	小心！	⠠⠺⠁⠞⠡⠀⠳⠞⠖
+Watch out!	小心！	⠠⠺⠁⠞⠡⠀⠳⠖
 Give me a hand, please.	請幫我。	⠠⠛⠊⠧⠑⠀⠍⠑⠀⠁⠀⠓⠯⠂⠀⠏⠇⠂⠎⠑⠲

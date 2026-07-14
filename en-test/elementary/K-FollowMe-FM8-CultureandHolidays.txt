@@ -1,5 +1,5 @@
 Ireland	愛爾蘭	⠠⠊⠗⠑⠇⠯
-St. Patrick's Day	聖派翠克節	⠠⠌⠲⠀⠠⠏⠁⠞⠗⠊⠉⠅⠄⠎⠀⠠⠐⠙
+St. Patrick's Day	聖派翠克節	⠠⠎⠞⠲⠀⠠⠏⠁⠞⠗⠊⠉⠅⠄⠎⠀⠠⠐⠙
 March	三月	⠠⠍⠜⠡
 party	派對	⠐⠏⠽
 clover	幸運草；苜蓿	⠉⠇⠕⠧⠻

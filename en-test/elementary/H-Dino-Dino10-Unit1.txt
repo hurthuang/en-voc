@@ -1,6 +1,6 @@
 across from	在⋯⋯對面	⠁⠉⠗⠀⠋
 behind	在⋯⋯後面	⠆⠓
-between...and...	在⋯⋯和⋯⋯之間	⠆⠞⠺⠑⠢⠲⠲⠲⠯⠲⠲⠲
+between...and...	在⋯⋯和⋯⋯之間	⠆⠞⠲⠲⠲⠯⠲⠲⠲
 in front of	在⋯⋯前面	⠔⠀⠋⠗⠕⠝⠞⠀⠷
 bakery	麵包店	⠃⠁⠅⠻⠽
 bus stop	公車站	⠃⠥⠎⠀⠌⠕⠏

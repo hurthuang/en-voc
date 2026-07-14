@@ -1,6 +1,6 @@
 thank	v. 感謝	⠹⠁⠝⠅
 name	n. 名字	⠐⠝
-How old...?	⋯⋯幾歲？	⠠⠓⠪⠀⠕⠇⠙⠲⠲⠲⠦
+How old...?	⋯⋯幾歲？	⠠⠓⠪⠀⠕⠇⠙⠲⠲⠲⠰⠦
 year(s) old	⋯⋯歲	⠽⠑⠜⠀⠕⠇⠙
 family	n. 家人；家庭	⠋⠁⠍⠊⠇⠽
 husband	n. 丈夫	⠓⠥⠎⠃⠯
@@ -22,7 +22,7 @@ classroom	n. 教室	⠉⠇⠁⠎⠎⠗⠕⠕⠍
 same	adj. 一樣的	⠎⠁⠍⠑
 class	n. 班級；課程	⠉⠇⠁⠎⠎
 again	adv. 再一次	⠁⠛
-Nice to meet you.	很高興認識你。	⠠⠝⠊⠉⠑⠀⠞⠕⠀⠍⠑⠑⠞⠀⠽⠳⠲
+Nice to meet you.	很高興認識你。	⠠⠝⠊⠉⠑⠀⠞⠕⠀⠍⠑⠑⠞⠀⠽⠲
 too	adv. 也；太	⠞⠕⠕
 news	n. 消息；新聞	⠝⠑⠺⠎
 problem	n. 問題	⠏⠗⠕⠃⠇⠑⠍

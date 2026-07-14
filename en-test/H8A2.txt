@@ -13,7 +13,7 @@ end	n.;v. 結尾；結束	⠢⠙
 whose	adj.;pron. 誰的	⠘⠱
 camera	n. 相機	⠉⠁⠍⠻⠁
 mine	pron. 我的（東西）	⠍⠔⠑
-What's up?	怎麼了？	⠠⠱⠁⠞⠄⠎⠀⠥⠏⠦
+What's up?	怎麼了？	⠠⠱⠁⠞⠄⠎⠀⠥⠏⠀⠰⠦
 when	conj. 當…	⠱⠢
 back	adv. 返回	⠃⠁⠉⠅
 sign up	報名參加	⠎⠊⠛⠝⠀⠥⠏
@@ -38,7 +38,7 @@ finish	v. 完成；結束	⠋⠔⠊⠩
 festival	n. 節慶	⠋⠑⠌⠊⠧⠁⠇
 start	v.;n. 開始	⠌⠜⠞
 choice	n. 選擇	⠡⠕⠊⠉⠑
-not... at all	一點也不…	⠝⠕⠞⠲⠲⠲⠀⠁⠞⠀⠁⠇⠇
+not... at all	一點也不…	⠝⠲⠲⠲⠀⠁⠞⠀⠁⠇⠇
 free	adj. 免費的	⠋⠗⠑⠑
 show	n. 表演；節目	⠩⠪
 miss out	錯過機會	⠍⠊⠎⠎⠀⠳

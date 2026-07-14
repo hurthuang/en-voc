@@ -6,7 +6,7 @@ death	n. 死亡	⠙⠂⠹
 kick	v. 踢	⠅⠊⠉⠅
 themselves	pron. 他們自己	⠮⠍⠧⠎
 kill	v. 殺死	⠅⠊⠇⠇
-stay away from...	遠離…	⠌⠁⠽⠀⠁⠺⠁⠽⠀⠋⠗⠕⠍⠲⠲⠲
+stay away from...	遠離…	⠌⠁⠽⠀⠁⠺⠁⠽⠀⠋⠲⠲⠲
 agree	v. 同意	⠁⠛⠗⠑⠑
 circle	n.;v. 圓圈；畫圈	⠉⠊⠗⠉⠇⠑
 myself	pron. 我自己	⠍⠽⠋

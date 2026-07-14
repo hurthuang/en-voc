@@ -1,11 +1,11 @@
 blanket	n. 毯子	⠃⠇⠁⠝⠅⠑⠞
-neither... nor...	既不⋯也不⋯	⠝⠑⠊⠮⠗⠲⠲⠲⠀⠝⠕⠗⠲⠲⠲
+neither... nor...	既不⋯也不⋯	⠝⠑⠊⠲⠲⠲⠀⠝⠕⠗⠲⠲⠲
 stupid	adj. 愚蠢的	⠌⠥⠏⠊⠙
-either... or...	不是⋯就是⋯	⠑⠊⠮⠗⠲⠲⠲⠀⠕⠗⠲⠲⠲
+either... or...	不是⋯就是⋯	⠑⠊⠲⠲⠲⠀⠕⠗⠲⠲⠲
 have nothing to do with...	和⋯無關	⠓⠀⠝⠕⠹⠬⠀⠞⠕⠀⠙⠀⠾⠲⠲⠲
 mind	v. 介意	⠍⠔⠙
 study	n.;v. 研究	⠌⠥⠙⠽
-not only... but also...	不但⋯也⋯	⠝⠀⠕⠝⠇⠽⠲⠲⠲⠀⠃⠀⠁⠇⠎⠕⠲⠲⠲
+not only... but also...	不但⋯也⋯	⠝⠀⠕⠝⠇⠽⠲⠲⠲⠀⠃⠀⠁⠇⠲⠲⠲
 sign	n. 跡象	⠎⠊⠛⠝
 park	v. 停車	⠏⠜⠅
 stay up	熬夜	⠌⠁⠽⠀⠥⠏

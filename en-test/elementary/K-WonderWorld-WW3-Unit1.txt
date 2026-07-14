@@ -11,4 +11,4 @@ jet	噴射機	⠚⠑⠞
 theme park	主題樂園	⠮⠍⠑⠀⠏⠜⠅
 Chinese	中文；國語	⠠⠡⠔⠑⠎⠑
 Line up, please.	請排隊。	⠠⠇⠔⠑⠀⠥⠏⠂⠀⠏⠇⠂⠎⠑⠲
-Let's go.	我們走吧。	⠠⠇⠑⠞⠄⠎⠀⠛⠕⠲
+Let's go.	我們走吧。	⠠⠇⠑⠞⠄⠎⠀⠛⠲
