@@ -3130,6 +3130,23 @@
             return out;
         }
 
+        // 中文欄位開頭若是詞性縮寫（如 "n." "adj.;pron."），唸中文時展開成全名，
+        // 避免語音引擎把縮寫唸成奇怪的音；畫面上顯示的文字不受影響，仍然是縮寫。
+        const POS_FULL_NAMES = {
+            n: '名詞', v: '動詞', vt: '及物動詞', vi: '不及物動詞',
+            adj: '形容詞', adv: '副詞', prep: '介系詞', conj: '連接詞',
+            pron: '代名詞', int: '感嘆詞', det: '限定詞', aux: '助動詞',
+            abbr: '縮寫', phr: '片語',
+        };
+        const POS_SPEECH_RE = /^((?:n|vt|vi|v|adj|adv|prep|conj|pron|int|det|aux|abbr|phr)\.(?:[;/](?:n|vt|vi|v|adj|adv|prep|conj|pron|int|det|aux|abbr|phr)\.)*)\s+(.*)$/;
+
+        function expandPosForSpeech(text) {
+            const m = text.match(POS_SPEECH_RE);
+            if (!m) return text;
+            const posNames = m[1].split(/[;/]/).map((p) => POS_FULL_NAMES[p.replace('.', '')] || p);
+            return posNames.join('、') + '　' + m[2];
+        }
+
         // 修改後的說話函數，解決卡死問題
         function speak(text, lang) {
             return new Promise((resolve) => {
@@ -3159,7 +3176,7 @@
             
             // 依序等待語音報讀完畢
             if (document.getElementById('speakChinese').checked) {
-                await speak(current.chinese, 'zh');
+                await speak(expandPosForSpeech(current.chinese), 'zh');
             }
             
             // 測驗模式下也要報讀單字 (英文發音)
