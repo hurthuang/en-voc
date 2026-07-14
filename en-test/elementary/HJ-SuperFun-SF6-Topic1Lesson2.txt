@@ -3,8 +3,12 @@ runny nose	流鼻水	⠗⠥⠝⠝⠽⠀⠝⠕⠎⠑
 toothache	牙痛	⠞⠕⠕⠹⠁⠡⠑
 headache	頭痛	⠓⠂⠙⠁⠡⠑
 hurt	疼痛	⠓⠥⠗⠞
-leg/legs	腿（單/複數）	⠇⠑⠛⠸⠌⠇⠑⠛⠎
-foot/feet	腳（單/複數）	⠋⠕⠕⠞⠸⠌⠋⠑⠑⠞
-hand/hands	手（單/複數）	⠓⠯⠸⠌⠓⠯⠎
-eye/eyes	眼（單/複數）	⠑⠽⠑⠸⠌⠑⠽⠑⠎
+leg	腿（單數）	⠇⠑⠛
+legs	腿（複數）	⠇⠑⠛⠎
+foot	腳（單數）	⠋⠕⠕⠞
+feet	腳（複數）	⠋⠑⠑⠞
+hand	手（單數）	⠓⠯
+hands	手（複數）	⠓⠯⠎
+eye	眼（單數）	⠑⠽⠑
+eyes	眼（複數）	⠑⠽⠑⠎
 wrong	不對的；不對勁	⠺⠗⠰⠛

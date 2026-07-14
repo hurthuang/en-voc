@@ -1,11 +1,14 @@
-set / set up	搭（帳篷）；建立	⠎⠑⠞⠀⠸⠌⠀⠎⠑⠞⠀⠥⠏
-make / made a fire	生火	⠍⠁⠅⠑⠀⠸⠌⠀⠍⠁⠙⠑⠀⠁⠀⠋⠊⠗⠑
+set up	搭（帳篷）；建立	⠎⠑⠞⠀⠥⠏
+make a fire	生火	⠍⠁⠅⠑⠀⠁⠀⠋⠊⠗⠑
+made a fire	生火（過去式）	⠍⠁⠙⠑⠀⠁⠀⠋⠊⠗⠑
 boil	煮沸	⠃⠕⠊⠇
 bug	蟲	⠃⠥⠛
 picnic	野餐	⠏⠊⠉⠝⠊⠉
-hang / hung out	晾（掛）	⠓⠁⠝⠛⠀⠸⠌⠀⠓⠥⠝⠛⠀⠳
+hang out	晾（掛）	⠓⠁⠝⠛⠀⠳
+hung out	晾（掛）（過去式）	⠓⠥⠝⠛⠀⠳
 towel	毛巾	⠞⠪⠑⠇
-lie / lay	躺下	⠇⠊⠑⠀⠸⠌⠀⠇⠁⠽
+lie	躺下	⠇⠊⠑
+lay	躺下（過去式）	⠇⠁⠽
 grass	草地；草	⠛⠗⠁⠎⠎
 string lights	繩燈	⠌⠗⠬⠀⠇⠊⠣⠞⠎
 moon	月亮	⠍⠕⠕⠝
@@ -30,7 +33,8 @@ successfully	成功地	⠎⠥⠒⠑⠎⠎⠰⠇⠇⠽
 pot	鍋子；壺	⠏⠕⠞
 burn	燒焦；燃燒	⠃⠥⠗⠝
 unhappy	不開心的	⠥⠝⠓⠁⠏⠏⠽
-hold / held	舉辦；握住	⠓⠕⠇⠙⠀⠸⠌⠀⠓⠑⠇⠙
+hold	舉辦；握住	⠓⠕⠇⠙
+held	舉辦；握住（過去式）	⠓⠑⠇⠙
 circle	圓圈	⠉⠊⠗⠉⠇⠑
 shy	害羞的	⠩⠽
 line	列；線條	⠇⠔⠑

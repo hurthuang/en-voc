@@ -4,10 +4,12 @@ classmate	n. 同學	⠉⠇⠁⠎⠎⠍⠁⠞⠑
 neighbor	n. 鄰居	⠝⠑⠊⠣⠃⠕⠗
 giant	adj. 巨大的	⠛⠊⠁⠝⠞
 lucky	adj. 幸運的	⠇⠥⠉⠅⠽
-hide	v. 躲藏（過去式為hid）	⠓⠊⠙⠑
+hide	v. 躲藏	⠓⠊⠙⠑
+hid	v. 躲藏（過去式）	⠓⠊⠙
 rock	n. 岩石	⠗⠕⠉⠅
 a while	phr. 一會兒	⠁⠀⠱⠊⠇⠑
-shine	v. 照耀（過去式為shone）	⠩⠔⠑
+shine	v. 照耀	⠩⠔⠑
+shone	v. 照耀（過去式）	⠩⠐⠕
 tail	n. 尾巴	⠞⠁⠊⠇
 brave	adj. 勇敢的	⠃⠗⠁⠧⠑
 somewhere	pron. 某處	⠐⠎⠐⠱

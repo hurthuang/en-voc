@@ -16,7 +16,8 @@ wallet	錢包	⠺⠁⠇⠇⠑⠞
 a pair of	一件（褲子）；一雙（鞋）	⠁⠀⠏⠁⠊⠗⠀⠷
 glove	手套	⠛⠇⠕⠧⠑
 try on	試穿	⠞⠗⠽⠀⠕⠝
-take / took off	脫下	⠞⠁⠅⠑⠀⠸⠌⠀⠞⠕⠕⠅⠀⠷⠋
+take off	脫下	⠞⠁⠅⠑⠀⠷⠋
+took off	脫下（過去式）	⠞⠕⠕⠅⠀⠷⠋
 be full of	充滿	⠆⠀⠋⠥⠇⠇⠀⠷
 fashionable	流行的；時尚的	⠋⠁⠩⠊⠕⠝⠁⠃⠇⠑
 as... as...	如同⋯⋯一樣地⋯⋯	⠵⠲⠲⠲⠀⠵⠲⠲⠲
@@ -36,6 +37,7 @@ actually	實際上	⠁⠉⠞⠥⠁⠇⠇⠽
 owner	所有人	⠪⠝⠻
 item	項目	⠊⠞⠑⠍
 fresh	新鮮的	⠋⠗⠑⠩
-mean / meant	意指	⠍⠂⠝⠀⠸⠌⠀⠍⠂⠝⠞
+mean	意指	⠍⠂⠝
+meant	意指（過去式）	⠍⠂⠝⠞
 Earth	地球	⠑⠜⠹
 turn (...) into...	（使）成為⋯⋯	⠞⠥⠗⠝⠀⠀⠔⠞⠕⠲⠲⠲

@@ -16,7 +16,8 @@ sweater	n. 毛衣	⠎⠺⠂⠞⠻
 already	adv. 已經	⠁⠇⠗
 maybe	adv. 也許	⠍⠁⠽⠃⠑
 lonely	adj. 寂寞的	⠇⠐⠕⠇⠽
-blow	v. 吹（過去式為blew）	⠃⠇⠪
+blow	v. 吹	⠃⠇⠪
+blew	v. 吹（過去式）	⠃⠇⠑⠺
 fat	adj. 胖的	⠋⠁⠞
 towel	n. 毛巾	⠞⠪⠑⠇
 paw	n. 腳爪	⠏⠁⠺

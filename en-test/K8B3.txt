@@ -21,17 +21,20 @@ sound	聽起來；聲音	⠎⠨⠙
 weight	體重；重量	⠺⠑⠊⠣⠞
 smell	聞起來；氣味	⠎⠍⠑⠇⠇
 taste	嘗起來；味道	⠞⠁⠌⠑
-dig / dug in	開始吃	⠙⠊⠛⠀⠸⠌⠀⠙⠥⠛⠀⠔
+dig in	開始吃	⠙⠊⠛⠀⠔
+dug in	開始吃（過去式）	⠙⠥⠛⠀⠔
 soon	很快地	⠎⠕⠕⠝
 order	點餐；訂購	⠕⠗⠙⠻
-put / put on	增加（體重）	⠏⠥⠞⠀⠸⠌⠀⠏⠥⠞⠀⠕⠝
-get / got	變得	⠛⠑⠞⠀⠸⠌⠀⠛⠕⠞
+put on	增加（體重）	⠏⠥⠞⠀⠕⠝
+get	變得	⠛⠑⠞
+got	變得（過去式）	⠛⠕⠞
 notice	注意；看到	⠝⠕⠞⠊⠉⠑
 invite	邀請	⠔⠧⠊⠞⠑
 besides	此外；而且	⠆⠎⠎
 probably	也許	⠏⠗⠕⠃⠁⠃⠇⠽
 bite	一口的量；咬	⠃⠊⠞⠑
-stand / stood for	代表	⠌⠯⠀⠸⠌⠀⠌⠕⠕⠙⠀⠿
+stand for	代表	⠌⠯⠀⠿
+stood for	代表（過去式）	⠌⠕⠕⠙⠀⠿
 matter	有關係	⠍⠁⠞⠞⠻
 sign	招牌；標誌	⠎⠊⠛⠝
 friendly	（某處）令人愉快的	⠋⠗⠇⠽

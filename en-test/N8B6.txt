@@ -36,6 +36,7 @@ protector	n. 保護者	⠏⠗⠕⠞⠑⠉⠞⠕⠗
 tradition	n. 傳統	⠞⠗⠁⠙⠊⠰⠝
 honor	n. 榮譽	⠓⠕⠝⠕⠗
 safe and sound	phr. 安然無恙	⠎⠁⠋⠑⠀⠯⠀⠎⠨⠙
-leave	v. 離開（過去式為left）	⠇⠂⠧⠑
+leave	v. 離開	⠇⠂⠧⠑
+left	v. 離開（過去式）	⠇⠑⠋⠞
 order	v./n. 命令	⠕⠗⠙⠻
 full-time	adj. 全職的	⠋⠥⠇⠇⠤⠐⠞

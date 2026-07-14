@@ -25,4 +25,5 @@ successfully	adv. 成功地（successful的副詞變化）	⠎⠥⠒⠑⠎⠎⠰
 seed	n. 種子；籽	⠎⠑⠫
 abroad	adv. 到國外；在國外	⠁⠃⠗⠕⠁⠙
 improve	v. 改善	⠊⠍⠏⠗⠕⠧⠑
-grow	v. 種植（過去式為grew）	⠛⠗⠪
+grow	v. 種植	⠛⠗⠪
+grew	v. 種植（過去式）	⠛⠗⠑⠺

@@ -28,7 +28,8 @@ terrible	可怕的；糟糕的	⠞⠻⠗⠊⠃⠇⠑
 how often	多常	⠓⠪⠀⠷⠞⠢
 cellphone	手機	⠉⠑⠇⠇⠏⠓⠐⠕
 following	下列事物（或人員）	⠋⠕⠇⠇⠪⠬
-may / might	可能；也許	⠍⠁⠽⠀⠸⠌⠀⠍⠊⠣⠞
+may	可能；也許	⠍⠁⠽
+might	可能；也許（過去式）	⠍⠊⠣⠞
 change	改變	⠡⠁⠝⠛⠑
 more	更多的	⠍
 germ	細菌	⠛⠻⠍

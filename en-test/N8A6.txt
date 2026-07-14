@@ -35,7 +35,8 @@ fail	v. 失敗；未能做到	⠋⠁⠊⠇
 order	n. 訂單；訂購	⠕⠗⠙⠻
 leader	n. 領導者	⠇⠂⠙⠻
 heart	n. 內心；心臟	⠓⠑⠜⠞
-forget	v. 忘記（過去式為forgot）	⠿⠛⠑⠞
+forget	v. 忘記	⠿⠛⠑⠞
+forgot	v. 忘記（過去式）	⠿⠛⠕⠞
 lesson	n. 教訓	⠇⠑⠎⠎⠕⠝
 case	n. 事件；情況	⠉⠁⠎⠑
 careful	adj. 小心的	⠉⠜⠑⠰⠇

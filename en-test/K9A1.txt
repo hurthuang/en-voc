@@ -4,7 +4,8 @@ topic	n. 主題	⠞⠕⠏⠊⠉
 hairdryer	n. 吹風機（=hair dryer）	⠓⠁⠊⠗⠙⠗⠽⠻
 yet	adv. 還（沒）；尚（未）	⠽⠑⠞
 century	n. 世紀	⠉⠢⠞⠥⠗⠽
-freeze/froze	v. 凍結；結冰	⠋⠗⠑⠑⠵⠑⠸⠌⠋⠗⠕⠵⠑
+freeze	v. 凍結；結冰	⠋⠗⠑⠑⠵⠑
+froze	v. 凍結；結冰（過去式）	⠋⠗⠕⠵⠑
 potato	n. 馬鈴薯	⠏⠕⠞⠁⠞⠕
 stick	n. 枝條	⠌⠊⠉⠅
 American	adj.;n. 美國的；美國人	⠠⠁⠍⠻⠊⠉⠁⠝

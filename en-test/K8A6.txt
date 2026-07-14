@@ -9,8 +9,10 @@ north	n.;adj.;adv. 北方（的）；朝北	⠝⠕⠗⠹
 west	n.;adj.;adv. 西方（的）；朝西	⠺⠑⠌
 south	n.;adj.;adv. 南方（的）；朝南	⠎⠳⠹
 east	n.;adj.;adv. 東方（的）；朝東	⠑⠁⠌
-drive/drove	v. 駕駛（車）	⠙⠗⠊⠧⠑⠸⠌⠙⠗⠕⠧⠑
-ride/rode	v.;n. 騎（車；馬）；搭乘	⠗⠊⠙⠑⠸⠌⠗⠕⠙⠑
+drive	v. 駕駛（車）	⠙⠗⠊⠧⠑
+drove	v. 駕駛（車）（過去式）	⠙⠗⠕⠧⠑
+ride	v.;n. 騎（車；馬）；搭乘	⠗⠊⠙⠑
+rode	v.;n. 騎（車；馬）；搭乘（過去式）	⠗⠕⠙⠑
 row	v. 划（船）	⠗⠪
 Excuse me.	不好意思。	⠠⠑⠭⠉⠥⠎⠑⠀⠍⠑⠲
 sir	n. 先生	⠎⠊⠗
@@ -22,7 +24,8 @@ across from	在⋯⋯對面	⠁⠉⠗⠀⠋
 bottom	n.;adj. 底部（的）	⠃⠕⠞⠞⠕⠍
 rule	n. 規定	⠗⠥⠇⠑
 broken	adj. 破損的	⠃⠗⠕⠅⠢
-shake/shook hands	握手	⠩⠁⠅⠑⠸⠌⠩⠕⠕⠅⠀⠓⠯⠎
+shake hands	握手	⠩⠁⠅⠑⠀⠓⠯⠎
+shook hands	握手（過去式）	⠩⠕⠕⠅⠀⠓⠯⠎
 favorite	adj. 最喜愛的	⠋⠁⠧⠕⠗⠊⠞⠑
 pocket	n. 口袋	⠏⠕⠉⠅⠑⠞
 monster	n. 怪獸	⠍⠕⠝⠌⠻

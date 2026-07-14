@@ -9,25 +9,30 @@ pull	拉；抽出	⠏⠥⠇⠇
 push	推；按	⠏⠥⠩
 rich	富有的；豐富的	⠗⠊⠡
 deep	深的	⠙⠑⠑⠏
-hold / held on	緊緊抓牢；堅持下去	⠓⠕⠇⠙⠀⠸⠌⠀⠓⠑⠇⠙⠀⠕⠝
+hold on	緊緊抓牢；堅持下去	⠓⠕⠇⠙⠀⠕⠝
+held on	緊緊抓牢；堅持下去（過去式）	⠓⠑⠇⠙⠀⠕⠝
 abroad	在國外	⠁⠃⠗⠕⠁⠙
 dangerous	危險的	⠙⠁⠝⠛⠻⠳⠎
 moment	時刻	⠍⠕⠰⠞
-hear / heard	聽到	⠓⠑⠜⠀⠸⠌⠀⠓⠑⠜⠙
+hear	聽到	⠓⠑⠜
+heard	聽到（過去式）	⠓⠑⠜⠙
 someone (somebody)	某人	⠐⠎⠐⠕
 scary	嚇人的	⠎⠉⠜⠽
-fall / fell off	（從⋯⋯）掉下	⠋⠁⠇⠇⠀⠸⠌⠀⠋⠑⠇⠇⠀⠷⠋
-cut / cut	割傷；切	⠉⠥⠞⠀⠸⠌⠀⠉⠥⠞
+fall off	（從⋯⋯）掉下	⠋⠁⠇⠇⠀⠷⠋
+fell off	（從⋯⋯）掉下（過去式）	⠋⠑⠇⠇⠀⠷⠋
+cut	割傷；切	⠉⠥⠞
 nothing	沒有事情；沒有東西	⠝⠕⠹⠬
 scene	場景	⠎⠉⠢⠑
 leading	主要的	⠇⠂⠙⠬
 real-life	真實生活中的	⠗⠂⠇⠤⠇⠊⠋⠑
 ever	在任何時候	⠐⠑
-go / went out	（燈、火）熄滅	⠛⠀⠸⠌⠀⠺⠢⠞⠀⠳
+go out	（燈、火）熄滅	⠛⠀⠳
+went out	（燈、火）熄滅（過去式）	⠺⠢⠞⠀⠳
 lesson	教訓；（一節）課	⠇⠑⠎⠎⠕⠝
 land	陸地；降落	⠇⠯
 several	數個的	⠎⠐⠑⠁⠇
-grow / grew	成長；增加	⠛⠗⠪⠀⠸⠌⠀⠛⠗⠑⠺
+grow	成長；增加	⠛⠗⠪
+grew	成長；增加（過去式）	⠛⠗⠑⠺
 gray	灰色的；灰色	⠛⠗⠁⠽
 dozen	一打	⠙⠕⠵⠢
 scared	感到害怕的	⠎⠉⠜⠫

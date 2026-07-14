@@ -19,7 +19,8 @@ camera	n. 攝影機；相機	⠉⠁⠍⠻⠁
 important	adj. 重要的	⠊⠍⠏⠕⠗⠞⠁⠝⠞
 popular	adj. 受歡迎的	⠏⠕⠏⠥⠇⠜
 gift	n. 天分；禮物	⠛⠊⠋⠞
-tell/told	v. 講；告訴	⠞⠑⠇⠇⠸⠌⠞⠕⠇⠙
+tell	v. 講；告訴	⠞⠑⠇⠇
+told	v. 講；告訴（過去式）	⠞⠕⠇⠙
 funny	adj. 好笑的；滑稽的	⠋⠥⠝⠝⠽
 plan	v.;n. 計畫	⠏⠇⠁⠝
 star	n. 明星；星星	⠌⠜
@@ -27,7 +28,8 @@ without	prep. 沒有	⠾⠳⠞
 dream	n.;v. 夢（想）；夢見	⠙⠗⠂⠍
 teenager	n. 青少年	⠞⠑⠢⠁⠛⠻
 exciting	adj. 刺激的；令人興奮的	⠑⠭⠉⠊⠞⠬
-fight/fought	v. 對抗；打架	⠋⠊⠣⠞⠸⠌⠋⠐⠳
+fight	v. 對抗；打架	⠋⠊⠣⠞
+fought	v. 對抗；打架（過去式）	⠋⠐⠳
 one another	彼此	⠐⠕⠀⠁⠝⠕⠮⠗
 money	n. 錢	⠍⠐⠕⠽
 famous	adj. 有名的	⠋⠁⠍⠳⠎

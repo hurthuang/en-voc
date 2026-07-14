@@ -2,13 +2,15 @@ math	n. 數學	⠍⠁⠹
 test	n. 考試；測驗	⠞⠑⠌
 guess	v. 猜；猜測	⠛⠥⠑⠎⠎
 well	int. 嗯；那麼（發語詞）	⠺⠑⠇⠇
-get married	phr. 結婚（過去式為got married）	⠛⠑⠞⠀⠍⠜⠗⠊⠫
+get married	phr. 結婚	⠛⠑⠞⠀⠍⠜⠗⠊⠫
+got married	phr. 結婚（過去式）	⠛⠕⠞⠀⠍⠜⠗⠊⠫
 why	adv. 為什麼	⠱⠽
-sell	v. 賣（過去式為sold）	⠎⠑⠇⠇
+sell	v. 賣	⠎⠑⠇⠇
+sold	v. 賣（過去式）	⠎⠕⠇⠙
 because	conj. 因為	⠆⠉
 poor	adj. 貧窮的；可憐的	⠏⠕⠕⠗
 happen	v. 發生	⠓⠁⠏⠏⠢
-hit	v. 打（過去式為hit）	⠓⠊⠞
+hit	v. 打	⠓⠊⠞
 terrible	adj. 糟糕的	⠞⠻⠗⠊⠃⠇⠑
 ever	adv. 曾經	⠐⠑
 finish	v. 完成	⠋⠔⠊⠩
@@ -17,21 +19,26 @@ curious	adj. 好奇的	⠉⠥⠗⠊⠳⠎
 ending	n. 結局	⠢⠙⠬
 stand	v. 忍受	⠌⠯
 shoe(s)	n. 鞋子	⠩⠕⠑
-buy	v. 購買（過去式為bought）	⠃⠥⠽
+buy	v. 購買	⠃⠥⠽
+bought	v. 購買（過去式）	⠃⠐⠳
 pair	n. 一雙	⠏⠁⠊⠗
 pick	v. 摘採	⠏⠊⠉⠅
 chocolate	n. 巧克力	⠡⠕⠉⠕⠇⠁⠞⠑
-break	v. 折斷；破裂（過去式為broke）	⠃⠗⠂⠅
+break	v. 折斷；破裂	⠃⠗⠂⠅
+broke	v. 折斷；破裂（過去式）	⠃⠗⠕⠅⠑
 arm	n. 手臂	⠜⠍
 computer	n. 電腦	⠉⠕⠍⠏⠥⠞⠻
-choose	v. 選擇（過去式為chose）	⠡⠕⠕⠎⠑
+choose	v. 選擇	⠡⠕⠕⠎⠑
+chose	v. 選擇（過去式）	⠡⠕⠎⠑
 children	n. 小孩（child的複數形）	⠡⠝
 age	n. 年齡	⠁⠛⠑
 without	prep. 沒有	⠾⠳⠞
 baby	n. 嬰兒	⠃⠁⠃⠽
-become	v. 成為；變成（過去式為became）	⠆⠉⠕⠍⠑
+become	v. 成為；變成	⠆⠉⠕⠍⠑
+became	v. 成為；變成（過去式）	⠆⠉⠁⠍⠑
 cry	v. 哭泣	⠉⠗⠽
 nobody	pron. 沒有人	⠝⠕⠃⠕⠙⠽
 scared	adj. 害怕的	⠎⠉⠜⠫
-take action	phr. 採取行動（過去式為took action）	⠞⠁⠅⠑⠀⠁⠉⠰⠝
+take action	phr. 採取行動	⠞⠁⠅⠑⠀⠁⠉⠰⠝
+took action	phr. 採取行動（過去式）	⠞⠕⠕⠅⠀⠁⠉⠰⠝
 marriage	n. 婚姻	⠍⠜⠗⠊⠁⠛⠑

@@ -17,11 +17,15 @@ ocean	海洋	⠕⠉⠂⠝
 turtle	海龜；龜	⠞⠥⠗⠞⠇⠑
 perhaps	也許	⠏⠻⠓
 if	如果	⠊⠋
-take / took action	採取行動	⠞⠁⠅⠑⠀⠸⠌⠀⠞⠕⠕⠅⠀⠁⠉⠰⠝
-though / although	雖然	⠹⠳⠣⠀⠸⠌⠀⠁⠇⠹
-break / broke down	分解	⠃⠗⠂⠅⠀⠸⠌⠀⠃⠗⠕⠅⠑⠀⠙⠪⠝
+take action	採取行動	⠞⠁⠅⠑⠀⠁⠉⠰⠝
+took action	採取行動（過去式）	⠞⠕⠕⠅⠀⠁⠉⠰⠝
+though	雖然	⠹⠳⠣
+although	雖然	⠁⠇⠹
+break down	分解	⠃⠗⠂⠅⠀⠙⠪⠝
+broke down	分解（過去式）	⠃⠗⠕⠅⠑⠀⠙⠪⠝
 correct	正確的；更正	⠉⠕⠗⠗⠑⠉⠞
-feed / fed	餵	⠋⠑⠫⠀⠸⠌⠀⠋⠫
+feed	餵	⠋⠑⠫
+fed	餵（過去式）	⠋⠫
 baby	幼鳥；嬰兒	⠃⠁⠃⠽
 jellyfish	水母	⠚⠑⠇⠇⠽⠋⠊⠩
 die	死亡	⠙⠊⠑

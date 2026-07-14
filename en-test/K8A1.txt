@@ -11,11 +11,13 @@ summer	n. 夏天	⠎⠥⠍⠍⠻
 autumn (fall)	n. 秋天	⠁⠥⠞⠥⠍⠝
 winter	n. 冬天	⠺⠔⠞⠻
 sky	n. 天空	⠎⠅⠽
-feel/felt	v. 感覺	⠋⠑⠑⠇⠸⠌⠋⠑⠇⠞
+feel	v. 感覺	⠋⠑⠑⠇
+felt	v. 感覺（過去式）	⠋⠑⠇⠞
 air	n. 空氣	⠁⠊⠗
 common	adj. 普遍的	⠉⠕⠍⠍⠕⠝
 dark	adj. 黑暗的；深色的	⠙⠜⠅
-forget/forgot	v. 忘記	⠿⠛⠑⠞⠸⠌⠿⠛⠕⠞
+forget	v. 忘記	⠿⠛⠑⠞
+forgot	v. 忘記（過去式）	⠿⠛⠕⠞
 umbrella	n. 雨傘	⠥⠍⠃⠗⠑⠇⠇⠁
 afraid	adj. 害怕的	⠁⠋⠗⠁⠊⠙
 heavy	adj. 大量的；重的	⠓⠂⠧⠽
@@ -25,14 +27,17 @@ under the weather	身體不舒服	⠐⠥⠀⠮⠀⠺⠂⠮⠗
 sea level	n. 海平面	⠎⠑⠁⠀⠇⠑⠧⠑⠇
 danger	n. 危險	⠙⠁⠝⠛⠻
 fix	v. 解決（問題）；修理	⠋⠊⠭
-build/built	v. 建造	⠃⠥⠊⠇⠙⠸⠌⠃⠥⠊⠇⠞
+build	v. 建造	⠃⠥⠊⠇⠙
+built	v. 建造（過去式）	⠃⠥⠊⠇⠞
 far	adv.;adj. 遙遠地；遙遠的	⠋⠜
 fisherman	n. 漁夫	⠋⠊⠩⠻⠍⠁⠝
-become/became	v. 變成	⠆⠉⠕⠍⠑⠸⠌⠃⠑⠉⠁⠍⠑
+become	v. 變成	⠆⠉⠕⠍⠑
+became	v. 變成（過去式）	⠆⠉⠁⠍⠑
 cry	v. 哭泣	⠉⠗⠽
 live	v. 生活；居住	⠇⠊⠧⠑
 safe	adj. 安全的	⠎⠁⠋⠑
 protect	v. 保護	⠏⠗⠕⠞⠑⠉⠞
 nature	n. 大自然	⠝⠁⠞⠥⠗⠑
 above	adv.;prep. 在上面；在⋯⋯上面	⠁⠃⠧
-lead/led to	導致	⠇⠂⠙⠸⠌⠇⠫⠀⠞⠕
+lead to	導致	⠇⠂⠙⠀⠞⠕
+led to	導致（過去式）	⠇⠫⠀⠞⠕

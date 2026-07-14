@@ -8,22 +8,25 @@ knee	n. 膝蓋	⠅⠝⠑⠑
 leg	n. 腿	⠇⠑⠛
 toe	n. 腳趾	⠞⠕⠑
 neck	n. 脖子	⠝⠑⠉⠅
-catch/caught a cold	感冒	⠉⠁⠞⠡⠸⠌⠉⠁⠥⠣⠞⠀⠁⠀⠉⠕⠇⠙
+catch a cold	感冒	⠉⠁⠞⠡⠀⠁⠀⠉⠕⠇⠙
+caught a cold	感冒（過去式）	⠉⠁⠥⠣⠞⠀⠁⠀⠉⠕⠇⠙
 fever	n. 發燒	⠋⠐⠑
 headache	n. 頭痛	⠓⠂⠙⠁⠡⠑
 sore throat	n. 喉嚨痛	⠎⠕⠗⠑⠀⠹⠗⠕⠁⠞
 stay	v.;n. 停留	⠌⠁⠽
 mask	n. 口罩；面具	⠍⠁⠎⠅
 call	v.;n. 打電話；呼喊	⠉⠁⠇⠇
-speak/spoke	v. 說話；講	⠎⠏⠂⠅⠸⠌⠎⠏⠕⠅⠑
-send/sent	v. 寄；送	⠎⠢⠙⠸⠌⠎⠢⠞
+speak	v. 說話；講	⠎⠏⠂⠅
+spoke	v. 說話；講（過去式）	⠎⠏⠕⠅⠑
+send	v. 寄；送	⠎⠢⠙
+sent	v. 寄；送（過去式）	⠎⠢⠞
 message	n. 訊息	⠍⠑⠎⠎⠁⠛⠑
 why	adv. 為什麼	⠱⠽
 because	conj. 因為	⠆⠉
 country	n. 國家；鄉間	⠉⠨⠞⠗⠽
 serious	adj. 嚴重的；認真的	⠎⠻⠊⠳⠎
 health	n. 健康	⠓⠂⠇⠹
-hurt/hurt	v.;adj. 疼痛；受傷的	⠓⠥⠗⠞⠸⠌⠓⠥⠗⠞
+hurt	v.;adj. 疼痛；受傷的	⠓⠥⠗⠞
 ice cream	n. 冰淇淋	⠊⠉⠑⠀⠉⠗⠂⠍
 so	conj. 所以	⠎
 too bad	太糟了	⠞⠕⠕⠀⠃⠁⠙
