@@ -1,4 +1,4 @@
-// 單字測驗 app 的本機靜態伺服器。因為 jvpc-05.htm 用 fetch() 讀 .txt 檔，
+// 單字測驗 app 的本機靜態伺服器。因為 index.html 用 fetch() 讀 .txt 檔，
 // 直接用瀏覽器開啟 file:// 會被擋，所以需要透過 http 伺服器來開啟。
 'use strict';
 const http = require('http');
@@ -17,7 +17,7 @@ const MIME = {
 http
   .createServer((req, res) => {
     let p = decodeURIComponent(req.url.split('?')[0]);
-    if (p === '/') p = '/jvpc-05.htm';
+    if (p === '/') p = '/index.html';
     const filePath = path.join(ROOT, p);
     fs.readFile(filePath, (err, data) => {
       if (err) {
@@ -31,6 +31,6 @@ http
     });
   })
   .listen(PORT, () => {
-    console.log(`單字測驗伺服器已啟動：http://localhost:${PORT}/jvpc-05.htm`);
+    console.log(`單字測驗伺服器已啟動：http://localhost:${PORT}/`);
     console.log('關閉這個視窗即可停止伺服器。');
   });
