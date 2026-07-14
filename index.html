@@ -3144,7 +3144,7 @@
             const m = text.match(POS_SPEECH_RE);
             if (!m) return text;
             const posNames = m[1].split(/[;/]/).map((p) => POS_FULL_NAMES[p.replace('.', '')] || p);
-            return posNames.join('、') + '　' + m[2];
+            return posNames.join('、') + '，' + m[2];
         }
 
         // 修改後的說話函數，解決卡死問題
