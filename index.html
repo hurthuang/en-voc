@@ -3210,7 +3210,7 @@
                     questionCount = 0;
                     isTestCompleted = false;
                     
-                    testVocabulary = [...vocabulary];
+                    testVocabulary = shuffleArray([...vocabulary]);
                     currentIndex = 0;
                     
                     document.getElementById('questionCount').textContent = '0';
@@ -3385,7 +3385,7 @@ async function checkAnswer() {
                     e.preventDefault();
                     return;
                 }
-                if (![37, 39, 8, 9, 46, 13].includes(e.keyCode)) {
+                if (![37, 39, 8, 9, 46, 13, 35, 36].includes(e.keyCode)) {
                     if (e.keyCode === 83) { dots[0] = 1; brailleCode |= 4; }
                     else if (e.keyCode === 68) { dots[1] = 1; brailleCode |= 2; }
                     else if (e.keyCode === 70) { dots[2] = 1; brailleCode |= 1; }
@@ -3424,7 +3424,7 @@ async function checkAnswer() {
 
         document.addEventListener('keypress', (e) => {
             if (isBrailleMode) {
-                if ([37, 39, 8, 9, 46].includes(e.keyCode)) return true;
+                if ([37, 39, 8, 9, 46, 35, 36].includes(e.keyCode)) return true;
                 if (e.keyCode === 13 || e.keyCode === 59) {
                     e.preventDefault();
                     checkAnswer();
