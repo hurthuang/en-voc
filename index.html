@@ -43,10 +43,22 @@
             transition: background-color 0.3s, color 0.3s;
         }
         .container {
+            position: relative;
             background-color: var(--container-bg);
             padding: 20px;
             border-radius: 10px;
             box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        #theme-toggle {
+            position: absolute;
+            top: 12px;
+            right: 16px;
+            font-size: 20px;
+            line-height: 1;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 4px;
         }
         .word-display {
             margin: 20px 0;
@@ -155,16 +167,9 @@
 <body>
     <div class="container">
         <h1>單字練習</h1>
-        
-        <div class="controls">
-            <div class="checkbox-wrapper" style="margin-bottom: 15px; border-bottom: 1px dashed var(--input-border); padding-bottom: 10px;">
-                <label for="theme-select">色彩主題：</label>
-                <select id="theme-select" class="selector">
-                    <option value="light">白底黑字</option>
-                    <option value="dark">黑底白字</option>
-                </select>
-            </div>
+        <button id="theme-toggle" title="切換深色/淺色主題" aria-label="切換深色/淺色主題">🌙</button>
 
+        <div class="controls">
             <div class="checkbox-wrapper" style="margin-bottom: 15px; border-bottom: 1px dashed var(--input-border); padding-bottom: 10px;">
                 <label for="stage-select">教育階段：</label>
                 <select id="stage-select" class="selector">
@@ -2939,13 +2944,10 @@
             // 交由使用者按下對應的「選擇」按鈕才觸發載入。
         });
 
-        // 主題切換邏輯
-        document.getElementById('theme-select').addEventListener('change', (e) => {
-            if (e.target.value === 'dark') {
-                document.body.classList.add('dark-mode');
-            } else {
-                document.body.classList.remove('dark-mode');
-            }
+        // 主題切換邏輯：圖示顯示「按下去會切換成的主題」（淺色模式顯示🌙代表可切成深色，反之顯示☀️）
+        document.getElementById('theme-toggle').addEventListener('click', () => {
+            const isDark = document.body.classList.toggle('dark-mode');
+            document.getElementById('theme-toggle').textContent = isDark ? '☀️' : '🌙';
         });
 
         function ensureCaretVisible(inputEl) {
