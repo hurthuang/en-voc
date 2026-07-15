@@ -4,5 +4,5 @@ Spell the word "cat."	拼出「貓」這個字。	⠠⠎⠏⠑⠇⠇⠀⠮⠀⠘
 Write down the word "cat."	寫下「貓」這個字。	⠠⠺⠗⠊⠞⠑⠀⠙⠪⠝⠀⠮⠀⠘⠺⠦⠉⠁⠞⠲⠴
 Please turn to page 25.	請翻到第二十五頁。	⠠⠏⠇⠂⠎⠑⠀⠞⠥⠗⠝⠀⠞⠕⠀⠏⠁⠛⠑⠀⠼⠃⠑⠲
 It's your turn.	換你了。	⠠⠭⠄⠎⠀⠽⠗⠀⠞⠥⠗⠝⠲
-May I go to the restroom?	請問我可以去廁所嗎？	⠠⠍⠁⠽⠀⠠⠊⠀⠛⠀⠞⠕⠀⠮⠀⠗⠑⠌⠗⠕⠕⠍⠀⠰⠦
-May I come in?	請問我可以進來嗎？	⠠⠍⠁⠽⠀⠠⠊⠀⠉⠕⠍⠑⠀⠔⠀⠰⠦
+May I go to the restroom?	請問我可以去廁所嗎？	⠠⠍⠁⠽⠀⠠⠊⠀⠛⠀⠞⠕⠀⠮⠀⠗⠑⠌⠗⠕⠕⠍⠦
+May I come in?	請問我可以進來嗎？	⠠⠍⠁⠽⠀⠠⠊⠀⠉⠕⠍⠑⠀⠔⠦

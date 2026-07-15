@@ -13,7 +13,7 @@ end	n.;v. 結尾；結束	⠢⠙
 whose	adj.;pron. 誰的	⠘⠱
 camera	n. 相機	⠉⠁⠍⠻⠁
 mine	pron. 我的（東西）	⠍⠔⠑
-What's up?	怎麼了？	⠠⠱⠁⠞⠄⠎⠀⠥⠏⠀⠰⠦
+What's up?	怎麼了？	⠠⠱⠁⠞⠄⠎⠀⠥⠏⠦
 when	conj. 當…	⠱⠢
 back	adv. 返回	⠃⠁⠉⠅
 sign up	報名參加	⠎⠊⠛⠝⠀⠥⠏

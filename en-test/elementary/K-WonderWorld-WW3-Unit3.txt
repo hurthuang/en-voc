@@ -10,5 +10,5 @@ rob	搶劫	⠗⠕⠃
 code	代碼	⠉⠕⠙⠑
 hope	希望	⠓⠕⠏⠑
 robe	長袍	⠗⠕⠃⠑
-What happened?	發生什麼事？	⠠⠱⠁⠞⠀⠓⠁⠏⠏⠢⠫⠀⠰⠦
+What happened?	發生什麼事？	⠠⠱⠁⠞⠀⠓⠁⠏⠏⠢⠫⠦
 Nice!	太好了！	⠠⠝⠊⠉⠑⠖

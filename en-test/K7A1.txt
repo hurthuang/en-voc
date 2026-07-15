@@ -1,6 +1,6 @@
 thank	v. 感謝	⠹⠁⠝⠅
 name	n. 名字	⠐⠝
-How old...?	⋯⋯幾歲？	⠠⠓⠪⠀⠕⠇⠙⠲⠲⠲⠰⠦
+How old...?	⋯⋯幾歲？	⠠⠓⠪⠀⠕⠇⠙⠲⠲⠲⠦
 year(s) old	⋯⋯歲	⠽⠑⠜⠀⠕⠇⠙
 family	n. 家人；家庭	⠋⠁⠍⠊⠇⠽
 husband	n. 丈夫	⠓⠥⠎⠃⠯

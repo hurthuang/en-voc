@@ -134,12 +134,18 @@ const TRAILING_PUNCT_RE = /([a-z0-9])([.,!?;:'"’”)\]]+)(?![a-zA-Z0-9])/g;
 // 這幾個字元是空白格緊貼在標點格前面時要拿掉的標點格（句號、逗號、驚嘆號、問號、
 // 分號、冒號、句中撇號、右引號、連字號）——正常英文/UEB文字不會有「空白＋標點」
 // 這種排列，所以看到這個排列就是我們自己塞的，可以放心拿掉。
+// 問號／分號還有額外副作用：空白緊貼問號/分號時，liblouis 會多插入一個 ⠰ 指示格
+// （例如 "it ?" 會變成 ⠭⠀⠰⠦，而不是 ⠭⠦）；如果標點是「連續好幾個符號」（如省略號
+// 加問號 "...?"），這個 ⠰ 會出現在最後、緊貼問號前面，中間隔著省略號的點格，不會
+// 直接貼著我們插入的空白格，所以要先把 ⠰ 拿掉（不管前面貼著什麼），再拿掉空白格
+// （這時候空白格才會露出來貼著標點格），順序不能反過來，不然會漏刪。
+const SPURIOUS_INDICATOR_RE = /⠰(?=[⠦⠆])/g;
 const PUNCT_CELLS_RE = /⠀(?=[⠲⠂⠖⠦⠆⠒⠄⠴⠤])/g;
 
 function translateFixed(text) {
     const modified = text.replace(TRAILING_PUNCT_RE, '$1 $2');
     const raw = LOU.translate(modified);
-    return raw ? raw.replace(PUNCT_CELLS_RE, '') : raw;
+    return raw ? raw.replace(SPURIOUS_INDICATOR_RE, '').replace(PUNCT_CELLS_RE, '') : raw;
 }
 
 window.__batchTranslate = async function(words) {

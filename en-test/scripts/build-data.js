@@ -10,7 +10,7 @@ const ELEM_DIR = path.join(EN_TEST, 'elementary');
 
 // ---------- 共用：單字項目解析 ----------
 
-const POS_TAGS = ['n', 'v', 'vt', 'vi', 'adj', 'adv', 'prep', 'conj', 'pron', 'int', 'det', 'aux', 'abbr', 'phr'];
+const POS_TAGS = ['n', 'v', 'vt', 'vi', 'adj', 'adv', 'prep', 'conj', 'pron', 'int', 'det', 'aux', 'abbr', 'phr', 'idiom'];
 const POS_ALT = POS_TAGS.join('|');
 // 抓字串結尾的詞性標記（可能是 "n." 或 "adj.;pron." 這種複合形式，
 // 南一資料裡少數幾筆用「/」不是「；」分隔，如 "v./n."、"n./adv."，兩種分隔號都要接受），

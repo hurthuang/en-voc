@@ -1,6 +1,6 @@
 Let's count.	我們來數一數。	⠠⠇⠑⠞⠄⠎⠀⠉⠨⠞⠲
 Let's clean up.	我們來打掃吧。	⠠⠇⠑⠞⠄⠎⠀⠉⠇⠂⠝⠀⠥⠏⠲
-Any questions?	有任何問題嗎？	⠠⠁⠝⠽⠀⠐⠟⠎⠀⠰⠦
+Any questions?	有任何問題嗎？	⠠⠁⠝⠽⠀⠐⠟⠎⠦
 It's your turn.	輪到你了。	⠠⠭⠄⠎⠀⠽⠗⠀⠞⠥⠗⠝⠲
 It's time for class.	上課了。	⠠⠭⠄⠎⠀⠐⠞⠀⠿⠀⠉⠇⠁⠎⠎⠲
 It's time for lunch.	午餐時間到了。	⠠⠭⠄⠎⠀⠐⠞⠀⠿⠀⠇⠥⠝⠡⠲
