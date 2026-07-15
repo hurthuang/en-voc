@@ -1,4 +1,4 @@
 reduce	減少	⠗⠫⠥⠉⠑
 reuse	重複使用	⠗⠑⠥⠎⠑
 recycle	回收	⠗⠑⠉⠽⠉⠇⠑
-Earth	地球	⠑⠜⠹
+Earth	地球	⠠⠑⠜⠹

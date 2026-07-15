@@ -201,7 +201,19 @@ function parseJuniorMd(mdPath, pub) {
 // 舊 K*.txt 殘留的人工點字碼當第二層備援，理論上liblouis 已經涵蓋全部單字，備援層很少會用到。
 
 function buildBrailleLookup() {
-  const map = new Map();
+  // `exact`：保留原始大小寫當 key，查得到就一定要用這個（大寫專有名詞如 God 需要
+  // 開頭的大寫指示格 ⠠，跟小寫同形字 god 的點字碼不一樣，不能混在一起）。
+  // `lower`：全部轉小寫當 key 的備援索引，只有 exact 查不到才會退而求其次用這個
+  // （例如題庫裡的字剛好跟字典裡登記的大小寫不同時）。
+  const exact = new Map();
+  const lower = new Map();
+
+  function add(en, braille) {
+    if (!en || !braille) return;
+    if (!exact.has(en)) exact.set(en, braille);
+    const lc = en.toLowerCase();
+    if (!lower.has(lc)) lower.set(lc, braille);
+  }
 
   // 第二層備援：舊檔殘留的人工點字碼（優先權較低，稍後會被 liblouis 表覆蓋）
   const files = fs.readdirSync(EN_TEST).filter((f) => /^[A-Z]\d[AB]\d\.txt$/.test(f));
@@ -209,11 +221,7 @@ function buildBrailleLookup() {
     const text = fs.readFileSync(path.join(EN_TEST, f), 'utf8');
     for (const line of text.split('\n')) {
       const parts = line.split('\t');
-      if (parts.length >= 3) {
-        const en = parts[0].trim().toLowerCase();
-        const braille = parts[2].trim();
-        if (en && braille && !map.has(en)) map.set(en, braille);
-      }
+      if (parts.length >= 3) add(parts[0].trim(), parts[2].trim());
     }
   }
 
@@ -222,13 +230,15 @@ function buildBrailleLookup() {
   if (fs.existsSync(uebPath)) {
     const ueb = JSON.parse(fs.readFileSync(uebPath, 'utf8'));
     for (const [en, braille] of Object.entries(ueb)) {
-      if (braille) map.set(en.toLowerCase(), braille);
+      if (!braille) continue;
+      exact.set(en, braille);
+      lower.set(en.toLowerCase(), braille);
     }
   } else {
     console.warn('找不到 braille-ueb-g2.generated.json，只會用舊檔殘留的點字碼');
   }
 
-  return map;
+  return { exact, lower };
 }
 
 // 跟 jvpc-05.htm 載入題庫時對 english/chinese 欄位做的處理完全一樣
@@ -239,10 +249,12 @@ function stripParens(s) {
   return s.replace(/（.*?）/g, '').replace(/\(.*?\)/g, '').trim();
 }
 
-function writeVocabFile(filePath, items, brailleMap) {
+function writeVocabFile(filePath, items, brailleLookup) {
   const lines = items.map((it) => {
     const displayEnglish = stripParens(it.english);
-    const braille = brailleMap ? brailleMap.get(displayEnglish.toLowerCase()) || '' : '';
+    const braille = brailleLookup
+      ? brailleLookup.exact.get(displayEnglish) || brailleLookup.lower.get(displayEnglish.toLowerCase()) || ''
+      : '';
     return [it.english, it.meaning, braille].join('\t');
   });
   fs.writeFileSync(filePath, lines.join('\n') + '\n', 'utf8');
@@ -436,7 +448,7 @@ function main() {
 
   // 1) 點字碼對照表：liblouis UEB G2 權威表 + 舊檔殘留碼備援（在覆寫任何檔案之前先讀）
   const brailleMap = buildBrailleLookup();
-  console.log(`點字碼對照表：共 ${brailleMap.size} 筆`);
+  console.log(`點字碼對照表：共 ${brailleMap.exact.size} 筆`);
 
   // 2) 國中
   const juniorSources = [

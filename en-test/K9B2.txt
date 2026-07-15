@@ -17,7 +17,7 @@ hunt	n.;v. 搜尋；打獵	⠓⠥⠝⠞
 traffic	n. 交通	⠞⠗⠁⠖⠊⠉
 lend	v. 借（出）	⠇⠢⠙
 borrow	v. 借（入）	⠃⠕⠗⠗⠪
-God	n. 上帝；神	⠛⠕⠙
+God	n. 上帝；神	⠠⠛⠕⠙
 umbrella	n. 雨傘	⠥⠍⠃⠗⠑⠇⠇⠁
 mud	n. 土；泥土	⠍⠥⠙
 towel	n. 毛巾	⠞⠪⠑⠇

@@ -1,7 +1,7 @@
 coin	硬幣	⠉⠕⠔
 boy	男孩	⠃⠕⠽
 noise	噪音	⠝⠕⠊⠎⠑
-Joy	（女子名）	⠚⠕⠽
+Joy	（女子名）	⠠⠚⠕⠽
 oil	油	⠕⠊⠇
 soybean	黃豆	⠎⠕⠽⠃⠂⠝
 point	指向	⠏⠕⠔⠞

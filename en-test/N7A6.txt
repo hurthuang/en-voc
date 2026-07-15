@@ -1,5 +1,5 @@
 attack	v. 攻擊	⠁⠞⠞⠁⠉⠅
-Earth	n. 地球	⠑⠜⠹
+Earth	n. 地球	⠠⠑⠜⠹
 member	n. 成員	⠍⠑⠍⠃⠻
 move	v. 移動	⠍⠕⠧⠑
 anything	pron. 任何事情	⠁⠝⠽⠹⠬
