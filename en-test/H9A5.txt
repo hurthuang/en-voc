@@ -38,7 +38,7 @@ knowledge	n. 知識	⠅
 public	n.;adj. 公眾（的）	⠏⠥⠃⠇⠊⠉
 take over	接管	⠞⠁⠅⠑⠀⠕⠧⠻
 key	n.;adj. 關鍵（的）	⠅⠑⠽
-comic book convention	n. 漫畫展（＝comic con）	⠉⠕⠍⠊⠉⠀⠃⠕⠕⠅⠒⠧⠢⠰⠝
+comic book convention	n. 漫畫展（＝comic con）	⠉⠕⠍⠊⠉⠀⠃⠕⠕⠅⠀⠒⠧⠢⠰⠝
 booth	n. 攤位	⠃⠕⠕⠹
 character	n. 角色	⠐⠡
 hug	n.;v. 擁抱	⠓⠥⠛

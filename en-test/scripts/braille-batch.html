@@ -126,26 +126,62 @@ const LOU = (() => {
 // 要求「後面還要有一個字元」才會生效；當這個字直接貼著標點（沒有空白）出現時，這個
 // 條件就無法成立，縮寫會失效、退化成逐字母拼寫（例如 "I get it." 的 it 應該是 ⠭，
 // 卻拼成 ⠊⠞；"about..." 的 about 應該是 ⠁⠃，卻多拼出 ⠳⠞）。這是 liblouis/這份表格
-// 本身的行為，不是我們資料的問題；用「標點前先插入空白讓規則條件成立，翻譯完再把多
-// 插的空白格拿掉」來繞過。只在標點前是小寫字母/數字時才套用——測試過對所有情況
-// （含大寫）套用會讓 "OK?" 這種全大寫縮寫詞後面多出不必要的字母指示格，是原本規則
-// 沒有的副作用，所以刻意排除大寫，避免引入新問題。
+// 本身的行為，不是我們資料的問題。只在標點前是小寫字母/數字時才處理——大寫縮寫詞
+// （如 OK）沒有這個問題，不需要處理。
 const TRAILING_PUNCT_RE = /([a-z0-9])([.,!?;:'"’”)\]]+)(?![a-zA-Z0-9])/g;
-// 這幾個字元是空白格緊貼在標點格前面時要拿掉的標點格（句號、逗號、驚嘆號、問號、
-// 分號、冒號、句中撇號、右引號、連字號）——正常英文/UEB文字不會有「空白＋標點」
-// 這種排列，所以看到這個排列就是我們自己塞的，可以放心拿掉。
-// 問號／分號還有額外副作用：空白緊貼問號/分號時，liblouis 會多插入一個 ⠰ 指示格
-// （例如 "it ?" 會變成 ⠭⠀⠰⠦，而不是 ⠭⠦）；如果標點是「連續好幾個符號」（如省略號
-// 加問號 "...?"），這個 ⠰ 會出現在最後、緊貼問號前面，中間隔著省略號的點格，不會
-// 直接貼著我們插入的空白格，所以要先把 ⠰ 拿掉（不管前面貼著什麼），再拿掉空白格
-// （這時候空白格才會露出來貼著標點格），順序不能反過來，不然會漏刪。
-const SPURIOUS_INDICATOR_RE = /⠰(?=[⠦⠆])/g;
-const PUNCT_CELLS_RE = /⠀(?=[⠲⠂⠖⠦⠆⠒⠄⠴⠤])/g;
+
+// 修法：曾經試過「標點前插入空白讓縮寫規則生效，翻譯完再用字串比對把多插入的
+// 空白/副作用清掉」，但這招不安全——事後比對點字輸出去猜「這格是不是標點」
+// 一定會誤判，因為同一個點字樣式在不同字裡意義不同（例如 ⠒ 通常是冒號，但也是
+// "convention" 開頭 con- 這個縮寫的樣式，會讓清理規則誤判、把前面合法的空白格
+// 也一起吃掉，見 issue：翰林9上5 "comic book convention" 的 book/convention
+// 中間空白被吃掉）。
+//
+// 改成完全不同的作法：把字串從「縮寫字緊貼標點」的地方切開，切成好幾段，每段
+// 各自獨立丟給 liblouis 翻譯（單獨翻譯時，這個字就是這段結尾，縮寫規則自然會
+// 生效，不需要額外插入任何字元），再把每段翻譯結果直接接起來，中間不額外插入
+// 任何空白（原文這裡本來就沒有空白）。這樣完全不需要對翻譯出來的點字字串做任何
+// 猜測性的樣式比對，就不會有「誤判成標點」的風險。
+//
+// 例外：切出來的「純標點」那一段，如果是問號或分號結尾（? ;），孤立翻譯本身不可靠
+// ——liblouis 需要「前面貼著別的東西」才會給正確樣式，孤立翻譯反而會多出一個 ⠰
+// 指示格（例如單獨的 "?" 會翻成 "⠰⠦" 而非 "⠦"）。這種情況一樣用「前面加空白讓
+// 翻譯正常、再把加的空白跟多出來的指示格拿掉」來處理，但範圍只限定在「這一小段
+// 純標點自己的翻譯結果」內處理，不會去比對其他段落或整段組合後的輸出，所以不會
+// 有波及到別的字的風險。句號、逗號、驚嘆號沒有這個問題，孤立翻譯就是乾淨的。
+const PURE_PUNCT_RE = /^[.,!?;:'"’”)\]]+$/;
 
 function translateFixed(text) {
-    const modified = text.replace(TRAILING_PUNCT_RE, '$1 $2');
-    const raw = LOU.translate(modified);
-    return raw ? raw.replace(SPURIOUS_INDICATOR_RE, '').replace(PUNCT_CELLS_RE, '') : raw;
+    // 雙引號需要「這裡有沒有先出現過開引號」的跨字元狀態才能正確判斷是開引號還是
+    // 閉引號（例如 "cat." 結尾的右引號要知道前面配對的左引號才會翻對），把字串切開
+    // 分段翻譯會弄丟這個狀態、翻錯。資料裡含雙引號的句子（"Circle/Point to/Spell/
+    // Write the word "cat."" 這幾筆），引號前面的字（cat／bag）本來就不是會受這個
+    // bug 影響的縮寫字，不需要切段處理，直接整句丟給 liblouis 翻就好。
+    if (text.includes('"')) return LOU.translate(text);
+
+    const matches = [...text.matchAll(TRAILING_PUNCT_RE)];
+    if (matches.length === 0) return LOU.translate(text);
+
+    const segments = [];
+    let cursor = 0;
+    for (const m of matches) {
+        const wordEnd = m.index + m[1].length; // 切到「字」的最後一個字元為止（不含標點）
+        segments.push(text.slice(cursor, wordEnd));
+        cursor = wordEnd;
+    }
+    segments.push(text.slice(cursor));
+
+    return segments
+        .map((seg, i) => {
+            if (!seg) return '';
+            if (i > 0 && PURE_PUNCT_RE.test(seg)) {
+                let out = LOU.translate(' ' + seg) || '';
+                out = out.replace(/^⠀/, '').replace(/⠰(?=[⠦⠆]$)/, '');
+                return out;
+            }
+            return LOU.translate(seg) || '';
+        })
+        .join('');
 }
 
 window.__batchTranslate = async function(words) {

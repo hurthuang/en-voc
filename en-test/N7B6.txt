@@ -40,5 +40,5 @@ sleigh	n. 雪橇	⠎⠇⠑⠊⠣
 mate	n. 夥伴	⠍⠁⠞⠑
 weekday	n. 平日	⠺⠑⠑⠅⠐⠙
 train	n. 火車	⠞⠗⠁⠔
-stand in ... way	phr. 阻礙……	⠌⠯⠀⠔⠲⠲⠲⠀⠺⠁⠽
+stand in ... way	phr. 阻礙……	⠌⠯⠀⠔⠀⠲⠲⠲⠀⠺⠁⠽
 I see.	我懂了。	⠠⠊⠀⠎⠑⠑⠲

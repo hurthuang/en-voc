@@ -25,4 +25,4 @@ coin	硬幣	⠉⠕⠔
 noisy	吵鬧的	⠝⠕⠊⠎⠽
 boy	男孩	⠃⠕⠽
 toy	玩具	⠞⠕⠽
-He has ants in his pants.	他很著急。	⠠⠓⠑⠀⠓⠁⠎⠀⠁⠝⠞⠎⠀⠔⠦⠀⠏⠁⠝⠞⠎⠲
+He has ants in his pants.	他很著急。	⠠⠓⠑⠀⠓⠁⠎⠀⠁⠝⠞⠎⠀⠔⠀⠦⠀⠏⠁⠝⠞⠎⠲
